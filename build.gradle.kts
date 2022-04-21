@@ -5,9 +5,9 @@ plugins {
     signing
 }
 
-description = "Collection of free to use icons in various formats"
+description = "Collection of icons for use in architecture diagrams, documentation and training"
 group = "io.cloudflight.architectureicons"
-version = "0.0.1"
+version = "0.1.0"
 
 repositories {
     mavenCentral()
@@ -59,11 +59,11 @@ publishing {
             pom {
                 name.set(project.name)
                 description.set(project.description)
-                url.set("https://github.com/cloudflightio/architectureicons")
+                url.set("https://github.com/cloudflightio/architecture-icons")
                 licenses {
                     license {
                         name.set("MIT")
-                        url.set("https://github.com/cloudflightio/architectureicons/blob/master/LICENSE")
+                        url.set("https://github.com/cloudflightio/architecture-icons/blob/master/LICENSE")
                     }
                 }
                 inceptionYear.set("2022")
@@ -79,9 +79,9 @@ publishing {
                     }
                 }
                 scm {
-                    connection.set("scm:ggit@github.com:cloudflightio/architectureicons.git")
-                    developerConnection.set("scm:git@github.com:cloudflightio/architectureicons.git")
-                    url.set("https://github.com/cloudflightio/architectureicons")
+                    connection.set("scm:ggit@github.com:cloudflightio/architecture-icons.git")
+                    developerConnection.set("scm:git@github.com:cloudflightio/architecture-icons.git")
+                    url.set("https://github.com/cloudflightio/architecture-icons")
                 }
             }
         }
