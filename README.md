@@ -20,7 +20,9 @@ For each icon you can can get the Base64 representation of the PNG, and optional
 | [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.Weather` | https://erikflowers.github.io/weather-icons/               |
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/cloudflightio/architecture-icons/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/cloudflightio/architecture-icons/blob/master/LICENSE) file for details.
+
+This project bundles different icon libraries, for the use of the icons their respective licenses apply.
 
 # Note
 - All product names, logos, and brands are property of their respective owners. 
