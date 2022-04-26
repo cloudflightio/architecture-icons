@@ -1,0 +1,3150 @@
+{
+    "name": "FontAwesome4",
+    "description": "",
+    "elements": [
+        {
+            "tag": "FontAwesome4-SPRITE_500PX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/500px.png"
+        },
+        {
+            "tag": "FontAwesome4-ADDRESS_BOOK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/address_book.png"
+        },
+        {
+            "tag": "FontAwesome4-ADDRESS_BOOK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/address_book_o.png"
+        },
+        {
+            "tag": "FontAwesome4-ADDRESS_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/address_card.png"
+        },
+        {
+            "tag": "FontAwesome4-ADDRESS_CARD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/address_card_o.png"
+        },
+        {
+            "tag": "FontAwesome4-ADJUST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/adjust.png"
+        },
+        {
+            "tag": "FontAwesome4-ADN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/adn.png"
+        },
+        {
+            "tag": "FontAwesome4-ALIGN_CENTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/align_center.png"
+        },
+        {
+            "tag": "FontAwesome4-ALIGN_JUSTIFY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/align_justify.png"
+        },
+        {
+            "tag": "FontAwesome4-ALIGN_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/align_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ALIGN_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/align_right.png"
+        },
+        {
+            "tag": "FontAwesome4-AMAZON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/amazon.png"
+        },
+        {
+            "tag": "FontAwesome4-AMBULANCE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ambulance.png"
+        },
+        {
+            "tag": "FontAwesome4-AMERICAN_SIGN_LANGUAGE_INTERPRETING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/american_sign_language_interpreting.png"
+        },
+        {
+            "tag": "FontAwesome4-ANCHOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/anchor.png"
+        },
+        {
+            "tag": "FontAwesome4-ANDROID",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/android.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGELLIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angellist.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_DOUBLE_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_double_down.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_DOUBLE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_double_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_DOUBLE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_double_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_DOUBLE_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_double_up.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_down.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ANGLE_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/angle_up.png"
+        },
+        {
+            "tag": "FontAwesome4-APPLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/apple.png"
+        },
+        {
+            "tag": "FontAwesome4-ARCHIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/archive.png"
+        },
+        {
+            "tag": "FontAwesome4-AREA_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/area_chart.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_down.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_O_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_o_down.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_O_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_o_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_O_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_o_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_O_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_o_up.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_CIRCLE_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_circle_up.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_down.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROW_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrow_up.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrows.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROWS_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrows_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROWS_H",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrows_h.png"
+        },
+        {
+            "tag": "FontAwesome4-ARROWS_V",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/arrows_v.png"
+        },
+        {
+            "tag": "FontAwesome4-ASL_INTERPRETING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/asl_interpreting.png"
+        },
+        {
+            "tag": "FontAwesome4-ASSISTIVE_LISTENING_SYSTEMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/assistive_listening_systems.png"
+        },
+        {
+            "tag": "FontAwesome4-ASTERISK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/asterisk.png"
+        },
+        {
+            "tag": "FontAwesome4-AT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/at.png"
+        },
+        {
+            "tag": "FontAwesome4-AUDIO_DESCRIPTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/audio_description.png"
+        },
+        {
+            "tag": "FontAwesome4-AUTOMOBILE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/automobile.png"
+        },
+        {
+            "tag": "FontAwesome4-BACKWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/backward.png"
+        },
+        {
+            "tag": "FontAwesome4-BALANCE_SCALE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/balance_scale.png"
+        },
+        {
+            "tag": "FontAwesome4-BAN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ban.png"
+        },
+        {
+            "tag": "FontAwesome4-BANDCAMP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bandcamp.png"
+        },
+        {
+            "tag": "FontAwesome4-BANK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bank.png"
+        },
+        {
+            "tag": "FontAwesome4-BAR_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bar_chart.png"
+        },
+        {
+            "tag": "FontAwesome4-BAR_CHART_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bar_chart_o.png"
+        },
+        {
+            "tag": "FontAwesome4-BARCODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/barcode.png"
+        },
+        {
+            "tag": "FontAwesome4-BARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bars.png"
+        },
+        {
+            "tag": "FontAwesome4-BATH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bath.png"
+        },
+        {
+            "tag": "FontAwesome4-BATHTUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bathtub.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_0",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_0.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_1.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_2.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_3.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_4.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_EMPTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_empty.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_full.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_HALF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_half.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_QUARTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_quarter.png"
+        },
+        {
+            "tag": "FontAwesome4-BATTERY_THREE_QUARTERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/battery_three_quarters.png"
+        },
+        {
+            "tag": "FontAwesome4-BED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bed.png"
+        },
+        {
+            "tag": "FontAwesome4-BEER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/beer.png"
+        },
+        {
+            "tag": "FontAwesome4-BEHANCE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/behance.png"
+        },
+        {
+            "tag": "FontAwesome4-BEHANCE_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/behance_square.png"
+        },
+        {
+            "tag": "FontAwesome4-BELL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bell.png"
+        },
+        {
+            "tag": "FontAwesome4-BELL_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bell_o.png"
+        },
+        {
+            "tag": "FontAwesome4-BELL_SLASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bell_slash.png"
+        },
+        {
+            "tag": "FontAwesome4-BELL_SLASH_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bell_slash_o.png"
+        },
+        {
+            "tag": "FontAwesome4-BICYCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bicycle.png"
+        },
+        {
+            "tag": "FontAwesome4-BINOCULARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/binoculars.png"
+        },
+        {
+            "tag": "FontAwesome4-BIRTHDAY_CAKE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/birthday_cake.png"
+        },
+        {
+            "tag": "FontAwesome4-BITBUCKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bitbucket.png"
+        },
+        {
+            "tag": "FontAwesome4-BITBUCKET_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bitbucket_square.png"
+        },
+        {
+            "tag": "FontAwesome4-BITCOIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bitcoin.png"
+        },
+        {
+            "tag": "FontAwesome4-BLACK_TIE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/black_tie.png"
+        },
+        {
+            "tag": "FontAwesome4-BLIND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/blind.png"
+        },
+        {
+            "tag": "FontAwesome4-BLUETOOTH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bluetooth.png"
+        },
+        {
+            "tag": "FontAwesome4-BLUETOOTH_B",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bluetooth_b.png"
+        },
+        {
+            "tag": "FontAwesome4-BOLD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bold.png"
+        },
+        {
+            "tag": "FontAwesome4-BOLT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bolt.png"
+        },
+        {
+            "tag": "FontAwesome4-BOMB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bomb.png"
+        },
+        {
+            "tag": "FontAwesome4-BOOK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/book.png"
+        },
+        {
+            "tag": "FontAwesome4-BOOKMARK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bookmark.png"
+        },
+        {
+            "tag": "FontAwesome4-BOOKMARK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bookmark_o.png"
+        },
+        {
+            "tag": "FontAwesome4-BRAILLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/braille.png"
+        },
+        {
+            "tag": "FontAwesome4-BRIEFCASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/briefcase.png"
+        },
+        {
+            "tag": "FontAwesome4-BTC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/btc.png"
+        },
+        {
+            "tag": "FontAwesome4-BUG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bug.png"
+        },
+        {
+            "tag": "FontAwesome4-BUILDING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/building.png"
+        },
+        {
+            "tag": "FontAwesome4-BUILDING_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/building_o.png"
+        },
+        {
+            "tag": "FontAwesome4-BULLHORN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bullhorn.png"
+        },
+        {
+            "tag": "FontAwesome4-BULLSEYE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bullseye.png"
+        },
+        {
+            "tag": "FontAwesome4-BUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/bus.png"
+        },
+        {
+            "tag": "FontAwesome4-BUYSELLADS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/buysellads.png"
+        },
+        {
+            "tag": "FontAwesome4-CAB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cab.png"
+        },
+        {
+            "tag": "FontAwesome4-CALCULATOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calculator.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR_CHECK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar_check_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR_MINUS_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar_minus_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR_PLUS_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar_plus_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CALENDAR_TIMES_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/calendar_times_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/camera.png"
+        },
+        {
+            "tag": "FontAwesome4-CAMERA_RETRO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/camera_retro.png"
+        },
+        {
+            "tag": "FontAwesome4-CAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/car.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_down.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_left.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_right.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_SQUARE_O_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_square_o_down.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_SQUARE_O_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_square_o_left.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_SQUARE_O_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_square_o_right.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_SQUARE_O_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_square_o_up.png"
+        },
+        {
+            "tag": "FontAwesome4-CARET_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/caret_up.png"
+        },
+        {
+            "tag": "FontAwesome4-CART_ARROW_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cart_arrow_down.png"
+        },
+        {
+            "tag": "FontAwesome4-CART_PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cart_plus.png"
+        },
+        {
+            "tag": "FontAwesome4-CC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_AMEX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_amex.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_DINERS_CLUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_diners_club.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_DISCOVER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_discover.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_JCB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_jcb.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_MASTERCARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_mastercard.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_PAYPAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_paypal.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_STRIPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_stripe.png"
+        },
+        {
+            "tag": "FontAwesome4-CC_VISA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cc_visa.png"
+        },
+        {
+            "tag": "FontAwesome4-CERTIFICATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/certificate.png"
+        },
+        {
+            "tag": "FontAwesome4-CHAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chain.png"
+        },
+        {
+            "tag": "FontAwesome4-CHAIN_BROKEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chain_broken.png"
+        },
+        {
+            "tag": "FontAwesome4-CHECK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/check.png"
+        },
+        {
+            "tag": "FontAwesome4-CHECK_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/check_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-CHECK_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/check_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CHECK_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/check_square.png"
+        },
+        {
+            "tag": "FontAwesome4-CHECK_SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/check_square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_CIRCLE_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_circle_down.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_CIRCLE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_circle_left.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_CIRCLE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_circle_right.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_CIRCLE_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_circle_up.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_down.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_left.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_right.png"
+        },
+        {
+            "tag": "FontAwesome4-CHEVRON_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chevron_up.png"
+        },
+        {
+            "tag": "FontAwesome4-CHILD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/child.png"
+        },
+        {
+            "tag": "FontAwesome4-CHROME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/chrome.png"
+        },
+        {
+            "tag": "FontAwesome4-CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/circle.png"
+        },
+        {
+            "tag": "FontAwesome4-CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CIRCLE_O_NOTCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/circle_o_notch.png"
+        },
+        {
+            "tag": "FontAwesome4-CIRCLE_THIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/circle_thin.png"
+        },
+        {
+            "tag": "FontAwesome4-CLIPBOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/clipboard.png"
+        },
+        {
+            "tag": "FontAwesome4-CLOCK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/clock_o.png"
+        },
+        {
+            "tag": "FontAwesome4-CLONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/clone.png"
+        },
+        {
+            "tag": "FontAwesome4-CLOSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/close.png"
+        },
+        {
+            "tag": "FontAwesome4-CLOUD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cloud.png"
+        },
+        {
+            "tag": "FontAwesome4-CLOUD_DOWNLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cloud_download.png"
+        },
+        {
+            "tag": "FontAwesome4-CLOUD_UPLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cloud_upload.png"
+        },
+        {
+            "tag": "FontAwesome4-CNY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cny.png"
+        },
+        {
+            "tag": "FontAwesome4-CODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/code.png"
+        },
+        {
+            "tag": "FontAwesome4-CODE_FORK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/code_fork.png"
+        },
+        {
+            "tag": "FontAwesome4-CODEPEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/codepen.png"
+        },
+        {
+            "tag": "FontAwesome4-CODIEPIE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/codiepie.png"
+        },
+        {
+            "tag": "FontAwesome4-COFFEE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/coffee.png"
+        },
+        {
+            "tag": "FontAwesome4-COG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cog.png"
+        },
+        {
+            "tag": "FontAwesome4-COGS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cogs.png"
+        },
+        {
+            "tag": "FontAwesome4-COLUMNS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/columns.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/comment.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENT_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/comment_o.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENTING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/commenting.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENTING_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/commenting_o.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENTS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/comments.png"
+        },
+        {
+            "tag": "FontAwesome4-COMMENTS_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/comments_o.png"
+        },
+        {
+            "tag": "FontAwesome4-COMPASS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/compass.png"
+        },
+        {
+            "tag": "FontAwesome4-COMPRESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/compress.png"
+        },
+        {
+            "tag": "FontAwesome4-CONNECTDEVELOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/connectdevelop.png"
+        },
+        {
+            "tag": "FontAwesome4-CONTAO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/contao.png"
+        },
+        {
+            "tag": "FontAwesome4-COPY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/copy.png"
+        },
+        {
+            "tag": "FontAwesome4-COPYRIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/copyright.png"
+        },
+        {
+            "tag": "FontAwesome4-CREATIVE_COMMONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/creative_commons.png"
+        },
+        {
+            "tag": "FontAwesome4-CREDIT_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/credit_card.png"
+        },
+        {
+            "tag": "FontAwesome4-CREDIT_CARD_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/credit_card_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-CROP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/crop.png"
+        },
+        {
+            "tag": "FontAwesome4-CROSSHAIRS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/crosshairs.png"
+        },
+        {
+            "tag": "FontAwesome4-CSS3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/css3.png"
+        },
+        {
+            "tag": "FontAwesome4-CUBE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cube.png"
+        },
+        {
+            "tag": "FontAwesome4-CUBES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cubes.png"
+        },
+        {
+            "tag": "FontAwesome4-CUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cut.png"
+        },
+        {
+            "tag": "FontAwesome4-CUTLERY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/cutlery.png"
+        },
+        {
+            "tag": "FontAwesome4-DASHBOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dashboard.png"
+        },
+        {
+            "tag": "FontAwesome4-DASHCUBE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dashcube.png"
+        },
+        {
+            "tag": "FontAwesome4-DATABASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/database.png"
+        },
+        {
+            "tag": "FontAwesome4-DEAF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/deaf.png"
+        },
+        {
+            "tag": "FontAwesome4-DEAFNESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/deafness.png"
+        },
+        {
+            "tag": "FontAwesome4-DEDENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dedent.png"
+        },
+        {
+            "tag": "FontAwesome4-DELICIOUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/delicious.png"
+        },
+        {
+            "tag": "FontAwesome4-DESKTOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/desktop.png"
+        },
+        {
+            "tag": "FontAwesome4-DEVIANTART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/deviantart.png"
+        },
+        {
+            "tag": "FontAwesome4-DIAMOND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/diamond.png"
+        },
+        {
+            "tag": "FontAwesome4-DIGG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/digg.png"
+        },
+        {
+            "tag": "FontAwesome4-DOLLAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dollar.png"
+        },
+        {
+            "tag": "FontAwesome4-DOT_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dot_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-DOWNLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/download.png"
+        },
+        {
+            "tag": "FontAwesome4-DRIBBBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dribbble.png"
+        },
+        {
+            "tag": "FontAwesome4-DRIVERS_LICENSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/drivers_license.png"
+        },
+        {
+            "tag": "FontAwesome4-DRIVERS_LICENSE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/drivers_license_o.png"
+        },
+        {
+            "tag": "FontAwesome4-DROPBOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/dropbox.png"
+        },
+        {
+            "tag": "FontAwesome4-DRUPAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/drupal.png"
+        },
+        {
+            "tag": "FontAwesome4-EDGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/edge.png"
+        },
+        {
+            "tag": "FontAwesome4-EDIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/edit.png"
+        },
+        {
+            "tag": "FontAwesome4-EERCAST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eercast.png"
+        },
+        {
+            "tag": "FontAwesome4-EJECT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eject.png"
+        },
+        {
+            "tag": "FontAwesome4-ELLIPSIS_H",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ellipsis_h.png"
+        },
+        {
+            "tag": "FontAwesome4-ELLIPSIS_V",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ellipsis_v.png"
+        },
+        {
+            "tag": "FontAwesome4-EMPIRE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/empire.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVELOPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envelope.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVELOPE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envelope_o.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVELOPE_OPEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envelope_open.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVELOPE_OPEN_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envelope_open_o.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVELOPE_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envelope_square.png"
+        },
+        {
+            "tag": "FontAwesome4-ENVIRA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/envira.png"
+        },
+        {
+            "tag": "FontAwesome4-ERASER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eraser.png"
+        },
+        {
+            "tag": "FontAwesome4-ETSY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/etsy.png"
+        },
+        {
+            "tag": "FontAwesome4-EUR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eur.png"
+        },
+        {
+            "tag": "FontAwesome4-EURO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/euro.png"
+        },
+        {
+            "tag": "FontAwesome4-EXCHANGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/exchange.png"
+        },
+        {
+            "tag": "FontAwesome4-EXCLAMATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/exclamation.png"
+        },
+        {
+            "tag": "FontAwesome4-EXCLAMATION_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/exclamation_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-EXCLAMATION_TRIANGLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/exclamation_triangle.png"
+        },
+        {
+            "tag": "FontAwesome4-EXPAND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/expand.png"
+        },
+        {
+            "tag": "FontAwesome4-EXPEDITEDSSL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/expeditedssl.png"
+        },
+        {
+            "tag": "FontAwesome4-EXTERNAL_LINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/external_link.png"
+        },
+        {
+            "tag": "FontAwesome4-EXTERNAL_LINK_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/external_link_square.png"
+        },
+        {
+            "tag": "FontAwesome4-EYE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eye.png"
+        },
+        {
+            "tag": "FontAwesome4-EYE_SLASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eye_slash.png"
+        },
+        {
+            "tag": "FontAwesome4-EYEDROPPER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/eyedropper.png"
+        },
+        {
+            "tag": "FontAwesome4-FA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fa.png"
+        },
+        {
+            "tag": "FontAwesome4-FACEBOOK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/facebook.png"
+        },
+        {
+            "tag": "FontAwesome4-FACEBOOK_F",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/facebook_f.png"
+        },
+        {
+            "tag": "FontAwesome4-FACEBOOK_OFFICIAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/facebook_official.png"
+        },
+        {
+            "tag": "FontAwesome4-FACEBOOK_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/facebook_square.png"
+        },
+        {
+            "tag": "FontAwesome4-FAST_BACKWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fast_backward.png"
+        },
+        {
+            "tag": "FontAwesome4-FAST_FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fast_forward.png"
+        },
+        {
+            "tag": "FontAwesome4-FAX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fax.png"
+        },
+        {
+            "tag": "FontAwesome4-FEED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/feed.png"
+        },
+        {
+            "tag": "FontAwesome4-FEMALE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/female.png"
+        },
+        {
+            "tag": "FontAwesome4-FIGHTER_JET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fighter_jet.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_ARCHIVE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_archive_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_AUDIO_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_audio_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_CODE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_code_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_EXCEL_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_excel_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_IMAGE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_image_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_MOVIE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_movie_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_PDF_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_pdf_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_PHOTO_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_photo_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_PICTURE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_picture_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_POWERPOINT_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_powerpoint_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_SOUND_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_sound_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_TEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_text.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_TEXT_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_text_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_VIDEO_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_video_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_WORD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_word_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILE_ZIP_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/file_zip_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILES_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/files_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FILM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/film.png"
+        },
+        {
+            "tag": "FontAwesome4-FILTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/filter.png"
+        },
+        {
+            "tag": "FontAwesome4-FIRE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fire.png"
+        },
+        {
+            "tag": "FontAwesome4-FIRE_EXTINGUISHER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fire_extinguisher.png"
+        },
+        {
+            "tag": "FontAwesome4-FIREFOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/firefox.png"
+        },
+        {
+            "tag": "FontAwesome4-FIRST_ORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/first_order.png"
+        },
+        {
+            "tag": "FontAwesome4-FLAG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flag.png"
+        },
+        {
+            "tag": "FontAwesome4-FLAG_CHECKERED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flag_checkered.png"
+        },
+        {
+            "tag": "FontAwesome4-FLAG_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flag_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FLASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flash.png"
+        },
+        {
+            "tag": "FontAwesome4-FLASK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flask.png"
+        },
+        {
+            "tag": "FontAwesome4-FLICKR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/flickr.png"
+        },
+        {
+            "tag": "FontAwesome4-FLOPPY_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/floppy_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FOLDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/folder.png"
+        },
+        {
+            "tag": "FontAwesome4-FOLDER_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/folder_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FOLDER_OPEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/folder_open.png"
+        },
+        {
+            "tag": "FontAwesome4-FOLDER_OPEN_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/folder_open_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FONT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/font.png"
+        },
+        {
+            "tag": "FontAwesome4-FONT_AWESOME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/font_awesome.png"
+        },
+        {
+            "tag": "FontAwesome4-FONTICONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fonticons.png"
+        },
+        {
+            "tag": "FontAwesome4-FORT_AWESOME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/fort_awesome.png"
+        },
+        {
+            "tag": "FontAwesome4-FORUMBEE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/forumbee.png"
+        },
+        {
+            "tag": "FontAwesome4-FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/forward.png"
+        },
+        {
+            "tag": "FontAwesome4-FOURSQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/foursquare.png"
+        },
+        {
+            "tag": "FontAwesome4-FREE_CODE_CAMP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/free_code_camp.png"
+        },
+        {
+            "tag": "FontAwesome4-FROWN_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/frown_o.png"
+        },
+        {
+            "tag": "FontAwesome4-FUTBOL_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/futbol_o.png"
+        },
+        {
+            "tag": "FontAwesome4-GAMEPAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gamepad.png"
+        },
+        {
+            "tag": "FontAwesome4-GAVEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gavel.png"
+        },
+        {
+            "tag": "FontAwesome4-GBP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gbp.png"
+        },
+        {
+            "tag": "FontAwesome4-GE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ge.png"
+        },
+        {
+            "tag": "FontAwesome4-GEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gear.png"
+        },
+        {
+            "tag": "FontAwesome4-GEARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gears.png"
+        },
+        {
+            "tag": "FontAwesome4-GENDERLESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/genderless.png"
+        },
+        {
+            "tag": "FontAwesome4-GET_POCKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/get_pocket.png"
+        },
+        {
+            "tag": "FontAwesome4-GG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gg.png"
+        },
+        {
+            "tag": "FontAwesome4-GG_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gg_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-GIFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gift.png"
+        },
+        {
+            "tag": "FontAwesome4-GIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/git.png"
+        },
+        {
+            "tag": "FontAwesome4-GIT_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/git_square.png"
+        },
+        {
+            "tag": "FontAwesome4-GITHUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/github.png"
+        },
+        {
+            "tag": "FontAwesome4-GITHUB_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/github_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-GITHUB_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/github_square.png"
+        },
+        {
+            "tag": "FontAwesome4-GITLAB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gitlab.png"
+        },
+        {
+            "tag": "FontAwesome4-GITTIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gittip.png"
+        },
+        {
+            "tag": "FontAwesome4-GLASS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/glass.png"
+        },
+        {
+            "tag": "FontAwesome4-GLIDE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/glide.png"
+        },
+        {
+            "tag": "FontAwesome4-GLIDE_G",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/glide_g.png"
+        },
+        {
+            "tag": "FontAwesome4-GLOBE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/globe.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE_PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google_plus.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE_PLUS_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google_plus_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE_PLUS_OFFICIAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google_plus_official.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE_PLUS_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google_plus_square.png"
+        },
+        {
+            "tag": "FontAwesome4-GOOGLE_WALLET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/google_wallet.png"
+        },
+        {
+            "tag": "FontAwesome4-GRADUATION_CAP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/graduation_cap.png"
+        },
+        {
+            "tag": "FontAwesome4-GRATIPAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/gratipay.png"
+        },
+        {
+            "tag": "FontAwesome4-GRAV",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/grav.png"
+        },
+        {
+            "tag": "FontAwesome4-GROUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/group.png"
+        },
+        {
+            "tag": "FontAwesome4-H_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/h_square.png"
+        },
+        {
+            "tag": "FontAwesome4-HACKER_NEWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hacker_news.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_GRAB_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_grab_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_LIZARD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_lizard_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_O_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_o_down.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_O_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_o_left.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_O_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_o_right.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_O_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_o_up.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_PAPER_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_paper_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_PEACE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_peace_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_POINTER_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_pointer_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_ROCK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_rock_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_SCISSORS_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_scissors_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_SPOCK_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_spock_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HAND_STOP_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hand_stop_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HANDSHAKE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/handshake_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HARD_OF_HEARING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hard_of_hearing.png"
+        },
+        {
+            "tag": "FontAwesome4-HASHTAG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hashtag.png"
+        },
+        {
+            "tag": "FontAwesome4-HDD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hdd_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HEADER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/header.png"
+        },
+        {
+            "tag": "FontAwesome4-HEADPHONES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/headphones.png"
+        },
+        {
+            "tag": "FontAwesome4-HEART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/heart.png"
+        },
+        {
+            "tag": "FontAwesome4-HEART_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/heart_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HEARTBEAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/heartbeat.png"
+        },
+        {
+            "tag": "FontAwesome4-HISTORY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/history.png"
+        },
+        {
+            "tag": "FontAwesome4-HOME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/home.png"
+        },
+        {
+            "tag": "FontAwesome4-HOSPITAL_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hospital_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HOTEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hotel.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_1.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_2.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_3.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_END",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_end.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_HALF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_half.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_o.png"
+        },
+        {
+            "tag": "FontAwesome4-HOURGLASS_START",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/hourglass_start.png"
+        },
+        {
+            "tag": "FontAwesome4-HOUZZ",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/houzz.png"
+        },
+        {
+            "tag": "FontAwesome4-HTML5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/html5.png"
+        },
+        {
+            "tag": "FontAwesome4-I_CURSOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/i_cursor.png"
+        },
+        {
+            "tag": "FontAwesome4-ID_BADGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/id_badge.png"
+        },
+        {
+            "tag": "FontAwesome4-ID_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/id_card.png"
+        },
+        {
+            "tag": "FontAwesome4-ID_CARD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/id_card_o.png"
+        },
+        {
+            "tag": "FontAwesome4-ILS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ils.png"
+        },
+        {
+            "tag": "FontAwesome4-IMAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/image.png"
+        },
+        {
+            "tag": "FontAwesome4-IMDB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/imdb.png"
+        },
+        {
+            "tag": "FontAwesome4-INBOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/inbox.png"
+        },
+        {
+            "tag": "FontAwesome4-INDENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/indent.png"
+        },
+        {
+            "tag": "FontAwesome4-INDUSTRY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/industry.png"
+        },
+        {
+            "tag": "FontAwesome4-INFO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/info.png"
+        },
+        {
+            "tag": "FontAwesome4-INFO_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/info_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-INR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/inr.png"
+        },
+        {
+            "tag": "FontAwesome4-INSTAGRAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/instagram.png"
+        },
+        {
+            "tag": "FontAwesome4-INSTITUTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/institution.png"
+        },
+        {
+            "tag": "FontAwesome4-INTERNET_EXPLORER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/internet_explorer.png"
+        },
+        {
+            "tag": "FontAwesome4-INTERSEX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/intersex.png"
+        },
+        {
+            "tag": "FontAwesome4-IOXHOST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ioxhost.png"
+        },
+        {
+            "tag": "FontAwesome4-ITALIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/italic.png"
+        },
+        {
+            "tag": "FontAwesome4-JOOMLA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/joomla.png"
+        },
+        {
+            "tag": "FontAwesome4-JPY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/jpy.png"
+        },
+        {
+            "tag": "FontAwesome4-JSFIDDLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/jsfiddle.png"
+        },
+        {
+            "tag": "FontAwesome4-KEY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/key.png"
+        },
+        {
+            "tag": "FontAwesome4-KEYBOARD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/keyboard_o.png"
+        },
+        {
+            "tag": "FontAwesome4-KRW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/krw.png"
+        },
+        {
+            "tag": "FontAwesome4-LANGUAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/language.png"
+        },
+        {
+            "tag": "FontAwesome4-LAPTOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/laptop.png"
+        },
+        {
+            "tag": "FontAwesome4-LASTFM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/lastfm.png"
+        },
+        {
+            "tag": "FontAwesome4-LASTFM_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/lastfm_square.png"
+        },
+        {
+            "tag": "FontAwesome4-LEAF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/leaf.png"
+        },
+        {
+            "tag": "FontAwesome4-LEANPUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/leanpub.png"
+        },
+        {
+            "tag": "FontAwesome4-LEGAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/legal.png"
+        },
+        {
+            "tag": "FontAwesome4-LEMON_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/lemon_o.png"
+        },
+        {
+            "tag": "FontAwesome4-LEVEL_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/level_down.png"
+        },
+        {
+            "tag": "FontAwesome4-LEVEL_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/level_up.png"
+        },
+        {
+            "tag": "FontAwesome4-LIFE_BOUY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/life_bouy.png"
+        },
+        {
+            "tag": "FontAwesome4-LIFE_BUOY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/life_buoy.png"
+        },
+        {
+            "tag": "FontAwesome4-LIFE_RING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/life_ring.png"
+        },
+        {
+            "tag": "FontAwesome4-LIFE_SAVER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/life_saver.png"
+        },
+        {
+            "tag": "FontAwesome4-LIGHTBULB_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/lightbulb_o.png"
+        },
+        {
+            "tag": "FontAwesome4-LINE_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/line_chart.png"
+        },
+        {
+            "tag": "FontAwesome4-LINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/link.png"
+        },
+        {
+            "tag": "FontAwesome4-LINKEDIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/linkedin.png"
+        },
+        {
+            "tag": "FontAwesome4-LINKEDIN_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/linkedin_square.png"
+        },
+        {
+            "tag": "FontAwesome4-LINODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/linode.png"
+        },
+        {
+            "tag": "FontAwesome4-LINUX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/linux.png"
+        },
+        {
+            "tag": "FontAwesome4-LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/list.png"
+        },
+        {
+            "tag": "FontAwesome4-LIST_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/list_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-LIST_OL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/list_ol.png"
+        },
+        {
+            "tag": "FontAwesome4-LIST_UL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/list_ul.png"
+        },
+        {
+            "tag": "FontAwesome4-LOCATION_ARROW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/location_arrow.png"
+        },
+        {
+            "tag": "FontAwesome4-LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/lock.png"
+        },
+        {
+            "tag": "FontAwesome4-LONG_ARROW_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/long_arrow_down.png"
+        },
+        {
+            "tag": "FontAwesome4-LONG_ARROW_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/long_arrow_left.png"
+        },
+        {
+            "tag": "FontAwesome4-LONG_ARROW_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/long_arrow_right.png"
+        },
+        {
+            "tag": "FontAwesome4-LONG_ARROW_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/long_arrow_up.png"
+        },
+        {
+            "tag": "FontAwesome4-LOW_VISION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/low_vision.png"
+        },
+        {
+            "tag": "FontAwesome4-MAGIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/magic.png"
+        },
+        {
+            "tag": "FontAwesome4-MAGNET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/magnet.png"
+        },
+        {
+            "tag": "FontAwesome4-MAIL_FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mail_forward.png"
+        },
+        {
+            "tag": "FontAwesome4-MAIL_REPLY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mail_reply.png"
+        },
+        {
+            "tag": "FontAwesome4-MAIL_REPLY_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mail_reply_all.png"
+        },
+        {
+            "tag": "FontAwesome4-MALE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/male.png"
+        },
+        {
+            "tag": "FontAwesome4-MAP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/map.png"
+        },
+        {
+            "tag": "FontAwesome4-MAP_MARKER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/map_marker.png"
+        },
+        {
+            "tag": "FontAwesome4-MAP_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/map_o.png"
+        },
+        {
+            "tag": "FontAwesome4-MAP_PIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/map_pin.png"
+        },
+        {
+            "tag": "FontAwesome4-MAP_SIGNS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/map_signs.png"
+        },
+        {
+            "tag": "FontAwesome4-MARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mars.png"
+        },
+        {
+            "tag": "FontAwesome4-MARS_DOUBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mars_double.png"
+        },
+        {
+            "tag": "FontAwesome4-MARS_STROKE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mars_stroke.png"
+        },
+        {
+            "tag": "FontAwesome4-MARS_STROKE_H",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mars_stroke_h.png"
+        },
+        {
+            "tag": "FontAwesome4-MARS_STROKE_V",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mars_stroke_v.png"
+        },
+        {
+            "tag": "FontAwesome4-MAXCDN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/maxcdn.png"
+        },
+        {
+            "tag": "FontAwesome4-MEANPATH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/meanpath.png"
+        },
+        {
+            "tag": "FontAwesome4-MEDIUM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/medium.png"
+        },
+        {
+            "tag": "FontAwesome4-MEDKIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/medkit.png"
+        },
+        {
+            "tag": "FontAwesome4-MEETUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/meetup.png"
+        },
+        {
+            "tag": "FontAwesome4-MEH_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/meh_o.png"
+        },
+        {
+            "tag": "FontAwesome4-MERCURY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mercury.png"
+        },
+        {
+            "tag": "FontAwesome4-MICROCHIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/microchip.png"
+        },
+        {
+            "tag": "FontAwesome4-MICROPHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/microphone.png"
+        },
+        {
+            "tag": "FontAwesome4-MICROPHONE_SLASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/microphone_slash.png"
+        },
+        {
+            "tag": "FontAwesome4-MINUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/minus.png"
+        },
+        {
+            "tag": "FontAwesome4-MINUS_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/minus_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-MINUS_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/minus_square.png"
+        },
+        {
+            "tag": "FontAwesome4-MINUS_SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/minus_square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-MIXCLOUD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mixcloud.png"
+        },
+        {
+            "tag": "FontAwesome4-MOBILE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mobile.png"
+        },
+        {
+            "tag": "FontAwesome4-MOBILE_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mobile_phone.png"
+        },
+        {
+            "tag": "FontAwesome4-MODX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/modx.png"
+        },
+        {
+            "tag": "FontAwesome4-MONEY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/money.png"
+        },
+        {
+            "tag": "FontAwesome4-MOON_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/moon_o.png"
+        },
+        {
+            "tag": "FontAwesome4-MORTAR_BOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mortar_board.png"
+        },
+        {
+            "tag": "FontAwesome4-MOTORCYCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/motorcycle.png"
+        },
+        {
+            "tag": "FontAwesome4-MOUSE_POINTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/mouse_pointer.png"
+        },
+        {
+            "tag": "FontAwesome4-MUSIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/music.png"
+        },
+        {
+            "tag": "FontAwesome4-NAVICON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/navicon.png"
+        },
+        {
+            "tag": "FontAwesome4-NEUTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/neuter.png"
+        },
+        {
+            "tag": "FontAwesome4-NEWSPAPER_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/newspaper_o.png"
+        },
+        {
+            "tag": "FontAwesome4-OBJECT_GROUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/object_group.png"
+        },
+        {
+            "tag": "FontAwesome4-OBJECT_UNGROUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/object_ungroup.png"
+        },
+        {
+            "tag": "FontAwesome4-ODNOKLASSNIKI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/odnoklassniki.png"
+        },
+        {
+            "tag": "FontAwesome4-ODNOKLASSNIKI_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/odnoklassniki_square.png"
+        },
+        {
+            "tag": "FontAwesome4-OPENCART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/opencart.png"
+        },
+        {
+            "tag": "FontAwesome4-OPENID",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/openid.png"
+        },
+        {
+            "tag": "FontAwesome4-OPERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/opera.png"
+        },
+        {
+            "tag": "FontAwesome4-OPTIN_MONSTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/optin_monster.png"
+        },
+        {
+            "tag": "FontAwesome4-OUTDENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/outdent.png"
+        },
+        {
+            "tag": "FontAwesome4-PAGELINES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pagelines.png"
+        },
+        {
+            "tag": "FontAwesome4-PAINT_BRUSH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paint_brush.png"
+        },
+        {
+            "tag": "FontAwesome4-PAPER_PLANE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paper_plane.png"
+        },
+        {
+            "tag": "FontAwesome4-PAPER_PLANE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paper_plane_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PAPERCLIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paperclip.png"
+        },
+        {
+            "tag": "FontAwesome4-PARAGRAPH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paragraph.png"
+        },
+        {
+            "tag": "FontAwesome4-PASTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paste.png"
+        },
+        {
+            "tag": "FontAwesome4-PAUSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pause.png"
+        },
+        {
+            "tag": "FontAwesome4-PAUSE_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pause_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-PAUSE_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pause_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PAW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paw.png"
+        },
+        {
+            "tag": "FontAwesome4-PAYPAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/paypal.png"
+        },
+        {
+            "tag": "FontAwesome4-PENCIL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pencil.png"
+        },
+        {
+            "tag": "FontAwesome4-PENCIL_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pencil_square.png"
+        },
+        {
+            "tag": "FontAwesome4-PENCIL_SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pencil_square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PERCENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/percent.png"
+        },
+        {
+            "tag": "FontAwesome4-PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/phone.png"
+        },
+        {
+            "tag": "FontAwesome4-PHONE_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/phone_square.png"
+        },
+        {
+            "tag": "FontAwesome4-PHOTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/photo.png"
+        },
+        {
+            "tag": "FontAwesome4-PICTURE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/picture_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PIE_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pie_chart.png"
+        },
+        {
+            "tag": "FontAwesome4-PIED_PIPER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pied_piper.png"
+        },
+        {
+            "tag": "FontAwesome4-PIED_PIPER_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pied_piper_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-PIED_PIPER_PP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pied_piper_pp.png"
+        },
+        {
+            "tag": "FontAwesome4-PINTEREST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pinterest.png"
+        },
+        {
+            "tag": "FontAwesome4-PINTEREST_P",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pinterest_p.png"
+        },
+        {
+            "tag": "FontAwesome4-PINTEREST_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/pinterest_square.png"
+        },
+        {
+            "tag": "FontAwesome4-PLANE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plane.png"
+        },
+        {
+            "tag": "FontAwesome4-PLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/play.png"
+        },
+        {
+            "tag": "FontAwesome4-PLAY_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/play_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-PLAY_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/play_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PLUG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plug.png"
+        },
+        {
+            "tag": "FontAwesome4-PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plus.png"
+        },
+        {
+            "tag": "FontAwesome4-PLUS_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plus_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-PLUS_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plus_square.png"
+        },
+        {
+            "tag": "FontAwesome4-PLUS_SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/plus_square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-PODCAST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/podcast.png"
+        },
+        {
+            "tag": "FontAwesome4-POWER_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/power_off.png"
+        },
+        {
+            "tag": "FontAwesome4-PRINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/print.png"
+        },
+        {
+            "tag": "FontAwesome4-PRODUCT_HUNT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/product_hunt.png"
+        },
+        {
+            "tag": "FontAwesome4-PUZZLE_PIECE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/puzzle_piece.png"
+        },
+        {
+            "tag": "FontAwesome4-QQ",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/qq.png"
+        },
+        {
+            "tag": "FontAwesome4-QRCODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/qrcode.png"
+        },
+        {
+            "tag": "FontAwesome4-QUESTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/question.png"
+        },
+        {
+            "tag": "FontAwesome4-QUESTION_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/question_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-QUESTION_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/question_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-QUORA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/quora.png"
+        },
+        {
+            "tag": "FontAwesome4-QUOTE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/quote_left.png"
+        },
+        {
+            "tag": "FontAwesome4-QUOTE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/quote_right.png"
+        },
+        {
+            "tag": "FontAwesome4-RA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ra.png"
+        },
+        {
+            "tag": "FontAwesome4-RANDOM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/random.png"
+        },
+        {
+            "tag": "FontAwesome4-RAVELRY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ravelry.png"
+        },
+        {
+            "tag": "FontAwesome4-REBEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rebel.png"
+        },
+        {
+            "tag": "FontAwesome4-RECYCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/recycle.png"
+        },
+        {
+            "tag": "FontAwesome4-REDDIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reddit.png"
+        },
+        {
+            "tag": "FontAwesome4-REDDIT_ALIEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reddit_alien.png"
+        },
+        {
+            "tag": "FontAwesome4-REDDIT_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reddit_square.png"
+        },
+        {
+            "tag": "FontAwesome4-REFRESH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/refresh.png"
+        },
+        {
+            "tag": "FontAwesome4-REGISTERED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/registered.png"
+        },
+        {
+            "tag": "FontAwesome4-REMOVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/remove.png"
+        },
+        {
+            "tag": "FontAwesome4-RENREN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/renren.png"
+        },
+        {
+            "tag": "FontAwesome4-REORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reorder.png"
+        },
+        {
+            "tag": "FontAwesome4-REPEAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/repeat.png"
+        },
+        {
+            "tag": "FontAwesome4-REPLY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reply.png"
+        },
+        {
+            "tag": "FontAwesome4-REPLY_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/reply_all.png"
+        },
+        {
+            "tag": "FontAwesome4-RESISTANCE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/resistance.png"
+        },
+        {
+            "tag": "FontAwesome4-RETWEET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/retweet.png"
+        },
+        {
+            "tag": "FontAwesome4-RMB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rmb.png"
+        },
+        {
+            "tag": "FontAwesome4-ROAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/road.png"
+        },
+        {
+            "tag": "FontAwesome4-ROCKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rocket.png"
+        },
+        {
+            "tag": "FontAwesome4-ROTATE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rotate_left.png"
+        },
+        {
+            "tag": "FontAwesome4-ROTATE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rotate_right.png"
+        },
+        {
+            "tag": "FontAwesome4-ROUBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rouble.png"
+        },
+        {
+            "tag": "FontAwesome4-RSS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rss.png"
+        },
+        {
+            "tag": "FontAwesome4-RSS_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rss_square.png"
+        },
+        {
+            "tag": "FontAwesome4-RUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rub.png"
+        },
+        {
+            "tag": "FontAwesome4-RUBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ruble.png"
+        },
+        {
+            "tag": "FontAwesome4-RUPEE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/rupee.png"
+        },
+        {
+            "tag": "FontAwesome4-S15",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/s15.png"
+        },
+        {
+            "tag": "FontAwesome4-SAFARI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/safari.png"
+        },
+        {
+            "tag": "FontAwesome4-SAVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/save.png"
+        },
+        {
+            "tag": "FontAwesome4-SCISSORS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/scissors.png"
+        },
+        {
+            "tag": "FontAwesome4-SCRIBD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/scribd.png"
+        },
+        {
+            "tag": "FontAwesome4-SEARCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/search.png"
+        },
+        {
+            "tag": "FontAwesome4-SEARCH_MINUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/search_minus.png"
+        },
+        {
+            "tag": "FontAwesome4-SEARCH_PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/search_plus.png"
+        },
+        {
+            "tag": "FontAwesome4-SELLSY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sellsy.png"
+        },
+        {
+            "tag": "FontAwesome4-SEND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/send.png"
+        },
+        {
+            "tag": "FontAwesome4-SEND_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/send_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SERVER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/server.png"
+        },
+        {
+            "tag": "FontAwesome4-SHARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/share.png"
+        },
+        {
+            "tag": "FontAwesome4-SHARE_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/share_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-SHARE_ALT_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/share_alt_square.png"
+        },
+        {
+            "tag": "FontAwesome4-SHARE_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/share_square.png"
+        },
+        {
+            "tag": "FontAwesome4-SHARE_SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/share_square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SHEKEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shekel.png"
+        },
+        {
+            "tag": "FontAwesome4-SHEQEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sheqel.png"
+        },
+        {
+            "tag": "FontAwesome4-SHIELD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shield.png"
+        },
+        {
+            "tag": "FontAwesome4-SHIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ship.png"
+        },
+        {
+            "tag": "FontAwesome4-SHIRTSINBULK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shirtsinbulk.png"
+        },
+        {
+            "tag": "FontAwesome4-SHOPPING_BAG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shopping_bag.png"
+        },
+        {
+            "tag": "FontAwesome4-SHOPPING_BASKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shopping_basket.png"
+        },
+        {
+            "tag": "FontAwesome4-SHOPPING_CART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shopping_cart.png"
+        },
+        {
+            "tag": "FontAwesome4-SHOWER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/shower.png"
+        },
+        {
+            "tag": "FontAwesome4-SIGN_IN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sign_in.png"
+        },
+        {
+            "tag": "FontAwesome4-SIGN_LANGUAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sign_language.png"
+        },
+        {
+            "tag": "FontAwesome4-SIGN_OUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sign_out.png"
+        },
+        {
+            "tag": "FontAwesome4-SIGNAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/signal.png"
+        },
+        {
+            "tag": "FontAwesome4-SIGNING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/signing.png"
+        },
+        {
+            "tag": "FontAwesome4-SIMPLYBUILT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/simplybuilt.png"
+        },
+        {
+            "tag": "FontAwesome4-SITEMAP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sitemap.png"
+        },
+        {
+            "tag": "FontAwesome4-SKYATLAS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/skyatlas.png"
+        },
+        {
+            "tag": "FontAwesome4-SKYPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/skype.png"
+        },
+        {
+            "tag": "FontAwesome4-SLACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/slack.png"
+        },
+        {
+            "tag": "FontAwesome4-SLIDERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sliders.png"
+        },
+        {
+            "tag": "FontAwesome4-SLIDESHARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/slideshare.png"
+        },
+        {
+            "tag": "FontAwesome4-SMILE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/smile_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SNAPCHAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/snapchat.png"
+        },
+        {
+            "tag": "FontAwesome4-SNAPCHAT_GHOST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/snapchat_ghost.png"
+        },
+        {
+            "tag": "FontAwesome4-SNAPCHAT_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/snapchat_square.png"
+        },
+        {
+            "tag": "FontAwesome4-SNOWFLAKE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/snowflake_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SOCCER_BALL_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/soccer_ball_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_ALPHA_ASC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_alpha_asc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_ALPHA_DESC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_alpha_desc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_AMOUNT_ASC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_amount_asc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_AMOUNT_DESC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_amount_desc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_ASC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_asc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_DESC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_desc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_down.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_NUMERIC_ASC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_numeric_asc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_NUMERIC_DESC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_numeric_desc.png"
+        },
+        {
+            "tag": "FontAwesome4-SORT_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sort_up.png"
+        },
+        {
+            "tag": "FontAwesome4-SOUNDCLOUD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/soundcloud.png"
+        },
+        {
+            "tag": "FontAwesome4-SPACE_SHUTTLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/space_shuttle.png"
+        },
+        {
+            "tag": "FontAwesome4-SPINNER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/spinner.png"
+        },
+        {
+            "tag": "FontAwesome4-SPOON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/spoon.png"
+        },
+        {
+            "tag": "FontAwesome4-SPOTIFY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/spotify.png"
+        },
+        {
+            "tag": "FontAwesome4-SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/square.png"
+        },
+        {
+            "tag": "FontAwesome4-SQUARE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/square_o.png"
+        },
+        {
+            "tag": "FontAwesome4-STACK_EXCHANGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stack_exchange.png"
+        },
+        {
+            "tag": "FontAwesome4-STACK_OVERFLOW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stack_overflow.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR_HALF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star_half.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR_HALF_EMPTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star_half_empty.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR_HALF_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star_half_full.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR_HALF_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star_half_o.png"
+        },
+        {
+            "tag": "FontAwesome4-STAR_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/star_o.png"
+        },
+        {
+            "tag": "FontAwesome4-STEAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/steam.png"
+        },
+        {
+            "tag": "FontAwesome4-STEAM_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/steam_square.png"
+        },
+        {
+            "tag": "FontAwesome4-STEP_BACKWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/step_backward.png"
+        },
+        {
+            "tag": "FontAwesome4-STEP_FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/step_forward.png"
+        },
+        {
+            "tag": "FontAwesome4-STETHOSCOPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stethoscope.png"
+        },
+        {
+            "tag": "FontAwesome4-STICKY_NOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sticky_note.png"
+        },
+        {
+            "tag": "FontAwesome4-STICKY_NOTE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sticky_note_o.png"
+        },
+        {
+            "tag": "FontAwesome4-STOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stop.png"
+        },
+        {
+            "tag": "FontAwesome4-STOP_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stop_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-STOP_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stop_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-STREET_VIEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/street_view.png"
+        },
+        {
+            "tag": "FontAwesome4-STRIKETHROUGH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/strikethrough.png"
+        },
+        {
+            "tag": "FontAwesome4-STUMBLEUPON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stumbleupon.png"
+        },
+        {
+            "tag": "FontAwesome4-STUMBLEUPON_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/stumbleupon_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-SUBSCRIPT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/subscript.png"
+        },
+        {
+            "tag": "FontAwesome4-SUBWAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/subway.png"
+        },
+        {
+            "tag": "FontAwesome4-SUITCASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/suitcase.png"
+        },
+        {
+            "tag": "FontAwesome4-SUN_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/sun_o.png"
+        },
+        {
+            "tag": "FontAwesome4-SUPERPOWERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/superpowers.png"
+        },
+        {
+            "tag": "FontAwesome4-SUPERSCRIPT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/superscript.png"
+        },
+        {
+            "tag": "FontAwesome4-SUPPORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/support.png"
+        },
+        {
+            "tag": "FontAwesome4-TABLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/table.png"
+        },
+        {
+            "tag": "FontAwesome4-TABLET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tablet.png"
+        },
+        {
+            "tag": "FontAwesome4-TACHOMETER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tachometer.png"
+        },
+        {
+            "tag": "FontAwesome4-TAG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tag.png"
+        },
+        {
+            "tag": "FontAwesome4-TAGS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tags.png"
+        },
+        {
+            "tag": "FontAwesome4-TASKS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tasks.png"
+        },
+        {
+            "tag": "FontAwesome4-TAXI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/taxi.png"
+        },
+        {
+            "tag": "FontAwesome4-TELEGRAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/telegram.png"
+        },
+        {
+            "tag": "FontAwesome4-TELEVISION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/television.png"
+        },
+        {
+            "tag": "FontAwesome4-TENCENT_WEIBO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tencent_weibo.png"
+        },
+        {
+            "tag": "FontAwesome4-TERMINAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/terminal.png"
+        },
+        {
+            "tag": "FontAwesome4-TEXT_HEIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/text_height.png"
+        },
+        {
+            "tag": "FontAwesome4-TEXT_WIDTH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/text_width.png"
+        },
+        {
+            "tag": "FontAwesome4-TH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/th.png"
+        },
+        {
+            "tag": "FontAwesome4-TH_LARGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/th_large.png"
+        },
+        {
+            "tag": "FontAwesome4-TH_LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/th_list.png"
+        },
+        {
+            "tag": "FontAwesome4-THEMEISLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/themeisle.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_0",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_0.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_1.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_2.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_3.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_4.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_EMPTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_empty.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_full.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_HALF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_half.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_QUARTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_quarter.png"
+        },
+        {
+            "tag": "FontAwesome4-THERMOMETER_THREE_QUARTERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thermometer_three_quarters.png"
+        },
+        {
+            "tag": "FontAwesome4-THUMB_TACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thumb_tack.png"
+        },
+        {
+            "tag": "FontAwesome4-THUMBS_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thumbs_down.png"
+        },
+        {
+            "tag": "FontAwesome4-THUMBS_O_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thumbs_o_down.png"
+        },
+        {
+            "tag": "FontAwesome4-THUMBS_O_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thumbs_o_up.png"
+        },
+        {
+            "tag": "FontAwesome4-THUMBS_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/thumbs_up.png"
+        },
+        {
+            "tag": "FontAwesome4-TICKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/ticket.png"
+        },
+        {
+            "tag": "FontAwesome4-TIMES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/times.png"
+        },
+        {
+            "tag": "FontAwesome4-TIMES_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/times_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-TIMES_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/times_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-TIMES_RECTANGLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/times_rectangle.png"
+        },
+        {
+            "tag": "FontAwesome4-TIMES_RECTANGLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/times_rectangle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-TINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tint.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_down.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_left.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_off.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_on.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_right.png"
+        },
+        {
+            "tag": "FontAwesome4-TOGGLE_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/toggle_up.png"
+        },
+        {
+            "tag": "FontAwesome4-TRADEMARK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/trademark.png"
+        },
+        {
+            "tag": "FontAwesome4-TRAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/train.png"
+        },
+        {
+            "tag": "FontAwesome4-TRANSGENDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/transgender.png"
+        },
+        {
+            "tag": "FontAwesome4-TRANSGENDER_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/transgender_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-TRASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/trash.png"
+        },
+        {
+            "tag": "FontAwesome4-TRASH_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/trash_o.png"
+        },
+        {
+            "tag": "FontAwesome4-TREE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tree.png"
+        },
+        {
+            "tag": "FontAwesome4-TRELLO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/trello.png"
+        },
+        {
+            "tag": "FontAwesome4-TRIPADVISOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tripadvisor.png"
+        },
+        {
+            "tag": "FontAwesome4-TROPHY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/trophy.png"
+        },
+        {
+            "tag": "FontAwesome4-TRUCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/truck.png"
+        },
+        {
+            "tag": "FontAwesome4-TRY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/try.png"
+        },
+        {
+            "tag": "FontAwesome4-TTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tty.png"
+        },
+        {
+            "tag": "FontAwesome4-TUMBLR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tumblr.png"
+        },
+        {
+            "tag": "FontAwesome4-TUMBLR_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tumblr_square.png"
+        },
+        {
+            "tag": "FontAwesome4-TURKISH_LIRA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/turkish_lira.png"
+        },
+        {
+            "tag": "FontAwesome4-TV",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/tv.png"
+        },
+        {
+            "tag": "FontAwesome4-TWITCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/twitch.png"
+        },
+        {
+            "tag": "FontAwesome4-TWITTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/twitter.png"
+        },
+        {
+            "tag": "FontAwesome4-TWITTER_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/twitter_square.png"
+        },
+        {
+            "tag": "FontAwesome4-UMBRELLA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/umbrella.png"
+        },
+        {
+            "tag": "FontAwesome4-UNDERLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/underline.png"
+        },
+        {
+            "tag": "FontAwesome4-UNDO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/undo.png"
+        },
+        {
+            "tag": "FontAwesome4-UNIVERSAL_ACCESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/universal_access.png"
+        },
+        {
+            "tag": "FontAwesome4-UNIVERSITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/university.png"
+        },
+        {
+            "tag": "FontAwesome4-UNLINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/unlink.png"
+        },
+        {
+            "tag": "FontAwesome4-UNLOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/unlock.png"
+        },
+        {
+            "tag": "FontAwesome4-UNLOCK_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/unlock_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-UNSORTED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/unsorted.png"
+        },
+        {
+            "tag": "FontAwesome4-UPLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/upload.png"
+        },
+        {
+            "tag": "FontAwesome4-USB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/usb.png"
+        },
+        {
+            "tag": "FontAwesome4-USD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/usd.png"
+        },
+        {
+            "tag": "FontAwesome4-USER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_circle.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_CIRCLE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_circle_o.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_MD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_md.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_o.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_plus.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_SECRET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_secret.png"
+        },
+        {
+            "tag": "FontAwesome4-USER_TIMES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/user_times.png"
+        },
+        {
+            "tag": "FontAwesome4-USERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/users.png"
+        },
+        {
+            "tag": "FontAwesome4-VCARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vcard.png"
+        },
+        {
+            "tag": "FontAwesome4-VCARD_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vcard_o.png"
+        },
+        {
+            "tag": "FontAwesome4-VENUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/venus.png"
+        },
+        {
+            "tag": "FontAwesome4-VENUS_DOUBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/venus_double.png"
+        },
+        {
+            "tag": "FontAwesome4-VENUS_MARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/venus_mars.png"
+        },
+        {
+            "tag": "FontAwesome4-VIACOIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/viacoin.png"
+        },
+        {
+            "tag": "FontAwesome4-VIADEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/viadeo.png"
+        },
+        {
+            "tag": "FontAwesome4-VIADEO_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/viadeo_square.png"
+        },
+        {
+            "tag": "FontAwesome4-VIDEO_CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/video_camera.png"
+        },
+        {
+            "tag": "FontAwesome4-VIMEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vimeo.png"
+        },
+        {
+            "tag": "FontAwesome4-VIMEO_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vimeo_square.png"
+        },
+        {
+            "tag": "FontAwesome4-VINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vine.png"
+        },
+        {
+            "tag": "FontAwesome4-VK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/vk.png"
+        },
+        {
+            "tag": "FontAwesome4-VOLUME_CONTROL_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/volume_control_phone.png"
+        },
+        {
+            "tag": "FontAwesome4-VOLUME_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/volume_down.png"
+        },
+        {
+            "tag": "FontAwesome4-VOLUME_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/volume_off.png"
+        },
+        {
+            "tag": "FontAwesome4-VOLUME_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/volume_up.png"
+        },
+        {
+            "tag": "FontAwesome4-WARNING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/warning.png"
+        },
+        {
+            "tag": "FontAwesome4-WECHAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wechat.png"
+        },
+        {
+            "tag": "FontAwesome4-WEIBO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/weibo.png"
+        },
+        {
+            "tag": "FontAwesome4-WEIXIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/weixin.png"
+        },
+        {
+            "tag": "FontAwesome4-WHATSAPP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/whatsapp.png"
+        },
+        {
+            "tag": "FontAwesome4-WHEELCHAIR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wheelchair.png"
+        },
+        {
+            "tag": "FontAwesome4-WHEELCHAIR_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wheelchair_alt.png"
+        },
+        {
+            "tag": "FontAwesome4-WIFI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wifi.png"
+        },
+        {
+            "tag": "FontAwesome4-WIKIPEDIA_W",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wikipedia_w.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOW_CLOSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/window_close.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOW_CLOSE_O",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/window_close_o.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOW_MAXIMIZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/window_maximize.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOW_MINIMIZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/window_minimize.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOW_RESTORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/window_restore.png"
+        },
+        {
+            "tag": "FontAwesome4-WINDOWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/windows.png"
+        },
+        {
+            "tag": "FontAwesome4-WON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/won.png"
+        },
+        {
+            "tag": "FontAwesome4-WORDPRESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wordpress.png"
+        },
+        {
+            "tag": "FontAwesome4-WPBEGINNER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wpbeginner.png"
+        },
+        {
+            "tag": "FontAwesome4-WPEXPLORER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wpexplorer.png"
+        },
+        {
+            "tag": "FontAwesome4-WPFORMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wpforms.png"
+        },
+        {
+            "tag": "FontAwesome4-WRENCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/wrench.png"
+        },
+        {
+            "tag": "FontAwesome4-XING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/xing.png"
+        },
+        {
+            "tag": "FontAwesome4-XING_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/xing_square.png"
+        },
+        {
+            "tag": "FontAwesome4-Y_COMBINATOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/y_combinator.png"
+        },
+        {
+            "tag": "FontAwesome4-Y_COMBINATOR_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/y_combinator_square.png"
+        },
+        {
+            "tag": "FontAwesome4-YAHOO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yahoo.png"
+        },
+        {
+            "tag": "FontAwesome4-YC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yc.png"
+        },
+        {
+            "tag": "FontAwesome4-YC_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yc_square.png"
+        },
+        {
+            "tag": "FontAwesome4-YELP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yelp.png"
+        },
+        {
+            "tag": "FontAwesome4-YEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yen.png"
+        },
+        {
+            "tag": "FontAwesome4-YOAST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/yoast.png"
+        },
+        {
+            "tag": "FontAwesome4-YOUTUBE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/youtube.png"
+        },
+        {
+            "tag": "FontAwesome4-YOUTUBE_PLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/youtube_play.png"
+        },
+        {
+            "tag": "FontAwesome4-YOUTUBE_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome/youtube_square.png"
+        }
+    ]
+}

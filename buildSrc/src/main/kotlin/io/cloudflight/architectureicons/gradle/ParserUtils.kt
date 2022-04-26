@@ -43,6 +43,15 @@ fun String.asEmptyFile(): File {
     return file
 }
 
+fun String.asFileIfNotExists(): File? {
+    val file = File(this)
+    if (file.exists()) {
+        return null
+    }
+    file.parentFile.mkdirs()
+    return file
+}
+
 
 fun ByteArray.toBase64(): String {
     return Base64.getEncoder().encodeToString(this)
