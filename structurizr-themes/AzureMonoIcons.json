@@ -1,0 +1,1030 @@
+{
+    "name": "AzureMonoIcons",
+    "description": "",
+    "elements": [
+        {
+            "tag": "AzureMonoIcons-AZURE_BATCH_AI",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureBatchAI%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BOT_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureBotService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COGNITIVE_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureCognitiveServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MACHINE_LEARNING_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureMachineLearningService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MACHINE_LEARNING_STUDIO",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureMachineLearningStudio%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MACHINE_LEARNING_STUDIO_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureMachineLearningStudioClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MACHINE_LEARNING_STUDIO_WEB_SERVICE_PLAN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureMachineLearningStudioWebServicePlan%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MACHINE_LEARNING_STUDIO_WORKSPACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureMachineLearningStudioWorkspace%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TRANSLATOR_TEXT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/AzureTranslatorText%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-MICROSOFT_GENOMICS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/AIMachineLearning/MicrosoftGenomics%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ANALYSIS_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureAnalysisServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATABRICKS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDatabricks%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_CATALOG",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataCatalog%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_EXPLORER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataExplorer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_LAKE_STORE_GEN1",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureDataLakeStoreGen1%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_HUB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureEventHub%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_HUB_CLUSTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureEventHubCluster%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_HDINSIGHT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsight%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_HDINSIGHT_CLUSTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsightCluster%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LOG_ANALYTICS_WORKSPACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureLogAnalyticsWorkspace%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STREAM_ANALYTICS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureStreamAnalytics%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STREAM_ANALYTICS_JOB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureStreamAnalyticsJob%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SYNAPSE_ANALYTICS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureSynapseAnalytics%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZUR_BLOCKCHAIN_MEMBER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Blockchain/AzurBlockchainMember%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZUR_BLOCKCHAIN_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Blockchain/AzurBlockchainService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZUR_BLOCKCHAIN_TOKEN_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Blockchain/AzurBlockchainTokenService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BLOCKCHAIN_CONNECTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Blockchain/AzureBlockchainConnection%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BLOCKCHAIN_CONSORTIUM",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Blockchain/AzureBlockchainConsortium%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureAppService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_SERVICE_PLAN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureAppServicePlan%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_SERVICE_PLAN_LINUX",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureAppServicePlanLinux%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_AUTOMANAGED_VIRTUAL_MACHINE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureAutomanagedVirtualMachine%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_AVAILABILTY_SET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureAvailabiltySet%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BATCH",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatch%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BATCH_ACCOUNT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureBatchAccount%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CLOUD_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureCloudServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CONTAINER_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureContainerService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DISK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureDisk%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DISK_ENCRYPTION_SET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureDiskEncryptionSet%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DISK_SNAPSHOT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureDiskSnapshot%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FUNCTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureFunction%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IMAGE_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureImageClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IMAGE_DEFINITION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureImageDefinition%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IMAGE_VERSION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureImageVersion%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MESH_APPLICATION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureMeshApplication%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVER_FARM",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureServerFarm%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_FABRIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureServiceFabric%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SHARED_IMAGE_GALLERY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureSharedImageGallery%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SPRING_CLOUD",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureSpringCloud%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_MACHINE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachine%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_MACHINE_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachineClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_MACHINE_SCALE_SET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachineScaleSet%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WEB_SLOT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureWebSlot%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WEB_TEST",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureWebTest%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WORKSPACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureWorkspace%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CONTAINER_INSTANCE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerInstance%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CONTAINER_REGISTRY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerRegistry%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_KUBERNETES_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureKubernetesService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_ENVIRONMENT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureServiceEnvironment%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_FABRIC_MESH",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureServiceFabricMesh%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WEB_APP_FOR_CONTAINERS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureWebAppForContainers%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COSMOS_DB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureCosmosDb%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATABASE_FOR_MARIA_DB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDatabaseForMariaDB%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATABASE_FOR_MY_SQL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDatabaseForMySQL%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATABASE_FOR_POSTGRE_SQL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDatabaseForPostgreSQL%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATABASE_MIGRATION_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDatabaseMigrationService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_BRICKS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDataBricks%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_EXPLORER_CLUSTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDataExplorerCluster%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_FACTORY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureDataFactory%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INSTANCE_POOL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureInstancePool%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGED_DATABASE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureManagedDatabase%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_POWER_BIEMBEDDED",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzurePowerBIEmbedded%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_REDIS_CACHE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureRedisCache%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSql%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_DATABASE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlDatabase%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_DATA_WAREHOUSE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlDataWarehouse%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_ELASTIC_POOL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlElasticPool%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_MANAGED_INSTANCE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlManagedInstance%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_SERVER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlServer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_STRETCH_DATABASE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlStretchDatabase%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SQL_VIRTUAL_MACHINE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSqlVirtualMachine%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SSISLIFT_AND_SHIFT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureSSISLiftAndShift%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_CLUSTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureVirtualCluster%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APPLICATION_INSIGHTS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureApplicationInsights%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ARTIFACTS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureArtifacts%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BOARDS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureBoards%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEV_OPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureDevOps%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEV_OPS_ORGANISATION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureDevOpsOrganisation%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEV_TEST_LABS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureDevTestLabs%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LAB_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureLabServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PIPELINES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzurePipelines%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_REPOS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureRepos%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TEST_PLANS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/DevOps/AzureTestPlans%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/Azure%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WORKBOOK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/AzureWorkbook%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WORKFLOW",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/AzureWorkflow%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectory%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_B2_C",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryB2C%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_CONNECT_HEALTH",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryConnectHealth%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_DOMAIN_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryDomainServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_GROUP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryGroup%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_IDENTITY_PROTECTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryIdentityProtection%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_ROLES_AND_ADMINISTRATORS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryRolesAndAdministrators%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACTIVE_DIRECTORY_USER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureActiveDirectoryUser%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_REGISTRATION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureAppRegistration%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ENTERPRISE_APPLICATION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureEnterpriseApplication%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IDENTITY_GOVERNANCE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureIdentityGovernance%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGED_IDENTITY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Identity/AzureManagedIdentity%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BIZ_TALK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureBizTalk%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_GRID",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGrid%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_GRID_DOMAIN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGridDomain%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_GRID_SUBSCRIPTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGridSubscription%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EVENT_GRID_TOPIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureEventGridTopic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INTEGRATION_ACCOUNT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureIntegrationAccount%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LOGIC_APPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureLogicApps%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PARTNER_TOPIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzurePartnerTopic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_BUS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureServiceBus%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_BUS_QUEUE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureServiceBusQueue%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_BUS_TOPIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureServiceBusTopic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SYSTEM_TOPIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Integration/AzureSystemTopic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEVICE_PROVISIONING_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureDeviceProvisioningService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DIGITAL_TWINS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureDigitalTwins%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IO_TCENTRAL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTCentral%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IO_TCENTRAL_APPLICATIONS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTCentralApplications%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IO_TEDGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTEdge%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IO_THUB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureIoTHub%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MAPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureMaps%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TIME_SERIES_DATA_SET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesDataSet%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TIME_SERIES_INSIGHTS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsights%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TIME_SERIES_INSIGHTS_ACCESS_POLICY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsightsAccessPolicy%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TIME_SERIES_INSIGHTS_ENVIRONMENT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsightsEnvironment%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TIME_SERIES_INSIGHTS_EVENT_SOURCE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/InternetOfThings/AzureTimeSeriesInsightsEventSource%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INTUNE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Intune/AzureIntune%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INTUNE_APPLE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Intune/AzureIntuneApple%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INTUNE_GOOGLE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Intune/AzureIntuneGoogle%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_INTUNE_WINDOWS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Intune/AzureIntuneWindows%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ARC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureArc%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ARC_MACHINE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureArcMachine%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_AUTOMATION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureAutomation%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BACKUP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBackup%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BLUEPRINTS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureBlueprints%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COMPLIANCE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCompliance%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COST_ALERT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCostAlert%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COST_ANALYSIS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCostAnalysis%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COST_BUDGET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCostBudget%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COST_MANAGEMENT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCostManagement%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_COST_MANAGEMENT_AND_BILLING",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureCostManagementAndBilling%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_GEO_RECOVERY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureGeoRecovery%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LIGHTHOUSE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLighthouse%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LOG_ANALYTICS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureLogAnalytics%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGED_APPLICATION_CENTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagedApplicationCenter%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGED_APPLICATIONS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagedApplications%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGEMENT_GROUPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagementGroups%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGEMENT_PORTAL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureManagementPortal%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_METRICS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureMetrics%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MONITOR",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureMonitor%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_POLICY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzurePolicy%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_RECOVERY_SERVICE_VAULT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureRecoveryServiceVault%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_RESOURCE_GRAPH_EXPLORER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceGraphExplorer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_RESOURCE_GROUP_LIST",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceGroupList%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_RESOURCE_GROUPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceGroups%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_RESOURCE_LINKED",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureResourceLinked%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SCHEDULER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureScheduler%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SITE_RECOVERY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSiteRecovery%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SOLUTIONS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSolutions%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SUBSCRIPTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureSubscription%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TAG",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureTag%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_USER_PRIVACY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AzureUserPrivacy%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MEDIA",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Media/AzureMedia%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MEDIA_FILE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Media/AzureMediaFile%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MEDIA_SERVICES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Media/AzureMediaServices%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_BOX_EDGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Migrate/AzureDataBoxEdge%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MIGRATE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Migrate/AzureMigrate%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MOBILE_APP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Mobile/AzureMobileApp%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MOBILE_ENGAGEMENT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Mobile/AzureMobileEngagement%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NOTIFICATION_HUB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Mobile/AzureNotificationHub%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NOTIFICATION_HUB_NAMESPACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Mobile/AzureNotificationHubNamespace%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NOTIFICATION_HUBS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Mobile/AzureNotificationHubs%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APPLICATION_GATEWAY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureApplicationGateway%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_AZURE_DDO_SPROTECTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureAzureDDoSProtection%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BASTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureBastion%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CDNPROFILE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureCDNProfile%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DNS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureDNS%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DNSSERVER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureDNSServer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EXPRESS_ROUTE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRoute%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EXPRESS_ROUTE_CIRCUIT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRouteCircuit%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_EXPRESS_ROUTE_DIRECT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureExpressRouteDirect%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FIREWALL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFirewall%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FIREWALL_MANAGER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFirewallManager%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FRONT_DOOR",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFrontDoor%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FRONT_DOOR_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureFrontDoorService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IPADDRESS_SPACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureIPAddressSpace%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_IPGROUPS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureIPGroups%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LOAD_BALANCER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureLoadBalancer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NAT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureNAT%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NETWORK_INTERFACE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureNetworkInterface%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NSG",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureNSG%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PRIVATE_LINK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePrivateLink%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PRIVATE_LINK_HUB",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePrivateLinkHub%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PRIVATE_LINK_SERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePrivateLinkService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PUBLIC_IPADDRESS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePublicIPAddress%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PUBLIC_IPADDRESS_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePublicIPAddressClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PUBLIC_IPPREFIX",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzurePublicIPPrefix%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ROUTE_FILTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureRouteFilter%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ROUTE_TABLE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureRouteTable%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_ENDPOINT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureServiceEndpoint%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SERVICE_ENDPOINT_POLICY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureServiceEndpointPolicy%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SUBNET",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureSubnet%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_TRAFFIC_MANAGER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureTrafficManager%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_NETWORK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualNetwork%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_NETWORK_PEERING",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualNetworkPeering%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VIRTUAL_WAN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVirtualWAN%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_VPNGATEWAY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureVPNGateway%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WAFPOLICIES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Networking/AzureWAFPolicies%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ACCESS_CONTROL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureAccessControl%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APPLICATION_SECURITY_GROUP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureApplicationSecurityGroup%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CONDITIONAL_ACCESS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureConditionalAccess%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEFENDER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureDefender%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_KEY_VAULT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureKeyVault%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SECURITY_CENTER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureSecurityCenter%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SENTINEL",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Security/AzureSentinel%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStack%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_CAPACITY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackCapacity%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_INFRASTRUCTURE_BACKUP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackInfrastructureBackup%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_MULTI_TENANCY",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackMultiTenancy%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_OFFER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackOffer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_PLAN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackPlan%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_UPDATE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackUpdate%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STACK_USER_SUBSCRIPTION",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Stack/AzureStackUserSubscription%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_BLOB_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureBlobStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_BOX",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDataBox%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DATA_LAKE_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDataLakeStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DISK_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDiskStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DISK_STORAGE_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureDiskStorageClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_FILE_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureFileStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_MANAGED_DISKS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureManagedDisks%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_NET_APP_FILES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureNetAppFiles%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_QUEUE_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureQueueStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STORAGE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureStorage%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STORAGE_CLASSIC",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureStorageClassic%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STORAGE_CONTAINER",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureStorageContainer%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_STOR_SIMPLE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Storage/AzureStorSimple%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_ADVANCED_TOOLS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureAdvancedTools%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APIMANAGEMENT",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureAPIManagement%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_SERVICE_CERTIFICATE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureAppServiceCertificate%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_APP_SERVICE_DOMAIN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureAppServiceDomain%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CDN",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureCDN%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CONTAINER_SETTINGS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureContainerSettings%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_CORS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureCORS%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_DEPLOYMENT_CREDENTIALS",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureDeploymentCredentials%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_LOG_STREAM",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureLogStream%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_PROPERTIES",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureProperties%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_QUOTA",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureQuota%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SEARCH",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureSearch%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_SIGNAL_RSERVICE",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureSignalRService%28m%29.png"
+        },
+        {
+            "tag": "AzureMonoIcons-AZURE_WEB_APP",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Web/AzureWebApp%28m%29.png"
+        }
+    ]
+}

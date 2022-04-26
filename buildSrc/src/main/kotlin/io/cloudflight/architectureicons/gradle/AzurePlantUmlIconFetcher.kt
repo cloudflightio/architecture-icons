@@ -1,5 +1,7 @@
 package io.cloudflight.architectureicons.gradle
 
+import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.encodeToStream
 import java.net.URL
 
 
@@ -16,11 +18,14 @@ class AzurePlantUmlIconFetcher {
 
     fun fetch(monoChrome: Boolean) {
         val className = if (monoChrome) "AzureMonoIcons" else "AzureIcons"
+        val theme = StructurizrTheme(className, "")
         val lines = URL(url).readText().lines()
         val file = "src/main/java/io/cloudflight/architectureicons/azure/$className.java".asEmptyFile()
-        val base64 = "src/main/resources/base64/$className.properties".asEmptyFile()
-        LICENSE_TEXT.forEach {
-            base64.appendLine("# " + it)
+        val base64 = "src/main/resources/base64/$className.properties".asFileIfNotExists()
+        base64?.let { f ->
+            LICENSE_TEXT.forEach {
+                f.appendLine("# " + it)
+            }
         }
         file.appendLine("package io.cloudflight.architectureicons.azure;")
         file.appendLine()
@@ -63,16 +68,18 @@ class AzurePlantUmlIconFetcher {
                         ) else pumlUrl.replace(".puml", ".png"))
 
                         val constName = name.toConstName()
+                        val iconId = "$className-$constName"
 
                         file.appendLine("        /**")
                         file.appendLine("         * <img alt=\"$pngUrl\" src=\"$rootUrl/$pngUrl\">")
                         file.appendLine("         */")
                         if (monoChrome) {
-                            file.appendLine("        public static final Icon $constName = new Icon(\"$className-$constName\", ROOT + \"/$pngUrl\",  AzureIcons.$category.$constName.getPlantUmlSprite());")
+                            file.appendLine("        public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/$pngUrl\",  AzureIcons.$category.$constName.getPlantUmlSprite());")
                         } else {
-                            file.appendLine("        public static final Icon $constName = new Icon(\"$className-$constName\", ROOT + \"/$pngUrl\",  new PlantUmlSprite(\"$name\", COMMONS, ROOT + \"/$pumlUrl\"));")
+                            file.appendLine("        public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/$pngUrl\",  new PlantUmlSprite(\"$name\", COMMONS, ROOT + \"/$pumlUrl\"));")
                         }
-                        base64.appendLine(constName + "=" + URL(rootUrl + "/" + pngUrl).readBytes().toBase64())
+                        theme.elements.add(ThemeElement(tag = iconId, icon = rootUrl + "/" + pngUrl))
+                        base64?.appendLine(constName + "=" + URL(rootUrl + "/" + pngUrl).readBytes().toBase64())
                     }
                 }
 
@@ -82,6 +89,12 @@ class AzurePlantUmlIconFetcher {
         }
         file.appendLine("    }")
         file.appendLine("}")
+
+        val themeFile = java.io.File("structurizr-themes/$className.json")
+        themeFile.parentFile.mkdirs()
+        themeFile.outputStream().use {
+            Json { prettyPrint = true }.encodeToStream(theme, it)
+        }
     }
 }
 

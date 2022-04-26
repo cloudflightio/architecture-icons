@@ -1,0 +1,3738 @@
+{
+    "name": "Material",
+    "description": "",
+    "elements": [
+        {
+            "tag": "Material-SPRITE_3D_ROTATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/3d_rotation.png"
+        },
+        {
+            "tag": "Material-AC_UNIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/ac_unit.png"
+        },
+        {
+            "tag": "Material-ACCESS_ALARM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/access_alarm.png"
+        },
+        {
+            "tag": "Material-ACCESS_ALARMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/access_alarms.png"
+        },
+        {
+            "tag": "Material-ACCESS_TIME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/access_time.png"
+        },
+        {
+            "tag": "Material-ACCESSIBILITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/accessibility.png"
+        },
+        {
+            "tag": "Material-ACCESSIBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/accessible.png"
+        },
+        {
+            "tag": "Material-ACCOUNT_BALANCE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/account_balance.png"
+        },
+        {
+            "tag": "Material-ACCOUNT_BALANCE_WALLET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/account_balance_wallet.png"
+        },
+        {
+            "tag": "Material-ACCOUNT_BOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/account_box.png"
+        },
+        {
+            "tag": "Material-ACCOUNT_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/account_circle.png"
+        },
+        {
+            "tag": "Material-ADB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/adb.png"
+        },
+        {
+            "tag": "Material-ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add.png"
+        },
+        {
+            "tag": "Material-ADD_A_PHOTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_a_photo.png"
+        },
+        {
+            "tag": "Material-ADD_ALARM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_alarm.png"
+        },
+        {
+            "tag": "Material-ADD_ALERT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_alert.png"
+        },
+        {
+            "tag": "Material-ADD_BOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_box.png"
+        },
+        {
+            "tag": "Material-ADD_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_circle.png"
+        },
+        {
+            "tag": "Material-ADD_CIRCLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_circle_outline.png"
+        },
+        {
+            "tag": "Material-ADD_LOCATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_location.png"
+        },
+        {
+            "tag": "Material-ADD_SHOPPING_CART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_shopping_cart.png"
+        },
+        {
+            "tag": "Material-ADD_TO_PHOTOS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_to_photos.png"
+        },
+        {
+            "tag": "Material-ADD_TO_QUEUE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/add_to_queue.png"
+        },
+        {
+            "tag": "Material-ADJUST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/adjust.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_FLAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_flat.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_FLAT_ANGLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_flat_angled.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_INDIVIDUAL_SUITE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_individual_suite.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_LEGROOM_EXTRA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_legroom_extra.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_LEGROOM_NORMAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_legroom_normal.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_LEGROOM_REDUCED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_legroom_reduced.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_RECLINE_EXTRA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_recline_extra.png"
+        },
+        {
+            "tag": "Material-AIRLINE_SEAT_RECLINE_NORMAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airline_seat_recline_normal.png"
+        },
+        {
+            "tag": "Material-AIRPLANEMODE_ACTIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airplanemode_active.png"
+        },
+        {
+            "tag": "Material-AIRPLANEMODE_INACTIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airplanemode_inactive.png"
+        },
+        {
+            "tag": "Material-AIRPLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airplay.png"
+        },
+        {
+            "tag": "Material-AIRPORT_SHUTTLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/airport_shuttle.png"
+        },
+        {
+            "tag": "Material-ALARM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/alarm.png"
+        },
+        {
+            "tag": "Material-ALARM_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/alarm_add.png"
+        },
+        {
+            "tag": "Material-ALARM_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/alarm_off.png"
+        },
+        {
+            "tag": "Material-ALARM_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/alarm_on.png"
+        },
+        {
+            "tag": "Material-ALBUM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/album.png"
+        },
+        {
+            "tag": "Material-ALL_INCLUSIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/all_inclusive.png"
+        },
+        {
+            "tag": "Material-ALL_OUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/all_out.png"
+        },
+        {
+            "tag": "Material-ANDROID",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/android.png"
+        },
+        {
+            "tag": "Material-ANNOUNCEMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/announcement.png"
+        },
+        {
+            "tag": "Material-APPS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/apps.png"
+        },
+        {
+            "tag": "Material-ARCHIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/archive.png"
+        },
+        {
+            "tag": "Material-ARROW_BACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_back.png"
+        },
+        {
+            "tag": "Material-ARROW_DOWNWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_downward.png"
+        },
+        {
+            "tag": "Material-ARROW_DROP_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_drop_down.png"
+        },
+        {
+            "tag": "Material-ARROW_DROP_DOWN_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_drop_down_circle.png"
+        },
+        {
+            "tag": "Material-ARROW_DROP_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_drop_up.png"
+        },
+        {
+            "tag": "Material-ARROW_FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_forward.png"
+        },
+        {
+            "tag": "Material-ARROW_UPWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/arrow_upward.png"
+        },
+        {
+            "tag": "Material-ART_TRACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/art_track.png"
+        },
+        {
+            "tag": "Material-ASPECT_RATIO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/aspect_ratio.png"
+        },
+        {
+            "tag": "Material-ASSESSMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assessment.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT_IND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment_ind.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT_LATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment_late.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT_RETURN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment_return.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT_RETURNED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment_returned.png"
+        },
+        {
+            "tag": "Material-ASSIGNMENT_TURNED_IN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assignment_turned_in.png"
+        },
+        {
+            "tag": "Material-ASSISTANT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assistant.png"
+        },
+        {
+            "tag": "Material-ASSISTANT_PHOTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/assistant_photo.png"
+        },
+        {
+            "tag": "Material-ATTACH_FILE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/attach_file.png"
+        },
+        {
+            "tag": "Material-ATTACH_MONEY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/attach_money.png"
+        },
+        {
+            "tag": "Material-ATTACHMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/attachment.png"
+        },
+        {
+            "tag": "Material-AUDIOTRACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/audiotrack.png"
+        },
+        {
+            "tag": "Material-AUTORENEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/autorenew.png"
+        },
+        {
+            "tag": "Material-AV_TIMER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/av_timer.png"
+        },
+        {
+            "tag": "Material-BACKSPACE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/backspace.png"
+        },
+        {
+            "tag": "Material-BACKUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/backup.png"
+        },
+        {
+            "tag": "Material-BATTERY_ALERT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/battery_alert.png"
+        },
+        {
+            "tag": "Material-BATTERY_CHARGING_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/battery_charging_full.png"
+        },
+        {
+            "tag": "Material-BATTERY_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/battery_full.png"
+        },
+        {
+            "tag": "Material-BATTERY_STD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/battery_std.png"
+        },
+        {
+            "tag": "Material-BATTERY_UNKNOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/battery_unknown.png"
+        },
+        {
+            "tag": "Material-BEACH_ACCESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/beach_access.png"
+        },
+        {
+            "tag": "Material-BEENHERE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/beenhere.png"
+        },
+        {
+            "tag": "Material-BLOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/block.png"
+        },
+        {
+            "tag": "Material-BLUETOOTH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bluetooth.png"
+        },
+        {
+            "tag": "Material-BLUETOOTH_AUDIO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bluetooth_audio.png"
+        },
+        {
+            "tag": "Material-BLUETOOTH_CONNECTED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bluetooth_connected.png"
+        },
+        {
+            "tag": "Material-BLUETOOTH_DISABLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bluetooth_disabled.png"
+        },
+        {
+            "tag": "Material-BLUETOOTH_SEARCHING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bluetooth_searching.png"
+        },
+        {
+            "tag": "Material-BLUR_CIRCULAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/blur_circular.png"
+        },
+        {
+            "tag": "Material-BLUR_LINEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/blur_linear.png"
+        },
+        {
+            "tag": "Material-BLUR_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/blur_off.png"
+        },
+        {
+            "tag": "Material-BLUR_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/blur_on.png"
+        },
+        {
+            "tag": "Material-BOOK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/book.png"
+        },
+        {
+            "tag": "Material-BOOKMARK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bookmark.png"
+        },
+        {
+            "tag": "Material-BOOKMARK_BORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bookmark_border.png"
+        },
+        {
+            "tag": "Material-BORDER_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_all.png"
+        },
+        {
+            "tag": "Material-BORDER_BOTTOM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_bottom.png"
+        },
+        {
+            "tag": "Material-BORDER_CLEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_clear.png"
+        },
+        {
+            "tag": "Material-BORDER_COLOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_color.png"
+        },
+        {
+            "tag": "Material-BORDER_HORIZONTAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_horizontal.png"
+        },
+        {
+            "tag": "Material-BORDER_INNER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_inner.png"
+        },
+        {
+            "tag": "Material-BORDER_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_left.png"
+        },
+        {
+            "tag": "Material-BORDER_OUTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_outer.png"
+        },
+        {
+            "tag": "Material-BORDER_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_right.png"
+        },
+        {
+            "tag": "Material-BORDER_STYLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_style.png"
+        },
+        {
+            "tag": "Material-BORDER_TOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_top.png"
+        },
+        {
+            "tag": "Material-BORDER_VERTICAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/border_vertical.png"
+        },
+        {
+            "tag": "Material-BRANDING_WATERMARK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/branding_watermark.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_1.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_2.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_3.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_4.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_5.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_6",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_6.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_7",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_7.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_AUTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_auto.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_HIGH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_high.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_LOW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_low.png"
+        },
+        {
+            "tag": "Material-BRIGHTNESS_MEDIUM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brightness_medium.png"
+        },
+        {
+            "tag": "Material-BROKEN_IMAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/broken_image.png"
+        },
+        {
+            "tag": "Material-BRUSH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/brush.png"
+        },
+        {
+            "tag": "Material-BUBBLE_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bubble_chart.png"
+        },
+        {
+            "tag": "Material-BUG_REPORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/bug_report.png"
+        },
+        {
+            "tag": "Material-BUILD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/build.png"
+        },
+        {
+            "tag": "Material-BURST_MODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/burst_mode.png"
+        },
+        {
+            "tag": "Material-BUSINESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/business.png"
+        },
+        {
+            "tag": "Material-BUSINESS_CENTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/business_center.png"
+        },
+        {
+            "tag": "Material-CACHED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cached.png"
+        },
+        {
+            "tag": "Material-CAKE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cake.png"
+        },
+        {
+            "tag": "Material-CALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call.png"
+        },
+        {
+            "tag": "Material-CALL_END",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_end.png"
+        },
+        {
+            "tag": "Material-CALL_MADE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_made.png"
+        },
+        {
+            "tag": "Material-CALL_MERGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_merge.png"
+        },
+        {
+            "tag": "Material-CALL_MISSED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_missed.png"
+        },
+        {
+            "tag": "Material-CALL_MISSED_OUTGOING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_missed_outgoing.png"
+        },
+        {
+            "tag": "Material-CALL_RECEIVED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_received.png"
+        },
+        {
+            "tag": "Material-CALL_SPLIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_split.png"
+        },
+        {
+            "tag": "Material-CALL_TO_ACTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/call_to_action.png"
+        },
+        {
+            "tag": "Material-CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera.png"
+        },
+        {
+            "tag": "Material-CAMERA_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera_alt.png"
+        },
+        {
+            "tag": "Material-CAMERA_ENHANCE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera_enhance.png"
+        },
+        {
+            "tag": "Material-CAMERA_FRONT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera_front.png"
+        },
+        {
+            "tag": "Material-CAMERA_REAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera_rear.png"
+        },
+        {
+            "tag": "Material-CAMERA_ROLL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/camera_roll.png"
+        },
+        {
+            "tag": "Material-CANCEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cancel.png"
+        },
+        {
+            "tag": "Material-CARD_GIFTCARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/card_giftcard.png"
+        },
+        {
+            "tag": "Material-CARD_MEMBERSHIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/card_membership.png"
+        },
+        {
+            "tag": "Material-CARD_TRAVEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/card_travel.png"
+        },
+        {
+            "tag": "Material-CASINO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/casino.png"
+        },
+        {
+            "tag": "Material-CAST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cast.png"
+        },
+        {
+            "tag": "Material-CAST_CONNECTED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cast_connected.png"
+        },
+        {
+            "tag": "Material-CENTER_FOCUS_STRONG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/center_focus_strong.png"
+        },
+        {
+            "tag": "Material-CENTER_FOCUS_WEAK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/center_focus_weak.png"
+        },
+        {
+            "tag": "Material-CHANGE_HISTORY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/change_history.png"
+        },
+        {
+            "tag": "Material-CHAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chat.png"
+        },
+        {
+            "tag": "Material-CHAT_BUBBLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chat_bubble.png"
+        },
+        {
+            "tag": "Material-CHAT_BUBBLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chat_bubble_outline.png"
+        },
+        {
+            "tag": "Material-CHECK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/check.png"
+        },
+        {
+            "tag": "Material-CHECK_BOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/check_box.png"
+        },
+        {
+            "tag": "Material-CHECK_BOX_OUTLINE_BLANK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/check_box_outline_blank.png"
+        },
+        {
+            "tag": "Material-CHECK_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/check_circle.png"
+        },
+        {
+            "tag": "Material-CHEVRON_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chevron_left.png"
+        },
+        {
+            "tag": "Material-CHEVRON_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chevron_right.png"
+        },
+        {
+            "tag": "Material-CHILD_CARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/child_care.png"
+        },
+        {
+            "tag": "Material-CHILD_FRIENDLY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/child_friendly.png"
+        },
+        {
+            "tag": "Material-CHROME_READER_MODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/chrome_reader_mode.png"
+        },
+        {
+            "tag": "Material-CLASS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/class.png"
+        },
+        {
+            "tag": "Material-CLEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/clear.png"
+        },
+        {
+            "tag": "Material-CLEAR_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/clear_all.png"
+        },
+        {
+            "tag": "Material-CLOSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/close.png"
+        },
+        {
+            "tag": "Material-CLOSED_CAPTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/closed_caption.png"
+        },
+        {
+            "tag": "Material-CLOUD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud.png"
+        },
+        {
+            "tag": "Material-CLOUD_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_circle.png"
+        },
+        {
+            "tag": "Material-CLOUD_DONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_done.png"
+        },
+        {
+            "tag": "Material-CLOUD_DOWNLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_download.png"
+        },
+        {
+            "tag": "Material-CLOUD_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_off.png"
+        },
+        {
+            "tag": "Material-CLOUD_QUEUE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_queue.png"
+        },
+        {
+            "tag": "Material-CLOUD_UPLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/cloud_upload.png"
+        },
+        {
+            "tag": "Material-CODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/code.png"
+        },
+        {
+            "tag": "Material-COLLECTIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/collections.png"
+        },
+        {
+            "tag": "Material-COLLECTIONS_BOOKMARK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/collections_bookmark.png"
+        },
+        {
+            "tag": "Material-COLOR_LENS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/color_lens.png"
+        },
+        {
+            "tag": "Material-COLORIZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/colorize.png"
+        },
+        {
+            "tag": "Material-COMMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/comment.png"
+        },
+        {
+            "tag": "Material-COMPARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/compare.png"
+        },
+        {
+            "tag": "Material-COMPARE_ARROWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/compare_arrows.png"
+        },
+        {
+            "tag": "Material-COMPUTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/computer.png"
+        },
+        {
+            "tag": "Material-CONFIRMATION_NUMBER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/confirmation_number.png"
+        },
+        {
+            "tag": "Material-CONTACT_MAIL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/contact_mail.png"
+        },
+        {
+            "tag": "Material-CONTACT_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/contact_phone.png"
+        },
+        {
+            "tag": "Material-CONTACTS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/contacts.png"
+        },
+        {
+            "tag": "Material-CONTENT_COPY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/content_copy.png"
+        },
+        {
+            "tag": "Material-CONTENT_CUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/content_cut.png"
+        },
+        {
+            "tag": "Material-CONTENT_PASTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/content_paste.png"
+        },
+        {
+            "tag": "Material-CONTROL_POINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/control_point.png"
+        },
+        {
+            "tag": "Material-CONTROL_POINT_DUPLICATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/control_point_duplicate.png"
+        },
+        {
+            "tag": "Material-COPYRIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/copyright.png"
+        },
+        {
+            "tag": "Material-CREATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/create.png"
+        },
+        {
+            "tag": "Material-CREATE_NEW_FOLDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/create_new_folder.png"
+        },
+        {
+            "tag": "Material-CREDIT_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/credit_card.png"
+        },
+        {
+            "tag": "Material-CROP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop.png"
+        },
+        {
+            "tag": "Material-CROP_16_9",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_16_9.png"
+        },
+        {
+            "tag": "Material-CROP_3_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_3_2.png"
+        },
+        {
+            "tag": "Material-CROP_5_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_5_4.png"
+        },
+        {
+            "tag": "Material-CROP_7_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_7_5.png"
+        },
+        {
+            "tag": "Material-CROP_DIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_din.png"
+        },
+        {
+            "tag": "Material-CROP_FREE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_free.png"
+        },
+        {
+            "tag": "Material-CROP_LANDSCAPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_landscape.png"
+        },
+        {
+            "tag": "Material-CROP_ORIGINAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_original.png"
+        },
+        {
+            "tag": "Material-CROP_PORTRAIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_portrait.png"
+        },
+        {
+            "tag": "Material-CROP_ROTATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_rotate.png"
+        },
+        {
+            "tag": "Material-CROP_SQUARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/crop_square.png"
+        },
+        {
+            "tag": "Material-DASHBOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dashboard.png"
+        },
+        {
+            "tag": "Material-DATA_USAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/data_usage.png"
+        },
+        {
+            "tag": "Material-DATE_RANGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/date_range.png"
+        },
+        {
+            "tag": "Material-DEHAZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dehaze.png"
+        },
+        {
+            "tag": "Material-DELETE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/delete.png"
+        },
+        {
+            "tag": "Material-DELETE_FOREVER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/delete_forever.png"
+        },
+        {
+            "tag": "Material-DELETE_SWEEP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/delete_sweep.png"
+        },
+        {
+            "tag": "Material-DESCRIPTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/description.png"
+        },
+        {
+            "tag": "Material-DESKTOP_MAC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/desktop_mac.png"
+        },
+        {
+            "tag": "Material-DESKTOP_WINDOWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/desktop_windows.png"
+        },
+        {
+            "tag": "Material-DETAILS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/details.png"
+        },
+        {
+            "tag": "Material-DEVELOPER_BOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/developer_board.png"
+        },
+        {
+            "tag": "Material-DEVELOPER_MODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/developer_mode.png"
+        },
+        {
+            "tag": "Material-DEVICE_HUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/device_hub.png"
+        },
+        {
+            "tag": "Material-DEVICES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/devices.png"
+        },
+        {
+            "tag": "Material-DEVICES_OTHER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/devices_other.png"
+        },
+        {
+            "tag": "Material-DIALER_SIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dialer_sip.png"
+        },
+        {
+            "tag": "Material-DIALPAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dialpad.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_BIKE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_bike.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_BOAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_boat.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_BUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_bus.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_CAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_car.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_RAILWAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_railway.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_RUN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_run.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_SUBWAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_subway.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_TRANSIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_transit.png"
+        },
+        {
+            "tag": "Material-DIRECTIONS_WALK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/directions_walk.png"
+        },
+        {
+            "tag": "Material-DISC_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/disc_full.png"
+        },
+        {
+            "tag": "Material-DNS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dns.png"
+        },
+        {
+            "tag": "Material-DO_NOT_DISTURB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/do_not_disturb.png"
+        },
+        {
+            "tag": "Material-DO_NOT_DISTURB_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/do_not_disturb_alt.png"
+        },
+        {
+            "tag": "Material-DO_NOT_DISTURB_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/do_not_disturb_off.png"
+        },
+        {
+            "tag": "Material-DO_NOT_DISTURB_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/do_not_disturb_on.png"
+        },
+        {
+            "tag": "Material-DOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dock.png"
+        },
+        {
+            "tag": "Material-DOMAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/domain.png"
+        },
+        {
+            "tag": "Material-DONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/done.png"
+        },
+        {
+            "tag": "Material-DONE_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/done_all.png"
+        },
+        {
+            "tag": "Material-DONUT_LARGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/donut_large.png"
+        },
+        {
+            "tag": "Material-DONUT_SMALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/donut_small.png"
+        },
+        {
+            "tag": "Material-DRAFTS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/drafts.png"
+        },
+        {
+            "tag": "Material-DRAG_HANDLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/drag_handle.png"
+        },
+        {
+            "tag": "Material-DRIVE_ETA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/drive_eta.png"
+        },
+        {
+            "tag": "Material-DVR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/dvr.png"
+        },
+        {
+            "tag": "Material-EDIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/edit.png"
+        },
+        {
+            "tag": "Material-EDIT_LOCATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/edit_location.png"
+        },
+        {
+            "tag": "Material-EJECT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/eject.png"
+        },
+        {
+            "tag": "Material-EMAIL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/email.png"
+        },
+        {
+            "tag": "Material-ENHANCED_ENCRYPTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/enhanced_encryption.png"
+        },
+        {
+            "tag": "Material-EQUALIZER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/equalizer.png"
+        },
+        {
+            "tag": "Material-ERROR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/error.png"
+        },
+        {
+            "tag": "Material-ERROR_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/error_outline.png"
+        },
+        {
+            "tag": "Material-EURO_SYMBOL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/euro_symbol.png"
+        },
+        {
+            "tag": "Material-EV_STATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/ev_station.png"
+        },
+        {
+            "tag": "Material-EVENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/event.png"
+        },
+        {
+            "tag": "Material-EVENT_AVAILABLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/event_available.png"
+        },
+        {
+            "tag": "Material-EVENT_BUSY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/event_busy.png"
+        },
+        {
+            "tag": "Material-EVENT_NOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/event_note.png"
+        },
+        {
+            "tag": "Material-EVENT_SEAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/event_seat.png"
+        },
+        {
+            "tag": "Material-EXIT_TO_APP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exit_to_app.png"
+        },
+        {
+            "tag": "Material-EXPAND_LESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/expand_less.png"
+        },
+        {
+            "tag": "Material-EXPAND_MORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/expand_more.png"
+        },
+        {
+            "tag": "Material-EXPLICIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/explicit.png"
+        },
+        {
+            "tag": "Material-EXPLORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/explore.png"
+        },
+        {
+            "tag": "Material-EXPOSURE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure.png"
+        },
+        {
+            "tag": "Material-EXPOSURE_NEG_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure_neg_1.png"
+        },
+        {
+            "tag": "Material-EXPOSURE_NEG_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure_neg_2.png"
+        },
+        {
+            "tag": "Material-EXPOSURE_PLUS_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure_plus_1.png"
+        },
+        {
+            "tag": "Material-EXPOSURE_PLUS_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure_plus_2.png"
+        },
+        {
+            "tag": "Material-EXPOSURE_ZERO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/exposure_zero.png"
+        },
+        {
+            "tag": "Material-EXTENSION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/extension.png"
+        },
+        {
+            "tag": "Material-FACE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/face.png"
+        },
+        {
+            "tag": "Material-FAST_FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fast_forward.png"
+        },
+        {
+            "tag": "Material-FAST_REWIND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fast_rewind.png"
+        },
+        {
+            "tag": "Material-FAVORITE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/favorite.png"
+        },
+        {
+            "tag": "Material-FAVORITE_BORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/favorite_border.png"
+        },
+        {
+            "tag": "Material-FEATURED_PLAY_LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/featured_play_list.png"
+        },
+        {
+            "tag": "Material-FEATURED_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/featured_video.png"
+        },
+        {
+            "tag": "Material-FEEDBACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/feedback.png"
+        },
+        {
+            "tag": "Material-FIBER_DVR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fiber_dvr.png"
+        },
+        {
+            "tag": "Material-FIBER_MANUAL_RECORD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fiber_manual_record.png"
+        },
+        {
+            "tag": "Material-FIBER_NEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fiber_new.png"
+        },
+        {
+            "tag": "Material-FIBER_PIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fiber_pin.png"
+        },
+        {
+            "tag": "Material-FIBER_SMART_RECORD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fiber_smart_record.png"
+        },
+        {
+            "tag": "Material-FILE_DOWNLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/file_download.png"
+        },
+        {
+            "tag": "Material-FILE_UPLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/file_upload.png"
+        },
+        {
+            "tag": "Material-FILTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter.png"
+        },
+        {
+            "tag": "Material-FILTER_1",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_1.png"
+        },
+        {
+            "tag": "Material-FILTER_2",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_2.png"
+        },
+        {
+            "tag": "Material-FILTER_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_3.png"
+        },
+        {
+            "tag": "Material-FILTER_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_4.png"
+        },
+        {
+            "tag": "Material-FILTER_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_5.png"
+        },
+        {
+            "tag": "Material-FILTER_6",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_6.png"
+        },
+        {
+            "tag": "Material-FILTER_7",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_7.png"
+        },
+        {
+            "tag": "Material-FILTER_8",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_8.png"
+        },
+        {
+            "tag": "Material-FILTER_9",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_9.png"
+        },
+        {
+            "tag": "Material-FILTER_9_PLUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_9_plus.png"
+        },
+        {
+            "tag": "Material-FILTER_B_AND_W",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_b_and_w.png"
+        },
+        {
+            "tag": "Material-FILTER_CENTER_FOCUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_center_focus.png"
+        },
+        {
+            "tag": "Material-FILTER_DRAMA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_drama.png"
+        },
+        {
+            "tag": "Material-FILTER_FRAMES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_frames.png"
+        },
+        {
+            "tag": "Material-FILTER_HDR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_hdr.png"
+        },
+        {
+            "tag": "Material-FILTER_LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_list.png"
+        },
+        {
+            "tag": "Material-FILTER_NONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_none.png"
+        },
+        {
+            "tag": "Material-FILTER_TILT_SHIFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_tilt_shift.png"
+        },
+        {
+            "tag": "Material-FILTER_VINTAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/filter_vintage.png"
+        },
+        {
+            "tag": "Material-FIND_IN_PAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/find_in_page.png"
+        },
+        {
+            "tag": "Material-FIND_REPLACE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/find_replace.png"
+        },
+        {
+            "tag": "Material-FINGERPRINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fingerprint.png"
+        },
+        {
+            "tag": "Material-FIRST_PAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/first_page.png"
+        },
+        {
+            "tag": "Material-FITNESS_CENTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fitness_center.png"
+        },
+        {
+            "tag": "Material-FLAG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flag.png"
+        },
+        {
+            "tag": "Material-FLARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flare.png"
+        },
+        {
+            "tag": "Material-FLASH_AUTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flash_auto.png"
+        },
+        {
+            "tag": "Material-FLASH_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flash_off.png"
+        },
+        {
+            "tag": "Material-FLASH_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flash_on.png"
+        },
+        {
+            "tag": "Material-FLIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flight.png"
+        },
+        {
+            "tag": "Material-FLIGHT_LAND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flight_land.png"
+        },
+        {
+            "tag": "Material-FLIGHT_TAKEOFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flight_takeoff.png"
+        },
+        {
+            "tag": "Material-FLIP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flip.png"
+        },
+        {
+            "tag": "Material-FLIP_TO_BACK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flip_to_back.png"
+        },
+        {
+            "tag": "Material-FLIP_TO_FRONT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/flip_to_front.png"
+        },
+        {
+            "tag": "Material-FOLDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/folder.png"
+        },
+        {
+            "tag": "Material-FOLDER_OPEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/folder_open.png"
+        },
+        {
+            "tag": "Material-FOLDER_SHARED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/folder_shared.png"
+        },
+        {
+            "tag": "Material-FOLDER_SPECIAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/folder_special.png"
+        },
+        {
+            "tag": "Material-FONT_DOWNLOAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/font_download.png"
+        },
+        {
+            "tag": "Material-FORMAT_ALIGN_CENTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_align_center.png"
+        },
+        {
+            "tag": "Material-FORMAT_ALIGN_JUSTIFY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_align_justify.png"
+        },
+        {
+            "tag": "Material-FORMAT_ALIGN_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_align_left.png"
+        },
+        {
+            "tag": "Material-FORMAT_ALIGN_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_align_right.png"
+        },
+        {
+            "tag": "Material-FORMAT_BOLD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_bold.png"
+        },
+        {
+            "tag": "Material-FORMAT_CLEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_clear.png"
+        },
+        {
+            "tag": "Material-FORMAT_COLOR_FILL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_color_fill.png"
+        },
+        {
+            "tag": "Material-FORMAT_COLOR_RESET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_color_reset.png"
+        },
+        {
+            "tag": "Material-FORMAT_COLOR_TEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_color_text.png"
+        },
+        {
+            "tag": "Material-FORMAT_INDENT_DECREASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_indent_decrease.png"
+        },
+        {
+            "tag": "Material-FORMAT_INDENT_INCREASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_indent_increase.png"
+        },
+        {
+            "tag": "Material-FORMAT_ITALIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_italic.png"
+        },
+        {
+            "tag": "Material-FORMAT_LINE_SPACING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_line_spacing.png"
+        },
+        {
+            "tag": "Material-FORMAT_LIST_BULLETED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_list_bulleted.png"
+        },
+        {
+            "tag": "Material-FORMAT_LIST_NUMBERED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_list_numbered.png"
+        },
+        {
+            "tag": "Material-FORMAT_PAINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_paint.png"
+        },
+        {
+            "tag": "Material-FORMAT_QUOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_quote.png"
+        },
+        {
+            "tag": "Material-FORMAT_SHAPES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_shapes.png"
+        },
+        {
+            "tag": "Material-FORMAT_SIZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_size.png"
+        },
+        {
+            "tag": "Material-FORMAT_STRIKETHROUGH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_strikethrough.png"
+        },
+        {
+            "tag": "Material-FORMAT_TEXTDIRECTION_L_TO_R",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_textdirection_l_to_r.png"
+        },
+        {
+            "tag": "Material-FORMAT_TEXTDIRECTION_R_TO_L",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_textdirection_r_to_l.png"
+        },
+        {
+            "tag": "Material-FORMAT_UNDERLINED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/format_underlined.png"
+        },
+        {
+            "tag": "Material-FORUM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/forum.png"
+        },
+        {
+            "tag": "Material-FORWARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/forward.png"
+        },
+        {
+            "tag": "Material-FORWARD_10",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/forward_10.png"
+        },
+        {
+            "tag": "Material-FORWARD_30",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/forward_30.png"
+        },
+        {
+            "tag": "Material-FORWARD_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/forward_5.png"
+        },
+        {
+            "tag": "Material-FREE_BREAKFAST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/free_breakfast.png"
+        },
+        {
+            "tag": "Material-FULLSCREEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fullscreen.png"
+        },
+        {
+            "tag": "Material-FULLSCREEN_EXIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/fullscreen_exit.png"
+        },
+        {
+            "tag": "Material-FUNCTIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/functions.png"
+        },
+        {
+            "tag": "Material-G_TRANSLATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/g_translate.png"
+        },
+        {
+            "tag": "Material-GAMEPAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gamepad.png"
+        },
+        {
+            "tag": "Material-GAMES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/games.png"
+        },
+        {
+            "tag": "Material-GAVEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gavel.png"
+        },
+        {
+            "tag": "Material-GESTURE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gesture.png"
+        },
+        {
+            "tag": "Material-GET_APP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/get_app.png"
+        },
+        {
+            "tag": "Material-GIF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gif.png"
+        },
+        {
+            "tag": "Material-GOAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/goat.png"
+        },
+        {
+            "tag": "Material-GOLF_COURSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/golf_course.png"
+        },
+        {
+            "tag": "Material-GPS_FIXED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gps_fixed.png"
+        },
+        {
+            "tag": "Material-GPS_NOT_FIXED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gps_not_fixed.png"
+        },
+        {
+            "tag": "Material-GPS_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gps_off.png"
+        },
+        {
+            "tag": "Material-GRADE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/grade.png"
+        },
+        {
+            "tag": "Material-GRADIENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/gradient.png"
+        },
+        {
+            "tag": "Material-GRAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/grain.png"
+        },
+        {
+            "tag": "Material-GRAPHIC_EQ",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/graphic_eq.png"
+        },
+        {
+            "tag": "Material-GRID_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/grid_off.png"
+        },
+        {
+            "tag": "Material-GRID_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/grid_on.png"
+        },
+        {
+            "tag": "Material-GROUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/group.png"
+        },
+        {
+            "tag": "Material-GROUP_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/group_add.png"
+        },
+        {
+            "tag": "Material-GROUP_WORK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/group_work.png"
+        },
+        {
+            "tag": "Material-HD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hd.png"
+        },
+        {
+            "tag": "Material-HDR_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hdr_off.png"
+        },
+        {
+            "tag": "Material-HDR_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hdr_on.png"
+        },
+        {
+            "tag": "Material-HDR_STRONG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hdr_strong.png"
+        },
+        {
+            "tag": "Material-HDR_WEAK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hdr_weak.png"
+        },
+        {
+            "tag": "Material-HEADSET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/headset.png"
+        },
+        {
+            "tag": "Material-HEADSET_MIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/headset_mic.png"
+        },
+        {
+            "tag": "Material-HEALING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/healing.png"
+        },
+        {
+            "tag": "Material-HEARING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hearing.png"
+        },
+        {
+            "tag": "Material-HELP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/help.png"
+        },
+        {
+            "tag": "Material-HELP_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/help_outline.png"
+        },
+        {
+            "tag": "Material-HIGH_QUALITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/high_quality.png"
+        },
+        {
+            "tag": "Material-HIGHLIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/highlight.png"
+        },
+        {
+            "tag": "Material-HIGHLIGHT_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/highlight_off.png"
+        },
+        {
+            "tag": "Material-HISTORY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/history.png"
+        },
+        {
+            "tag": "Material-HOME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/home.png"
+        },
+        {
+            "tag": "Material-HOT_TUB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hot_tub.png"
+        },
+        {
+            "tag": "Material-HOTEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hotel.png"
+        },
+        {
+            "tag": "Material-HOURGLASS_EMPTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hourglass_empty.png"
+        },
+        {
+            "tag": "Material-HOURGLASS_FULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/hourglass_full.png"
+        },
+        {
+            "tag": "Material-HTTP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/http.png"
+        },
+        {
+            "tag": "Material-HTTPS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/https.png"
+        },
+        {
+            "tag": "Material-IMAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/image.png"
+        },
+        {
+            "tag": "Material-IMAGE_ASPECT_RATIO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/image_aspect_ratio.png"
+        },
+        {
+            "tag": "Material-IMPORT_CONTACTS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/import_contacts.png"
+        },
+        {
+            "tag": "Material-IMPORT_EXPORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/import_export.png"
+        },
+        {
+            "tag": "Material-IMPORTANT_DEVICES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/important_devices.png"
+        },
+        {
+            "tag": "Material-INBOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/inbox.png"
+        },
+        {
+            "tag": "Material-INDETERMINATE_CHECK_BOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/indeterminate_check_box.png"
+        },
+        {
+            "tag": "Material-INFO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/info.png"
+        },
+        {
+            "tag": "Material-INFO_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/info_outline.png"
+        },
+        {
+            "tag": "Material-INPUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/input.png"
+        },
+        {
+            "tag": "Material-INSERT_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_chart.png"
+        },
+        {
+            "tag": "Material-INSERT_COMMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_comment.png"
+        },
+        {
+            "tag": "Material-INSERT_DRIVE_FILE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_drive_file.png"
+        },
+        {
+            "tag": "Material-INSERT_EMOTICON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_emoticon.png"
+        },
+        {
+            "tag": "Material-INSERT_INVITATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_invitation.png"
+        },
+        {
+            "tag": "Material-INSERT_LINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_link.png"
+        },
+        {
+            "tag": "Material-INSERT_PHOTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/insert_photo.png"
+        },
+        {
+            "tag": "Material-INVERT_COLORS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/invert_colors.png"
+        },
+        {
+            "tag": "Material-INVERT_COLORS_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/invert_colors_off.png"
+        },
+        {
+            "tag": "Material-ISO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/iso.png"
+        },
+        {
+            "tag": "Material-KEYBOARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_ARROW_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_arrow_down.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_ARROW_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_arrow_left.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_ARROW_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_arrow_right.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_ARROW_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_arrow_up.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_BACKSPACE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_backspace.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_CAPSLOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_capslock.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_HIDE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_hide.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_RETURN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_return.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_TAB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_tab.png"
+        },
+        {
+            "tag": "Material-KEYBOARD_VOICE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/keyboard_voice.png"
+        },
+        {
+            "tag": "Material-KITCHEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/kitchen.png"
+        },
+        {
+            "tag": "Material-LABEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/label.png"
+        },
+        {
+            "tag": "Material-LABEL_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/label_outline.png"
+        },
+        {
+            "tag": "Material-LANDSCAPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/landscape.png"
+        },
+        {
+            "tag": "Material-LANGUAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/language.png"
+        },
+        {
+            "tag": "Material-LAPTOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/laptop.png"
+        },
+        {
+            "tag": "Material-LAPTOP_CHROMEBOOK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/laptop_chromebook.png"
+        },
+        {
+            "tag": "Material-LAPTOP_MAC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/laptop_mac.png"
+        },
+        {
+            "tag": "Material-LAPTOP_WINDOWS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/laptop_windows.png"
+        },
+        {
+            "tag": "Material-LAST_PAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/last_page.png"
+        },
+        {
+            "tag": "Material-LAUNCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/launch.png"
+        },
+        {
+            "tag": "Material-LAYERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/layers.png"
+        },
+        {
+            "tag": "Material-LAYERS_CLEAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/layers_clear.png"
+        },
+        {
+            "tag": "Material-LEAK_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/leak_add.png"
+        },
+        {
+            "tag": "Material-LEAK_REMOVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/leak_remove.png"
+        },
+        {
+            "tag": "Material-LENS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/lens.png"
+        },
+        {
+            "tag": "Material-LIBRARY_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/library_add.png"
+        },
+        {
+            "tag": "Material-LIBRARY_BOOKS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/library_books.png"
+        },
+        {
+            "tag": "Material-LIBRARY_MUSIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/library_music.png"
+        },
+        {
+            "tag": "Material-LIGHTBULB_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/lightbulb_outline.png"
+        },
+        {
+            "tag": "Material-LINE_STYLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/line_style.png"
+        },
+        {
+            "tag": "Material-LINE_WEIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/line_weight.png"
+        },
+        {
+            "tag": "Material-LINEAR_SCALE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/linear_scale.png"
+        },
+        {
+            "tag": "Material-LINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/link.png"
+        },
+        {
+            "tag": "Material-LINKED_CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/linked_camera.png"
+        },
+        {
+            "tag": "Material-LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/list.png"
+        },
+        {
+            "tag": "Material-LIVE_HELP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/live_help.png"
+        },
+        {
+            "tag": "Material-LIVE_TV",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/live_tv.png"
+        },
+        {
+            "tag": "Material-LOCAL_ACTIVITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_activity.png"
+        },
+        {
+            "tag": "Material-LOCAL_AIRPORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_airport.png"
+        },
+        {
+            "tag": "Material-LOCAL_ATM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_atm.png"
+        },
+        {
+            "tag": "Material-LOCAL_BAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_bar.png"
+        },
+        {
+            "tag": "Material-LOCAL_CAFE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_cafe.png"
+        },
+        {
+            "tag": "Material-LOCAL_CAR_WASH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_car_wash.png"
+        },
+        {
+            "tag": "Material-LOCAL_CONVENIENCE_STORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_convenience_store.png"
+        },
+        {
+            "tag": "Material-LOCAL_DINING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_dining.png"
+        },
+        {
+            "tag": "Material-LOCAL_DRINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_drink.png"
+        },
+        {
+            "tag": "Material-LOCAL_FLORIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_florist.png"
+        },
+        {
+            "tag": "Material-LOCAL_GAS_STATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_gas_station.png"
+        },
+        {
+            "tag": "Material-LOCAL_GROCERY_STORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_grocery_store.png"
+        },
+        {
+            "tag": "Material-LOCAL_HOSPITAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_hospital.png"
+        },
+        {
+            "tag": "Material-LOCAL_HOTEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_hotel.png"
+        },
+        {
+            "tag": "Material-LOCAL_LAUNDRY_SERVICE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_laundry_service.png"
+        },
+        {
+            "tag": "Material-LOCAL_LIBRARY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_library.png"
+        },
+        {
+            "tag": "Material-LOCAL_MALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_mall.png"
+        },
+        {
+            "tag": "Material-LOCAL_MOVIES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_movies.png"
+        },
+        {
+            "tag": "Material-LOCAL_OFFER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_offer.png"
+        },
+        {
+            "tag": "Material-LOCAL_PARKING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_parking.png"
+        },
+        {
+            "tag": "Material-LOCAL_PHARMACY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_pharmacy.png"
+        },
+        {
+            "tag": "Material-LOCAL_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_phone.png"
+        },
+        {
+            "tag": "Material-LOCAL_PIZZA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_pizza.png"
+        },
+        {
+            "tag": "Material-LOCAL_PLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_play.png"
+        },
+        {
+            "tag": "Material-LOCAL_POST_OFFICE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_post_office.png"
+        },
+        {
+            "tag": "Material-LOCAL_PRINTSHOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_printshop.png"
+        },
+        {
+            "tag": "Material-LOCAL_SEE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_see.png"
+        },
+        {
+            "tag": "Material-LOCAL_SHIPPING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_shipping.png"
+        },
+        {
+            "tag": "Material-LOCAL_TAXI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/local_taxi.png"
+        },
+        {
+            "tag": "Material-LOCATION_CITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/location_city.png"
+        },
+        {
+            "tag": "Material-LOCATION_DISABLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/location_disabled.png"
+        },
+        {
+            "tag": "Material-LOCATION_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/location_off.png"
+        },
+        {
+            "tag": "Material-LOCATION_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/location_on.png"
+        },
+        {
+            "tag": "Material-LOCATION_SEARCHING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/location_searching.png"
+        },
+        {
+            "tag": "Material-LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/lock.png"
+        },
+        {
+            "tag": "Material-LOCK_OPEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/lock_open.png"
+        },
+        {
+            "tag": "Material-LOCK_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/lock_outline.png"
+        },
+        {
+            "tag": "Material-LOOKS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks.png"
+        },
+        {
+            "tag": "Material-LOOKS_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_3.png"
+        },
+        {
+            "tag": "Material-LOOKS_4",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_4.png"
+        },
+        {
+            "tag": "Material-LOOKS_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_5.png"
+        },
+        {
+            "tag": "Material-LOOKS_6",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_6.png"
+        },
+        {
+            "tag": "Material-LOOKS_ONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_one.png"
+        },
+        {
+            "tag": "Material-LOOKS_TWO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/looks_two.png"
+        },
+        {
+            "tag": "Material-LOOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/loop.png"
+        },
+        {
+            "tag": "Material-LOUPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/loupe.png"
+        },
+        {
+            "tag": "Material-LOW_PRIORITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/low_priority.png"
+        },
+        {
+            "tag": "Material-LOYALTY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/loyalty.png"
+        },
+        {
+            "tag": "Material-MAIL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mail.png"
+        },
+        {
+            "tag": "Material-MAIL_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mail_outline.png"
+        },
+        {
+            "tag": "Material-MAP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/map.png"
+        },
+        {
+            "tag": "Material-MARKUNREAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/markunread.png"
+        },
+        {
+            "tag": "Material-MARKUNREAD_MAILBOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/markunread_mailbox.png"
+        },
+        {
+            "tag": "Material-MEMORY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/memory.png"
+        },
+        {
+            "tag": "Material-MENU",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/menu.png"
+        },
+        {
+            "tag": "Material-MERGE_TYPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/merge_type.png"
+        },
+        {
+            "tag": "Material-MESSAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/message.png"
+        },
+        {
+            "tag": "Material-MIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mic.png"
+        },
+        {
+            "tag": "Material-MIC_NONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mic_none.png"
+        },
+        {
+            "tag": "Material-MIC_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mic_off.png"
+        },
+        {
+            "tag": "Material-MMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mms.png"
+        },
+        {
+            "tag": "Material-MODE_COMMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mode_comment.png"
+        },
+        {
+            "tag": "Material-MODE_EDIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mode_edit.png"
+        },
+        {
+            "tag": "Material-MONETIZATION_ON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/monetization_on.png"
+        },
+        {
+            "tag": "Material-MONEY_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/money_off.png"
+        },
+        {
+            "tag": "Material-MONOCHROME_PHOTOS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/monochrome_photos.png"
+        },
+        {
+            "tag": "Material-MOOD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mood.png"
+        },
+        {
+            "tag": "Material-MOOD_BAD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mood_bad.png"
+        },
+        {
+            "tag": "Material-MORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/more.png"
+        },
+        {
+            "tag": "Material-MORE_HORIZ",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/more_horiz.png"
+        },
+        {
+            "tag": "Material-MORE_VERT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/more_vert.png"
+        },
+        {
+            "tag": "Material-MOTORCYCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/motorcycle.png"
+        },
+        {
+            "tag": "Material-MOUSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/mouse.png"
+        },
+        {
+            "tag": "Material-MOVE_TO_INBOX",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/move_to_inbox.png"
+        },
+        {
+            "tag": "Material-MOVIE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/movie.png"
+        },
+        {
+            "tag": "Material-MOVIE_CREATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/movie_creation.png"
+        },
+        {
+            "tag": "Material-MOVIE_FILTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/movie_filter.png"
+        },
+        {
+            "tag": "Material-MULTILINE_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/multiline_chart.png"
+        },
+        {
+            "tag": "Material-MUSIC_NOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/music_note.png"
+        },
+        {
+            "tag": "Material-MUSIC_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/music_video.png"
+        },
+        {
+            "tag": "Material-MY_LOCATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/my_location.png"
+        },
+        {
+            "tag": "Material-NATURE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/nature.png"
+        },
+        {
+            "tag": "Material-NATURE_PEOPLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/nature_people.png"
+        },
+        {
+            "tag": "Material-NAVIGATE_BEFORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/navigate_before.png"
+        },
+        {
+            "tag": "Material-NAVIGATE_NEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/navigate_next.png"
+        },
+        {
+            "tag": "Material-NAVIGATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/navigation.png"
+        },
+        {
+            "tag": "Material-NEAR_ME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/near_me.png"
+        },
+        {
+            "tag": "Material-NETWORK_CELL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/network_cell.png"
+        },
+        {
+            "tag": "Material-NETWORK_CHECK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/network_check.png"
+        },
+        {
+            "tag": "Material-NETWORK_LOCKED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/network_locked.png"
+        },
+        {
+            "tag": "Material-NETWORK_WIFI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/network_wifi.png"
+        },
+        {
+            "tag": "Material-NEW_RELEASES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/new_releases.png"
+        },
+        {
+            "tag": "Material-NEXT_WEEK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/next_week.png"
+        },
+        {
+            "tag": "Material-NFC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/nfc.png"
+        },
+        {
+            "tag": "Material-NO_ENCRYPTION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/no_encryption.png"
+        },
+        {
+            "tag": "Material-NO_SIM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/no_sim.png"
+        },
+        {
+            "tag": "Material-NOT_INTERESTED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/not_interested.png"
+        },
+        {
+            "tag": "Material-NOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/note.png"
+        },
+        {
+            "tag": "Material-NOTE_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/note_add.png"
+        },
+        {
+            "tag": "Material-NOTIFICATIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/notifications.png"
+        },
+        {
+            "tag": "Material-NOTIFICATIONS_ACTIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/notifications_active.png"
+        },
+        {
+            "tag": "Material-NOTIFICATIONS_NONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/notifications_none.png"
+        },
+        {
+            "tag": "Material-NOTIFICATIONS_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/notifications_off.png"
+        },
+        {
+            "tag": "Material-NOTIFICATIONS_PAUSED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/notifications_paused.png"
+        },
+        {
+            "tag": "Material-OFFLINE_PIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/offline_pin.png"
+        },
+        {
+            "tag": "Material-ONDEMAND_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/ondemand_video.png"
+        },
+        {
+            "tag": "Material-OPACITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/opacity.png"
+        },
+        {
+            "tag": "Material-OPEN_IN_BROWSER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/open_in_browser.png"
+        },
+        {
+            "tag": "Material-OPEN_IN_NEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/open_in_new.png"
+        },
+        {
+            "tag": "Material-OPEN_WITH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/open_with.png"
+        },
+        {
+            "tag": "Material-PAGES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pages.png"
+        },
+        {
+            "tag": "Material-PAGEVIEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pageview.png"
+        },
+        {
+            "tag": "Material-PALETTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/palette.png"
+        },
+        {
+            "tag": "Material-PAN_TOOL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pan_tool.png"
+        },
+        {
+            "tag": "Material-PANORAMA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/panorama.png"
+        },
+        {
+            "tag": "Material-PANORAMA_FISH_EYE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/panorama_fish_eye.png"
+        },
+        {
+            "tag": "Material-PANORAMA_HORIZONTAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/panorama_horizontal.png"
+        },
+        {
+            "tag": "Material-PANORAMA_VERTICAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/panorama_vertical.png"
+        },
+        {
+            "tag": "Material-PANORAMA_WIDE_ANGLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/panorama_wide_angle.png"
+        },
+        {
+            "tag": "Material-PARTY_MODE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/party_mode.png"
+        },
+        {
+            "tag": "Material-PAUSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pause.png"
+        },
+        {
+            "tag": "Material-PAUSE_CIRCLE_FILLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pause_circle_filled.png"
+        },
+        {
+            "tag": "Material-PAUSE_CIRCLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pause_circle_outline.png"
+        },
+        {
+            "tag": "Material-PAYMENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/payment.png"
+        },
+        {
+            "tag": "Material-PEOPLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/people.png"
+        },
+        {
+            "tag": "Material-PEOPLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/people_outline.png"
+        },
+        {
+            "tag": "Material-PERM_CAMERA_MIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_camera_mic.png"
+        },
+        {
+            "tag": "Material-PERM_CONTACT_CALENDAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_contact_calendar.png"
+        },
+        {
+            "tag": "Material-PERM_DATA_SETTING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_data_setting.png"
+        },
+        {
+            "tag": "Material-PERM_DEVICE_INFORMATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_device_information.png"
+        },
+        {
+            "tag": "Material-PERM_IDENTITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_identity.png"
+        },
+        {
+            "tag": "Material-PERM_MEDIA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_media.png"
+        },
+        {
+            "tag": "Material-PERM_PHONE_MSG",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_phone_msg.png"
+        },
+        {
+            "tag": "Material-PERM_SCAN_WIFI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/perm_scan_wifi.png"
+        },
+        {
+            "tag": "Material-PERSON",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/person.png"
+        },
+        {
+            "tag": "Material-PERSON_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/person_add.png"
+        },
+        {
+            "tag": "Material-PERSON_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/person_outline.png"
+        },
+        {
+            "tag": "Material-PERSON_PIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/person_pin.png"
+        },
+        {
+            "tag": "Material-PERSON_PIN_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/person_pin_circle.png"
+        },
+        {
+            "tag": "Material-PERSONAL_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/personal_video.png"
+        },
+        {
+            "tag": "Material-PETS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pets.png"
+        },
+        {
+            "tag": "Material-PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone.png"
+        },
+        {
+            "tag": "Material-PHONE_ANDROID",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_android.png"
+        },
+        {
+            "tag": "Material-PHONE_BLUETOOTH_SPEAKER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_bluetooth_speaker.png"
+        },
+        {
+            "tag": "Material-PHONE_FORWARDED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_forwarded.png"
+        },
+        {
+            "tag": "Material-PHONE_IN_TALK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_in_talk.png"
+        },
+        {
+            "tag": "Material-PHONE_IPHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_iphone.png"
+        },
+        {
+            "tag": "Material-PHONE_LOCKED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_locked.png"
+        },
+        {
+            "tag": "Material-PHONE_MISSED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_missed.png"
+        },
+        {
+            "tag": "Material-PHONE_PAUSED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phone_paused.png"
+        },
+        {
+            "tag": "Material-PHONELINK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink.png"
+        },
+        {
+            "tag": "Material-PHONELINK_ERASE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink_erase.png"
+        },
+        {
+            "tag": "Material-PHONELINK_LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink_lock.png"
+        },
+        {
+            "tag": "Material-PHONELINK_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink_off.png"
+        },
+        {
+            "tag": "Material-PHONELINK_RING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink_ring.png"
+        },
+        {
+            "tag": "Material-PHONELINK_SETUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/phonelink_setup.png"
+        },
+        {
+            "tag": "Material-PHOTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo.png"
+        },
+        {
+            "tag": "Material-PHOTO_ALBUM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_album.png"
+        },
+        {
+            "tag": "Material-PHOTO_CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_camera.png"
+        },
+        {
+            "tag": "Material-PHOTO_FILTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_filter.png"
+        },
+        {
+            "tag": "Material-PHOTO_LIBRARY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_library.png"
+        },
+        {
+            "tag": "Material-PHOTO_SIZE_SELECT_ACTUAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_size_select_actual.png"
+        },
+        {
+            "tag": "Material-PHOTO_SIZE_SELECT_LARGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_size_select_large.png"
+        },
+        {
+            "tag": "Material-PHOTO_SIZE_SELECT_SMALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/photo_size_select_small.png"
+        },
+        {
+            "tag": "Material-PICTURE_AS_PDF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/picture_as_pdf.png"
+        },
+        {
+            "tag": "Material-PICTURE_IN_PICTURE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/picture_in_picture.png"
+        },
+        {
+            "tag": "Material-PICTURE_IN_PICTURE_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/picture_in_picture_alt.png"
+        },
+        {
+            "tag": "Material-PIE_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pie_chart.png"
+        },
+        {
+            "tag": "Material-PIE_CHART_OUTLINED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pie_chart_outlined.png"
+        },
+        {
+            "tag": "Material-PIN_DROP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pin_drop.png"
+        },
+        {
+            "tag": "Material-PLACE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/place.png"
+        },
+        {
+            "tag": "Material-PLAY_ARROW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/play_arrow.png"
+        },
+        {
+            "tag": "Material-PLAY_CIRCLE_FILLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/play_circle_filled.png"
+        },
+        {
+            "tag": "Material-PLAY_CIRCLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/play_circle_outline.png"
+        },
+        {
+            "tag": "Material-PLAY_FOR_WORK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/play_for_work.png"
+        },
+        {
+            "tag": "Material-PLAYLIST_ADD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/playlist_add.png"
+        },
+        {
+            "tag": "Material-PLAYLIST_ADD_CHECK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/playlist_add_check.png"
+        },
+        {
+            "tag": "Material-PLAYLIST_PLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/playlist_play.png"
+        },
+        {
+            "tag": "Material-PLUS_ONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/plus_one.png"
+        },
+        {
+            "tag": "Material-POLL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/poll.png"
+        },
+        {
+            "tag": "Material-POLYMER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/polymer.png"
+        },
+        {
+            "tag": "Material-POOL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pool.png"
+        },
+        {
+            "tag": "Material-PORTABLE_WIFI_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/portable_wifi_off.png"
+        },
+        {
+            "tag": "Material-PORTRAIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/portrait.png"
+        },
+        {
+            "tag": "Material-POWER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/power.png"
+        },
+        {
+            "tag": "Material-POWER_INPUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/power_input.png"
+        },
+        {
+            "tag": "Material-POWER_SETTINGS_NEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/power_settings_new.png"
+        },
+        {
+            "tag": "Material-PREGNANT_WOMAN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/pregnant_woman.png"
+        },
+        {
+            "tag": "Material-PRESENT_TO_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/present_to_all.png"
+        },
+        {
+            "tag": "Material-PRINT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/print.png"
+        },
+        {
+            "tag": "Material-PRIORITY_HIGH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/priority_high.png"
+        },
+        {
+            "tag": "Material-PUBLIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/public.png"
+        },
+        {
+            "tag": "Material-PUBLISH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/publish.png"
+        },
+        {
+            "tag": "Material-QUERY_BUILDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/query_builder.png"
+        },
+        {
+            "tag": "Material-QUESTION_ANSWER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/question_answer.png"
+        },
+        {
+            "tag": "Material-QUEUE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/queue.png"
+        },
+        {
+            "tag": "Material-QUEUE_MUSIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/queue_music.png"
+        },
+        {
+            "tag": "Material-QUEUE_PLAY_NEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/queue_play_next.png"
+        },
+        {
+            "tag": "Material-RADIO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/radio.png"
+        },
+        {
+            "tag": "Material-RADIO_BUTTON_CHECKED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/radio_button_checked.png"
+        },
+        {
+            "tag": "Material-RADIO_BUTTON_UNCHECKED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/radio_button_unchecked.png"
+        },
+        {
+            "tag": "Material-RATE_REVIEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rate_review.png"
+        },
+        {
+            "tag": "Material-RECEIPT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/receipt.png"
+        },
+        {
+            "tag": "Material-RECENT_ACTORS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/recent_actors.png"
+        },
+        {
+            "tag": "Material-RECORD_VOICE_OVER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/record_voice_over.png"
+        },
+        {
+            "tag": "Material-REDEEM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/redeem.png"
+        },
+        {
+            "tag": "Material-REDO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/redo.png"
+        },
+        {
+            "tag": "Material-REFRESH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/refresh.png"
+        },
+        {
+            "tag": "Material-REMOVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove.png"
+        },
+        {
+            "tag": "Material-REMOVE_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove_circle.png"
+        },
+        {
+            "tag": "Material-REMOVE_CIRCLE_OUTLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove_circle_outline.png"
+        },
+        {
+            "tag": "Material-REMOVE_FROM_QUEUE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove_from_queue.png"
+        },
+        {
+            "tag": "Material-REMOVE_RED_EYE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove_red_eye.png"
+        },
+        {
+            "tag": "Material-REMOVE_SHOPPING_CART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/remove_shopping_cart.png"
+        },
+        {
+            "tag": "Material-REORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/reorder.png"
+        },
+        {
+            "tag": "Material-REPEAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/repeat.png"
+        },
+        {
+            "tag": "Material-REPEAT_ONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/repeat_one.png"
+        },
+        {
+            "tag": "Material-REPLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/replay.png"
+        },
+        {
+            "tag": "Material-REPLAY_10",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/replay_10.png"
+        },
+        {
+            "tag": "Material-REPLAY_30",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/replay_30.png"
+        },
+        {
+            "tag": "Material-REPLAY_5",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/replay_5.png"
+        },
+        {
+            "tag": "Material-REPLY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/reply.png"
+        },
+        {
+            "tag": "Material-REPLY_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/reply_all.png"
+        },
+        {
+            "tag": "Material-REPORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/report.png"
+        },
+        {
+            "tag": "Material-REPORT_PROBLEM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/report_problem.png"
+        },
+        {
+            "tag": "Material-RESTAURANT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/restaurant.png"
+        },
+        {
+            "tag": "Material-RESTAURANT_MENU",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/restaurant_menu.png"
+        },
+        {
+            "tag": "Material-RESTORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/restore.png"
+        },
+        {
+            "tag": "Material-RESTORE_PAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/restore_page.png"
+        },
+        {
+            "tag": "Material-RING_VOLUME",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/ring_volume.png"
+        },
+        {
+            "tag": "Material-ROOM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/room.png"
+        },
+        {
+            "tag": "Material-ROOM_SERVICE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/room_service.png"
+        },
+        {
+            "tag": "Material-ROTATE_90_DEGREES_CCW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rotate_90_degrees_ccw.png"
+        },
+        {
+            "tag": "Material-ROTATE_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rotate_left.png"
+        },
+        {
+            "tag": "Material-ROTATE_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rotate_right.png"
+        },
+        {
+            "tag": "Material-ROUNDED_CORNER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rounded_corner.png"
+        },
+        {
+            "tag": "Material-ROUTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/router.png"
+        },
+        {
+            "tag": "Material-ROWING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rowing.png"
+        },
+        {
+            "tag": "Material-RSS_FEED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rss_feed.png"
+        },
+        {
+            "tag": "Material-RV_HOOKUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/rv_hookup.png"
+        },
+        {
+            "tag": "Material-SATELLITE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/satellite.png"
+        },
+        {
+            "tag": "Material-SAVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/save.png"
+        },
+        {
+            "tag": "Material-SCANNER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/scanner.png"
+        },
+        {
+            "tag": "Material-SCHEDULE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/schedule.png"
+        },
+        {
+            "tag": "Material-SCHOOL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/school.png"
+        },
+        {
+            "tag": "Material-SCREEN_LOCK_LANDSCAPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/screen_lock_landscape.png"
+        },
+        {
+            "tag": "Material-SCREEN_LOCK_PORTRAIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/screen_lock_portrait.png"
+        },
+        {
+            "tag": "Material-SCREEN_LOCK_ROTATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/screen_lock_rotation.png"
+        },
+        {
+            "tag": "Material-SCREEN_ROTATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/screen_rotation.png"
+        },
+        {
+            "tag": "Material-SCREEN_SHARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/screen_share.png"
+        },
+        {
+            "tag": "Material-SD_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sd_card.png"
+        },
+        {
+            "tag": "Material-SD_STORAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sd_storage.png"
+        },
+        {
+            "tag": "Material-SEARCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/search.png"
+        },
+        {
+            "tag": "Material-SECURITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/security.png"
+        },
+        {
+            "tag": "Material-SELECT_ALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/select_all.png"
+        },
+        {
+            "tag": "Material-SEND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/send.png"
+        },
+        {
+            "tag": "Material-SENTIMENT_DISSATISFIED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sentiment_dissatisfied.png"
+        },
+        {
+            "tag": "Material-SENTIMENT_NEUTRAL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sentiment_neutral.png"
+        },
+        {
+            "tag": "Material-SENTIMENT_SATISFIED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sentiment_satisfied.png"
+        },
+        {
+            "tag": "Material-SENTIMENT_VERY_DISSATISFIED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sentiment_very_dissatisfied.png"
+        },
+        {
+            "tag": "Material-SENTIMENT_VERY_SATISFIED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sentiment_very_satisfied.png"
+        },
+        {
+            "tag": "Material-SETTINGS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings.png"
+        },
+        {
+            "tag": "Material-SETTINGS_APPLICATIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_applications.png"
+        },
+        {
+            "tag": "Material-SETTINGS_BACKUP_RESTORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_backup_restore.png"
+        },
+        {
+            "tag": "Material-SETTINGS_BLUETOOTH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_bluetooth.png"
+        },
+        {
+            "tag": "Material-SETTINGS_BRIGHTNESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_brightness.png"
+        },
+        {
+            "tag": "Material-SETTINGS_CELL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_cell.png"
+        },
+        {
+            "tag": "Material-SETTINGS_ETHERNET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_ethernet.png"
+        },
+        {
+            "tag": "Material-SETTINGS_INPUT_ANTENNA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_input_antenna.png"
+        },
+        {
+            "tag": "Material-SETTINGS_INPUT_COMPONENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_input_component.png"
+        },
+        {
+            "tag": "Material-SETTINGS_INPUT_COMPOSITE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_input_composite.png"
+        },
+        {
+            "tag": "Material-SETTINGS_INPUT_HDMI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_input_hdmi.png"
+        },
+        {
+            "tag": "Material-SETTINGS_INPUT_SVIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_input_svideo.png"
+        },
+        {
+            "tag": "Material-SETTINGS_OVERSCAN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_overscan.png"
+        },
+        {
+            "tag": "Material-SETTINGS_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_phone.png"
+        },
+        {
+            "tag": "Material-SETTINGS_POWER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_power.png"
+        },
+        {
+            "tag": "Material-SETTINGS_REMOTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_remote.png"
+        },
+        {
+            "tag": "Material-SETTINGS_SYSTEM_DAYDREAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_system_daydream.png"
+        },
+        {
+            "tag": "Material-SETTINGS_VOICE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/settings_voice.png"
+        },
+        {
+            "tag": "Material-SHARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/share.png"
+        },
+        {
+            "tag": "Material-SHOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/shop.png"
+        },
+        {
+            "tag": "Material-SHOP_TWO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/shop_two.png"
+        },
+        {
+            "tag": "Material-SHOPPING_BASKET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/shopping_basket.png"
+        },
+        {
+            "tag": "Material-SHOPPING_CART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/shopping_cart.png"
+        },
+        {
+            "tag": "Material-SHORT_TEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/short_text.png"
+        },
+        {
+            "tag": "Material-SHOW_CHART",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/show_chart.png"
+        },
+        {
+            "tag": "Material-SHUFFLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/shuffle.png"
+        },
+        {
+            "tag": "Material-SIGNAL_CELLULAR_4_BAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_cellular_4_bar.png"
+        },
+        {
+            "tag": "Material-SIGNAL_CELLULAR_CONNECTED_NO_INTERNET_4_BAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_cellular_connected_no_internet_4_bar.png"
+        },
+        {
+            "tag": "Material-SIGNAL_CELLULAR_NO_SIM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_cellular_no_sim.png"
+        },
+        {
+            "tag": "Material-SIGNAL_CELLULAR_NULL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_cellular_null.png"
+        },
+        {
+            "tag": "Material-SIGNAL_CELLULAR_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_cellular_off.png"
+        },
+        {
+            "tag": "Material-SIGNAL_WIFI_4_BAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_wifi_4_bar.png"
+        },
+        {
+            "tag": "Material-SIGNAL_WIFI_4_BAR_LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_wifi_4_bar_lock.png"
+        },
+        {
+            "tag": "Material-SIGNAL_WIFI_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/signal_wifi_off.png"
+        },
+        {
+            "tag": "Material-SIM_CARD",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sim_card.png"
+        },
+        {
+            "tag": "Material-SIM_CARD_ALERT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sim_card_alert.png"
+        },
+        {
+            "tag": "Material-SKIP_NEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/skip_next.png"
+        },
+        {
+            "tag": "Material-SKIP_PREVIOUS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/skip_previous.png"
+        },
+        {
+            "tag": "Material-SLIDESHOW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/slideshow.png"
+        },
+        {
+            "tag": "Material-SLOW_MOTION_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/slow_motion_video.png"
+        },
+        {
+            "tag": "Material-SMARTPHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/smartphone.png"
+        },
+        {
+            "tag": "Material-SMOKE_FREE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/smoke_free.png"
+        },
+        {
+            "tag": "Material-SMOKING_ROOMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/smoking_rooms.png"
+        },
+        {
+            "tag": "Material-SMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sms.png"
+        },
+        {
+            "tag": "Material-SMS_FAILED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sms_failed.png"
+        },
+        {
+            "tag": "Material-SNOOZE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/snooze.png"
+        },
+        {
+            "tag": "Material-SORT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sort.png"
+        },
+        {
+            "tag": "Material-SORT_BY_ALPHA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sort_by_alpha.png"
+        },
+        {
+            "tag": "Material-SPA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/spa.png"
+        },
+        {
+            "tag": "Material-SPACE_BAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/space_bar.png"
+        },
+        {
+            "tag": "Material-SPEAKER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/speaker.png"
+        },
+        {
+            "tag": "Material-SPEAKER_GROUP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/speaker_group.png"
+        },
+        {
+            "tag": "Material-SPEAKER_NOTES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/speaker_notes.png"
+        },
+        {
+            "tag": "Material-SPEAKER_NOTES_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/speaker_notes_off.png"
+        },
+        {
+            "tag": "Material-SPEAKER_PHONE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/speaker_phone.png"
+        },
+        {
+            "tag": "Material-SPELLCHECK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/spellcheck.png"
+        },
+        {
+            "tag": "Material-STAR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/star.png"
+        },
+        {
+            "tag": "Material-STAR_BORDER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/star_border.png"
+        },
+        {
+            "tag": "Material-STAR_HALF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/star_half.png"
+        },
+        {
+            "tag": "Material-STARS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stars.png"
+        },
+        {
+            "tag": "Material-STAY_CURRENT_LANDSCAPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stay_current_landscape.png"
+        },
+        {
+            "tag": "Material-STAY_CURRENT_PORTRAIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stay_current_portrait.png"
+        },
+        {
+            "tag": "Material-STAY_PRIMARY_LANDSCAPE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stay_primary_landscape.png"
+        },
+        {
+            "tag": "Material-STAY_PRIMARY_PORTRAIT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stay_primary_portrait.png"
+        },
+        {
+            "tag": "Material-STOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stop.png"
+        },
+        {
+            "tag": "Material-STOP_SCREEN_SHARE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/stop_screen_share.png"
+        },
+        {
+            "tag": "Material-STORAGE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/storage.png"
+        },
+        {
+            "tag": "Material-STORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/store.png"
+        },
+        {
+            "tag": "Material-STORE_MALL_DIRECTORY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/store_mall_directory.png"
+        },
+        {
+            "tag": "Material-STRAIGHTEN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/straighten.png"
+        },
+        {
+            "tag": "Material-STREETVIEW",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/streetview.png"
+        },
+        {
+            "tag": "Material-STRIKETHROUGH_S",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/strikethrough_s.png"
+        },
+        {
+            "tag": "Material-STYLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/style.png"
+        },
+        {
+            "tag": "Material-SUBDIRECTORY_ARROW_LEFT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subdirectory_arrow_left.png"
+        },
+        {
+            "tag": "Material-SUBDIRECTORY_ARROW_RIGHT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subdirectory_arrow_right.png"
+        },
+        {
+            "tag": "Material-SUBJECT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subject.png"
+        },
+        {
+            "tag": "Material-SUBSCRIPTIONS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subscriptions.png"
+        },
+        {
+            "tag": "Material-SUBTITLES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subtitles.png"
+        },
+        {
+            "tag": "Material-SUBWAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/subway.png"
+        },
+        {
+            "tag": "Material-SUPERVISOR_ACCOUNT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/supervisor_account.png"
+        },
+        {
+            "tag": "Material-SURROUND_SOUND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/surround_sound.png"
+        },
+        {
+            "tag": "Material-SWAP_CALLS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/swap_calls.png"
+        },
+        {
+            "tag": "Material-SWAP_HORIZ",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/swap_horiz.png"
+        },
+        {
+            "tag": "Material-SWAP_VERT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/swap_vert.png"
+        },
+        {
+            "tag": "Material-SWAP_VERTICAL_CIRCLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/swap_vertical_circle.png"
+        },
+        {
+            "tag": "Material-SWITCH_CAMERA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/switch_camera.png"
+        },
+        {
+            "tag": "Material-SWITCH_VIDEO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/switch_video.png"
+        },
+        {
+            "tag": "Material-SYNC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sync.png"
+        },
+        {
+            "tag": "Material-SYNC_DISABLED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sync_disabled.png"
+        },
+        {
+            "tag": "Material-SYNC_PROBLEM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/sync_problem.png"
+        },
+        {
+            "tag": "Material-SYSTEM_UPDATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/system_update.png"
+        },
+        {
+            "tag": "Material-SYSTEM_UPDATE_ALT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/system_update_alt.png"
+        },
+        {
+            "tag": "Material-TAB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tab.png"
+        },
+        {
+            "tag": "Material-TAB_UNSELECTED",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tab_unselected.png"
+        },
+        {
+            "tag": "Material-TABLET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tablet.png"
+        },
+        {
+            "tag": "Material-TABLET_ANDROID",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tablet_android.png"
+        },
+        {
+            "tag": "Material-TABLET_MAC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tablet_mac.png"
+        },
+        {
+            "tag": "Material-TAG_FACES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tag_faces.png"
+        },
+        {
+            "tag": "Material-TAP_AND_PLAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tap_and_play.png"
+        },
+        {
+            "tag": "Material-TERRAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/terrain.png"
+        },
+        {
+            "tag": "Material-TEXT_FIELDS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/text_fields.png"
+        },
+        {
+            "tag": "Material-TEXT_FORMAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/text_format.png"
+        },
+        {
+            "tag": "Material-TEXTSMS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/textsms.png"
+        },
+        {
+            "tag": "Material-TEXTURE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/texture.png"
+        },
+        {
+            "tag": "Material-THEATERS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/theaters.png"
+        },
+        {
+            "tag": "Material-THUMB_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/thumb_down.png"
+        },
+        {
+            "tag": "Material-THUMB_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/thumb_up.png"
+        },
+        {
+            "tag": "Material-THUMBS_UP_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/thumbs_up_down.png"
+        },
+        {
+            "tag": "Material-TIME_TO_LEAVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/time_to_leave.png"
+        },
+        {
+            "tag": "Material-TIMELAPSE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timelapse.png"
+        },
+        {
+            "tag": "Material-TIMELINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timeline.png"
+        },
+        {
+            "tag": "Material-TIMER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timer.png"
+        },
+        {
+            "tag": "Material-TIMER_10",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timer_10.png"
+        },
+        {
+            "tag": "Material-TIMER_3",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timer_3.png"
+        },
+        {
+            "tag": "Material-TIMER_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/timer_off.png"
+        },
+        {
+            "tag": "Material-TITLE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/title.png"
+        },
+        {
+            "tag": "Material-TOC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/toc.png"
+        },
+        {
+            "tag": "Material-TODAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/today.png"
+        },
+        {
+            "tag": "Material-TOLL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/toll.png"
+        },
+        {
+            "tag": "Material-TONALITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tonality.png"
+        },
+        {
+            "tag": "Material-TOUCH_APP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/touch_app.png"
+        },
+        {
+            "tag": "Material-TOYS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/toys.png"
+        },
+        {
+            "tag": "Material-TRACK_CHANGES",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/track_changes.png"
+        },
+        {
+            "tag": "Material-TRAFFIC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/traffic.png"
+        },
+        {
+            "tag": "Material-TRAIN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/train.png"
+        },
+        {
+            "tag": "Material-TRAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tram.png"
+        },
+        {
+            "tag": "Material-TRANSFER_WITHIN_A_STATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/transfer_within_a_station.png"
+        },
+        {
+            "tag": "Material-TRANSFORM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/transform.png"
+        },
+        {
+            "tag": "Material-TRANSLATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/translate.png"
+        },
+        {
+            "tag": "Material-TRENDING_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/trending_down.png"
+        },
+        {
+            "tag": "Material-TRENDING_FLAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/trending_flat.png"
+        },
+        {
+            "tag": "Material-TRENDING_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/trending_up.png"
+        },
+        {
+            "tag": "Material-TUNE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tune.png"
+        },
+        {
+            "tag": "Material-TURNED_IN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/turned_in.png"
+        },
+        {
+            "tag": "Material-TURNED_IN_NOT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/turned_in_not.png"
+        },
+        {
+            "tag": "Material-TV",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/tv.png"
+        },
+        {
+            "tag": "Material-UNARCHIVE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/unarchive.png"
+        },
+        {
+            "tag": "Material-UNDO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/undo.png"
+        },
+        {
+            "tag": "Material-UNFOLD_LESS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/unfold_less.png"
+        },
+        {
+            "tag": "Material-UNFOLD_MORE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/unfold_more.png"
+        },
+        {
+            "tag": "Material-UPDATE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/update.png"
+        },
+        {
+            "tag": "Material-USB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/usb.png"
+        },
+        {
+            "tag": "Material-VERIFIED_USER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/verified_user.png"
+        },
+        {
+            "tag": "Material-VERTICAL_ALIGN_BOTTOM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vertical_align_bottom.png"
+        },
+        {
+            "tag": "Material-VERTICAL_ALIGN_CENTER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vertical_align_center.png"
+        },
+        {
+            "tag": "Material-VERTICAL_ALIGN_TOP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vertical_align_top.png"
+        },
+        {
+            "tag": "Material-VIBRATION",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vibration.png"
+        },
+        {
+            "tag": "Material-VIDEO_CALL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/video_call.png"
+        },
+        {
+            "tag": "Material-VIDEO_LABEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/video_label.png"
+        },
+        {
+            "tag": "Material-VIDEO_LIBRARY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/video_library.png"
+        },
+        {
+            "tag": "Material-VIDEOCAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/videocam.png"
+        },
+        {
+            "tag": "Material-VIDEOCAM_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/videocam_off.png"
+        },
+        {
+            "tag": "Material-VIDEOGAME_ASSET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/videogame_asset.png"
+        },
+        {
+            "tag": "Material-VIEW_AGENDA",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_agenda.png"
+        },
+        {
+            "tag": "Material-VIEW_ARRAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_array.png"
+        },
+        {
+            "tag": "Material-VIEW_CAROUSEL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_carousel.png"
+        },
+        {
+            "tag": "Material-VIEW_COLUMN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_column.png"
+        },
+        {
+            "tag": "Material-VIEW_COMFY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_comfy.png"
+        },
+        {
+            "tag": "Material-VIEW_COMPACT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_compact.png"
+        },
+        {
+            "tag": "Material-VIEW_DAY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_day.png"
+        },
+        {
+            "tag": "Material-VIEW_HEADLINE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_headline.png"
+        },
+        {
+            "tag": "Material-VIEW_LIST",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_list.png"
+        },
+        {
+            "tag": "Material-VIEW_MODULE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_module.png"
+        },
+        {
+            "tag": "Material-VIEW_QUILT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_quilt.png"
+        },
+        {
+            "tag": "Material-VIEW_STREAM",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_stream.png"
+        },
+        {
+            "tag": "Material-VIEW_WEEK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/view_week.png"
+        },
+        {
+            "tag": "Material-VIGNETTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vignette.png"
+        },
+        {
+            "tag": "Material-VISIBILITY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/visibility.png"
+        },
+        {
+            "tag": "Material-VISIBILITY_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/visibility_off.png"
+        },
+        {
+            "tag": "Material-VOICE_CHAT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/voice_chat.png"
+        },
+        {
+            "tag": "Material-VOICEMAIL",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/voicemail.png"
+        },
+        {
+            "tag": "Material-VOLUME_DOWN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/volume_down.png"
+        },
+        {
+            "tag": "Material-VOLUME_MUTE",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/volume_mute.png"
+        },
+        {
+            "tag": "Material-VOLUME_OFF",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/volume_off.png"
+        },
+        {
+            "tag": "Material-VOLUME_UP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/volume_up.png"
+        },
+        {
+            "tag": "Material-VPN_KEY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vpn_key.png"
+        },
+        {
+            "tag": "Material-VPN_LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/vpn_lock.png"
+        },
+        {
+            "tag": "Material-WALLPAPER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wallpaper.png"
+        },
+        {
+            "tag": "Material-WARNING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/warning.png"
+        },
+        {
+            "tag": "Material-WATCH",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/watch.png"
+        },
+        {
+            "tag": "Material-WATCH_LATER",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/watch_later.png"
+        },
+        {
+            "tag": "Material-WB_AUTO",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wb_auto.png"
+        },
+        {
+            "tag": "Material-WB_CLOUDY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wb_cloudy.png"
+        },
+        {
+            "tag": "Material-WB_INCANDESCENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wb_incandescent.png"
+        },
+        {
+            "tag": "Material-WB_IRIDESCENT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wb_iridescent.png"
+        },
+        {
+            "tag": "Material-WB_SUNNY",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wb_sunny.png"
+        },
+        {
+            "tag": "Material-WC",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wc.png"
+        },
+        {
+            "tag": "Material-WEB",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/web.png"
+        },
+        {
+            "tag": "Material-WEB_ASSET",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/web_asset.png"
+        },
+        {
+            "tag": "Material-WEEKEND",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/weekend.png"
+        },
+        {
+            "tag": "Material-WHATSHOT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/whatshot.png"
+        },
+        {
+            "tag": "Material-WIDGETS",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/widgets.png"
+        },
+        {
+            "tag": "Material-WIFI",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wifi.png"
+        },
+        {
+            "tag": "Material-WIFI_LOCK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wifi_lock.png"
+        },
+        {
+            "tag": "Material-WIFI_TETHERING",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wifi_tethering.png"
+        },
+        {
+            "tag": "Material-WORK",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/work.png"
+        },
+        {
+            "tag": "Material-WRAP_TEXT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/wrap_text.png"
+        },
+        {
+            "tag": "Material-YOUTUBE_SEARCHED_FOR",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/youtube_searched_for.png"
+        },
+        {
+            "tag": "Material-ZOOM_IN",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/zoom_in.png"
+        },
+        {
+            "tag": "Material-ZOOM_OUT",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/zoom_out.png"
+        },
+        {
+            "tag": "Material-ZOOM_OUT_MAP",
+            "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/zoom_out_map.png"
+        }
+    ]
+}
