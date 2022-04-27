@@ -8,6 +8,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class Weather {
     private Weather() {}
+    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + Weather.class.getPackage().getImplementationVersion() + "/structurizr-themes/Weather.json";
     private static final String ROOT = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/weather";
     /**
      * <img alt="alien.png" src="https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/weather/alien.png">

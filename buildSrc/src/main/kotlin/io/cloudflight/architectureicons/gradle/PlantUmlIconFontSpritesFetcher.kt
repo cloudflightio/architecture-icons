@@ -27,6 +27,7 @@ class PlantUmlIconFontSpritesFetcher {
         file.appendLine(" */")
         file.appendLine("public class $className {")
         file.appendLine("    private $className() {}")
+        file.appendLine("    private static final String STRUCTURIZR_THEME_URL = \"https://raw.githubusercontent.com/cloudflightio/architecture-icons/\" + $className.class.getPackage().getImplementationVersion() + \"/structurizr-themes/$className.json\";")
         file.appendLine("    private static final String ROOT = \"$rootUrl\";")
         lines.subList(6, lines.size).forEach { line ->
             try {
