@@ -8,6 +8,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class DevIcons {
     private DevIcons() {}
+    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + DevIcons.class.getPackage().getImplementationVersion() + "/structurizr-themes/DevIcons.json";
     private static final String ROOT = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons";
     /**
      * <img alt="android.png" src="https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons/android.png">

@@ -8,6 +8,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class FontAwesome5 {
     private FontAwesome5() {}
+    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + FontAwesome5.class.getPackage().getImplementationVersion() + "/structurizr-themes/FontAwesome5.json";
     private static final String ROOT = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5";
     /**
      * <img alt="500px.png" src="https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5/500px.png">
