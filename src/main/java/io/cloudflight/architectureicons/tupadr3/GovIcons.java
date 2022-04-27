@@ -8,7 +8,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class GovIcons {
     private GovIcons() {}
-    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + GovIcons.class.getPackage().getImplementationVersion() + "/structurizr-themes/GovIcons.json";
+    public static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + GovIcons.class.getPackage().getImplementationVersion() + "/structurizr-themes/GovIcons.json";
     private static final String ROOT = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons";
     /**
      * <img alt="18F_logo.png" src="https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/18F_logo.png">

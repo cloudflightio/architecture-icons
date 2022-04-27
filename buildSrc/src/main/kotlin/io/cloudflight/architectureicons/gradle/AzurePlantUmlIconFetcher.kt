@@ -41,7 +41,7 @@ class AzurePlantUmlIconFetcher {
         file.appendLine(" */")
         file.appendLine("public class $className {")
         file.appendLine("    private $className() {}")
-        file.appendLine("    private static final String STRUCTURIZR_THEME_URL = \"https://raw.githubusercontent.com/cloudflightio/architecture-icons/\" + $className.class.getPackage().getImplementationVersion() + \"/structurizr-themes/$className.json\";")
+        file.appendLine("    public static final String STRUCTURIZR_THEME_URL = \"https://raw.githubusercontent.com/cloudflightio/architecture-icons/\" + $className.class.getPackage().getImplementationVersion() + \"/structurizr-themes/$className.json\";")
         file.appendLine("    private static final String ROOT = \"$rootUrl\";")
         file.appendLine("    private static final String COMMONS = ROOT + \"/AzureCommon.puml\";")
 

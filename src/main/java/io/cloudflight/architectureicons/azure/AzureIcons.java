@@ -10,7 +10,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class AzureIcons {
     private AzureIcons() {}
-    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + AzureIcons.class.getPackage().getImplementationVersion() + "/structurizr-themes/AzureIcons.json";
+    public static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + AzureIcons.class.getPackage().getImplementationVersion() + "/structurizr-themes/AzureIcons.json";
     private static final String ROOT = "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist";
     private static final String COMMONS = ROOT + "/AzureCommon.puml";
     public static class AIMachineLearning {

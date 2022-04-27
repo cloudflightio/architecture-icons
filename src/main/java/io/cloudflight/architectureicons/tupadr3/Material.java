@@ -8,7 +8,7 @@ import io.cloudflight.architectureicons.PlantUmlSprite;
  */
 public class Material {
     private Material() {}
-    private static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + Material.class.getPackage().getImplementationVersion() + "/structurizr-themes/Material.json";
+    public static final String STRUCTURIZR_THEME_URL = "https://raw.githubusercontent.com/cloudflightio/architecture-icons/" + Material.class.getPackage().getImplementationVersion() + "/structurizr-themes/Material.json";
     private static final String ROOT = "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material";
     /**
      * <img alt="3d_rotation.png" src="https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material/3d_rotation.png">
