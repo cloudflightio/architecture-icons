@@ -1,7 +1,5 @@
 package io.cloudflight.architectureicons.gradle
 
-import kotlinx.serialization.json.Json
-import kotlinx.serialization.json.encodeToStream
 import java.net.URL
 
 
@@ -18,48 +16,28 @@ class AzurePlantUmlIconFetcher {
 
     fun fetch(monoChrome: Boolean) {
         val className = if (monoChrome) "AzureMonoIcons" else "AzureIcons"
-        val theme = StructurizrTheme(className, "")
+
+        val iconClass = IconClass(
+            packageName = "io.cloudflight.architectureicons.azure",
+            sourceUrl = sourceUrl,
+            iconRootUrl = rootUrl,
+            licenseText = LICENSE_TEXT,
+            icons = IconGroup(className),
+            pumlIncludes = listOf(Pair("COMMONS", "/AzureCommon.puml"))
+        )
+
         val lines = URL(url).readText().lines()
-        val file = "src/main/java/io/cloudflight/architectureicons/azure/$className.java".asEmptyFile()
-        val base64 = "src/main/resources/base64/$className.properties".asFileIfNotExists()
-        base64?.let { f ->
-            LICENSE_TEXT.forEach {
-                f.appendLine("# " + it)
-            }
-        }
-        file.appendLine("package io.cloudflight.architectureicons.azure;")
-        file.appendLine()
-        file.appendLine("import io.cloudflight.architectureicons.Icon;")
-        file.appendLine("import io.cloudflight.architectureicons.PlantUmlSprite;")
-        file.appendLine()
-        file.appendLine("/**")
-        file.appendLine(" * This file is generated from <a href=\"$sourceUrl\">$sourceUrl</a>")
-        LICENSE_TEXT.forEach {
-            file.appendLine(" * " + it)
-        }
 
-        file.appendLine(" */")
-        file.appendLine("public class $className {")
-        file.appendLine("    private $className() {}")
-        file.appendLine("    public static final String STRUCTURIZR_THEME_URL = \"https://raw.githubusercontent.com/cloudflightio/architecture-icons/\" + $className.class.getPackage().getImplementationVersion() + \"/structurizr-themes/$className.json\";")
-        file.appendLine("    private static final String ROOT = \"$rootUrl\";")
-        file.appendLine("    private static final String COMMONS = ROOT + \"/AzureCommon.puml\";")
-
-        var first = true
-        var category: String? = null
+        var category: IconGroup? = null
         lines.subList(lines.indexOfFirst { it.startsWith("**") }, lines.size).iterator().forEach { line ->
             try {
                 if (line.trim().isNotBlank()) {
                     if (line.startsWith("**")) {
-                        if (!first) {
-                            file.appendLine("    }")
-                        } else {
-                            first = false
+                        category = IconGroup(className = line.split("|")[0].trim().removeSurrounding("**")).also {
+                            iconClass.icons.subGroups.add(it)
                         }
-                        category = line.split("|")[0].trim().removeSurrounding("**")
-                        file.appendLine("    public static class $category {")
-                        file.appendLine("        private $category() {}")
                     } else {
+                        val currentCategory = category ?: throw RuntimeException("no category available")
                         val split = line.split('|')
                         val name = split[1].substringBefore('<').trim()
                         val pumlUrl = split[4].trim()
@@ -69,33 +47,25 @@ class AzurePlantUmlIconFetcher {
                         ) else pumlUrl.replace(".puml", ".png"))
 
                         val constName = name.toConstName()
-                        val iconId = "$className-$constName"
 
-                        file.appendLine("        /**")
-                        file.appendLine("         * <img alt=\"$pngUrl\" src=\"$rootUrl/$pngUrl\">")
-                        file.appendLine("         */")
                         if (monoChrome) {
-                            file.appendLine("        public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/$pngUrl\",  AzureIcons.$category.$constName.getPlantUmlSprite());")
+                            currentCategory.icons.add(
+                                Icon(
+                                    name = name,
+                                    pngUrl = pngUrl,
+                                    pumlReference = "AzureIcons.${currentCategory.className}.$constName.getPlantUmlSprite()"
+                                )
+                            )
                         } else {
-                            file.appendLine("        public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/$pngUrl\",  new PlantUmlSprite(\"$name\", COMMONS, ROOT + \"/$pumlUrl\"));")
+                            currentCategory.icons.add(Icon(name = name, pngUrl = pngUrl, pumlUrl = pumlUrl))
                         }
-                        theme.elements.add(ThemeElement(tag = iconId, icon = rootUrl + "/" + pngUrl))
-                        base64?.appendLine(constName + "=" + URL(rootUrl + "/" + pngUrl).readBytes().toBase64())
                     }
                 }
-
             } catch (ex: Exception) {
-                println("Cannot split " + line)
+                throw RuntimeException("cannot split " + line, ex)
             }
         }
-        file.appendLine("    }")
-        file.appendLine("}")
-
-        val themeFile = java.io.File("structurizr-themes/$className.json")
-        themeFile.parentFile.mkdirs()
-        themeFile.outputStream().use {
-            Json { prettyPrint = true }.encodeToStream(theme, it)
-        }
+        IconClassGenerator().generate(iconClass)
     }
 }
 

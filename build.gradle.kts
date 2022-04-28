@@ -52,6 +52,35 @@ tasks.jar {
  */
 tasks.create("generateIcons", io.cloudflight.architectureicons.gradle.IconGeneratorTask::class.java)
 
+/**
+ * add the content of the Asset-ZIP from https://aws.amazon.com/de/architecture/icons/ to
+ * the folder awsassets and run this task manually in order to have icons in the given
+ * resolution being copied to the aws-icons path
+ */
+tasks.create("copyAwsIcons", org.gradle.api.tasks.Copy::class.java) {
+    val resolution = "48"
+    val version = "01312022" // the suffix of the folder in the first level (i.e. Category-Icons_01312022)
+    from("awsassets") {
+        include("**/*$resolution.png", "**/*${resolution}_Dark.png")
+    }
+    into("aws-icons")
+    includeEmptyDirs = false
+    filesMatching("**") {
+        path = path
+            .replace("_$version", "")
+            .replace("/Arch_${resolution}", "")
+            .replace("/Res_${resolution}_Dark", "")
+            .replace("/Arch-Category_${resolution}", "")
+            .replace("/Arch-Category_", "/")
+            .replace("/Arch_", "/")
+            .replace("/Res_", "/")
+            .replace("/${resolution}/", "/")
+            .replace("_${resolution}_Dark.png", ".png")
+            .replace("_${resolution}.png", ".png")
+            .replace("-Icons/", "/")
+    }
+}
+
 publishing {
     publications {
         create<MavenPublication>("maven") {

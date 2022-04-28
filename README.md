@@ -33,3 +33,4 @@ This project bundles different icon libraries, for the use of the icons their re
 - Credits go to the authors of the libraries mentioned above:
   - [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)
   - [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/)
+  - AWS Icons have been downloaded from https://aws.amazon.com/de/architecture/icons/
