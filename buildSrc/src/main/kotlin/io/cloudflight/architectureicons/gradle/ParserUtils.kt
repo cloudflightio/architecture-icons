@@ -17,7 +17,7 @@ fun File.appendLine(indent: Int, line: String? = null) {
 
 
 fun String.toConstName(): String {
-    val uppercase = camelCaseToLowerCaseWithUnderscore(this).uppercase()
+    val uppercase = camelCaseToLowerCaseWithUnderscore(this.replace("-", "_").replace("&", "").replace(".NET", "DOTNET")).uppercase()
     if (Character.isDigit(uppercase[0])) {
         return "SPRITE_" + uppercase
     } else {
@@ -31,7 +31,9 @@ fun camelCaseToLowerCaseWithUnderscore(string: String): String {
     var lastUppercase = false
     string.forEach {
         if (it.isUpperCase() && !lastUppercase && result.isNotEmpty()) {
-            result.append('_')
+            if (!result.endsWith("_")) {
+                result.append('_')
+            }
         }
         lastUppercase = it.isUpperCase()
         result.append(it)

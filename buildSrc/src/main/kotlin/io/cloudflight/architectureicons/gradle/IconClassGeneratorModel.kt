@@ -1,5 +1,7 @@
 package io.cloudflight.architectureicons.gradle
 
+import java.io.File
+
 data class IconClass(
     val packageName: String,
     val sourceUrl: String,
@@ -23,5 +25,6 @@ data class Icon(
     val name: String,
     val pngUrl: String,
     val pumlUrl: String? = null,
-    val pumlReference: String? = null
+    val pumlReference: String? = null,
+    val pngFile: File? = null
 )
