@@ -3,519 +3,519 @@
     "description": "",
     "elements": [
         {
-            "tag": "GovIcons-SPRITE_18_F_LOGO",
+            "tag": "18F_logo",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/18F_logo.png"
         },
         {
-            "tag": "GovIcons-SPRITE_540_FEDAPI",
+            "tag": "540_fedapi",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/540_fedapi.png"
         },
         {
-            "tag": "GovIcons-SPRITE_540_LOGO",
+            "tag": "540_logo",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/540_logo.png"
         },
         {
-            "tag": "GovIcons-AIRPLANE",
+            "tag": "airplane",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/airplane.png"
         },
         {
-            "tag": "GovIcons-AMBULANCE",
+            "tag": "ambulance",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/ambulance.png"
         },
         {
-            "tag": "GovIcons-AMMO",
+            "tag": "ammo",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/ammo.png"
         },
         {
-            "tag": "GovIcons-BALANCE",
+            "tag": "balance",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/balance.png"
         },
         {
-            "tag": "GovIcons-BAR_CHART",
+            "tag": "bar_chart",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/bar_chart.png"
         },
         {
-            "tag": "GovIcons-BARCODE",
+            "tag": "barcode",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/barcode.png"
         },
         {
-            "tag": "GovIcons-BIOHAZARD",
+            "tag": "biohazard",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/biohazard.png"
         },
         {
-            "tag": "GovIcons-BOOK",
+            "tag": "book",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/book.png"
         },
         {
-            "tag": "GovIcons-BRIEFCASE",
+            "tag": "briefcase",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/briefcase.png"
         },
         {
-            "tag": "GovIcons-BUILDING",
+            "tag": "building",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/building.png"
         },
         {
-            "tag": "GovIcons-BUS_FRONT",
+            "tag": "bus_front",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/bus_front.png"
         },
         {
-            "tag": "GovIcons-CAPITOL",
+            "tag": "capitol",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/capitol.png"
         },
         {
-            "tag": "GovIcons-CHECK",
+            "tag": "check",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/check.png"
         },
         {
-            "tag": "GovIcons-CHECK_SQUARE_O",
+            "tag": "check_square_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/check_square_o.png"
         },
         {
-            "tag": "GovIcons-CLOCK_O",
+            "tag": "clock_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/clock_o.png"
         },
         {
-            "tag": "GovIcons-CLOUD",
+            "tag": "cloud",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/cloud.png"
         },
         {
-            "tag": "GovIcons-CLOUD_O",
+            "tag": "cloud_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/cloud_o.png"
         },
         {
-            "tag": "GovIcons-CODE",
+            "tag": "code",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/code.png"
         },
         {
-            "tag": "GovIcons-COG",
+            "tag": "cog",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/cog.png"
         },
         {
-            "tag": "GovIcons-COGS",
+            "tag": "cogs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/cogs.png"
         },
         {
-            "tag": "GovIcons-COMMENT",
+            "tag": "comment",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/comment.png"
         },
         {
-            "tag": "GovIcons-COMMENTS",
+            "tag": "comments",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/comments.png"
         },
         {
-            "tag": "GovIcons-CONSTRUCTION",
+            "tag": "construction",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/construction.png"
         },
         {
-            "tag": "GovIcons-DATABASE",
+            "tag": "database",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/database.png"
         },
         {
-            "tag": "GovIcons-DC_FLAG",
+            "tag": "dc_flag",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/dc_flag.png"
         },
         {
-            "tag": "GovIcons-DC_MAP",
+            "tag": "dc_map",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/dc_map.png"
         },
         {
-            "tag": "GovIcons-DESKTOP",
+            "tag": "desktop",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/desktop.png"
         },
         {
-            "tag": "GovIcons-DNA",
+            "tag": "dna",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/dna.png"
         },
         {
-            "tag": "GovIcons-DOGTAGS",
+            "tag": "dogtags",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/dogtags.png"
         },
         {
-            "tag": "GovIcons-DONKEY",
+            "tag": "donkey",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/donkey.png"
         },
         {
-            "tag": "GovIcons-DRONE",
+            "tag": "drone",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/drone.png"
         },
         {
-            "tag": "GovIcons-ELEPHANT",
+            "tag": "elephant",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/elephant.png"
         },
         {
-            "tag": "GovIcons-FACTORY",
+            "tag": "factory",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/factory.png"
         },
         {
-            "tag": "GovIcons-FILE",
+            "tag": "file",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file.png"
         },
         {
-            "tag": "GovIcons-FILE_CONTRACT_O",
+            "tag": "file_contract_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_contract_o.png"
         },
         {
-            "tag": "GovIcons-FILE_EXCEL",
+            "tag": "file_excel",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_excel.png"
         },
         {
-            "tag": "GovIcons-FILE_EXCEL_O",
+            "tag": "file_excel_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_excel_o.png"
         },
         {
-            "tag": "GovIcons-FILE_O",
+            "tag": "file_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_o.png"
         },
         {
-            "tag": "GovIcons-FILE_TEXT",
+            "tag": "file_text",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_text.png"
         },
         {
-            "tag": "GovIcons-FILE_TEXT_O",
+            "tag": "file_text_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_text_o.png"
         },
         {
-            "tag": "GovIcons-FILE_WORD",
+            "tag": "file_word",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_word.png"
         },
         {
-            "tag": "GovIcons-FILE_WORD_O",
+            "tag": "file_word_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/file_word_o.png"
         },
         {
-            "tag": "GovIcons-FINGERPRINT",
+            "tag": "fingerprint",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/fingerprint.png"
         },
         {
-            "tag": "GovIcons-FOLDER",
+            "tag": "folder",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/folder.png"
         },
         {
-            "tag": "GovIcons-FOLDER_MISC",
+            "tag": "folder_misc",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/folder_misc.png"
         },
         {
-            "tag": "GovIcons-GAVEL",
+            "tag": "gavel",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/gavel.png"
         },
         {
-            "tag": "GovIcons-GUN",
+            "tag": "gun",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/gun.png"
         },
         {
-            "tag": "GovIcons-HANDSHAKE",
+            "tag": "handshake",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/handshake.png"
         },
         {
-            "tag": "GovIcons-HARD_HAT",
+            "tag": "hard_hat",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/hard_hat.png"
         },
         {
-            "tag": "GovIcons-HEARTBEAT",
+            "tag": "heartbeat",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/heartbeat.png"
         },
         {
-            "tag": "GovIcons-HELICOPTER",
+            "tag": "helicopter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/helicopter.png"
         },
         {
-            "tag": "GovIcons-ID_CARD",
+            "tag": "id_card",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/id_card.png"
         },
         {
-            "tag": "GovIcons-ID_CARD_O",
+            "tag": "id_card_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/id_card_o.png"
         },
         {
-            "tag": "GovIcons-JEFFERSON_MEMORIAL",
+            "tag": "jefferson_memorial",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/jefferson_memorial.png"
         },
         {
-            "tag": "GovIcons-JET",
+            "tag": "jet",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/jet.png"
         },
         {
-            "tag": "GovIcons-KEY",
+            "tag": "key",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/key.png"
         },
         {
-            "tag": "GovIcons-LEAF",
+            "tag": "leaf",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/leaf.png"
         },
         {
-            "tag": "GovIcons-LIBERTY_BELL",
+            "tag": "liberty_bell",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/liberty_bell.png"
         },
         {
-            "tag": "GovIcons-LIGHTBULB",
+            "tag": "lightbulb",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/lightbulb.png"
         },
         {
-            "tag": "GovIcons-LINCOLN_MEMORIAL",
+            "tag": "lincoln_memorial",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/lincoln_memorial.png"
         },
         {
-            "tag": "GovIcons-LINE_CHART",
+            "tag": "line_chart",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/line_chart.png"
         },
         {
-            "tag": "GovIcons-LOCK",
+            "tag": "lock",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/lock.png"
         },
         {
-            "tag": "GovIcons-MEDAL_CIRCLE",
+            "tag": "medal_circle",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/medal_circle.png"
         },
         {
-            "tag": "GovIcons-MEDAL_STAR",
+            "tag": "medal_star",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/medal_star.png"
         },
         {
-            "tag": "GovIcons-MEDKIT",
+            "tag": "medkit",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/medkit.png"
         },
         {
-            "tag": "GovIcons-METRO_FRONT",
+            "tag": "metro_front",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/metro_front.png"
         },
         {
-            "tag": "GovIcons-MICROSCOPE",
+            "tag": "microscope",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/microscope.png"
         },
         {
-            "tag": "GovIcons-MISSILE",
+            "tag": "missile",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/missile.png"
         },
         {
-            "tag": "GovIcons-MOBILE",
+            "tag": "mobile",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/mobile.png"
         },
         {
-            "tag": "GovIcons-MONEY",
+            "tag": "money",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/money.png"
         },
         {
-            "tag": "GovIcons-NUCLEAR_PLANT",
+            "tag": "nuclear_plant",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/nuclear_plant.png"
         },
         {
-            "tag": "GovIcons-PALLET",
+            "tag": "pallet",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/pallet.png"
         },
         {
-            "tag": "GovIcons-PENTAGON",
+            "tag": "pentagon",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/pentagon.png"
         },
         {
-            "tag": "GovIcons-PIE_CHART",
+            "tag": "pie_chart",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/pie_chart.png"
         },
         {
-            "tag": "GovIcons-POISON",
+            "tag": "poison",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/poison.png"
         },
         {
-            "tag": "GovIcons-POISON_BOTTLE",
+            "tag": "poison_bottle",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/poison_bottle.png"
         },
         {
-            "tag": "GovIcons-PRESENTER",
+            "tag": "presenter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/presenter.png"
         },
         {
-            "tag": "GovIcons-RADAR",
+            "tag": "radar",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/radar.png"
         },
         {
-            "tag": "GovIcons-RADIOACTIVE",
+            "tag": "radioactive",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/radioactive.png"
         },
         {
-            "tag": "GovIcons-RECYCLE",
+            "tag": "recycle",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/recycle.png"
         },
         {
-            "tag": "GovIcons-RETICLE_CROSSHAIR",
+            "tag": "reticle_crosshair",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/reticle_crosshair.png"
         },
         {
-            "tag": "GovIcons-RETICLE_DOT",
+            "tag": "reticle_dot",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/reticle_dot.png"
         },
         {
-            "tag": "GovIcons-RIBBON",
+            "tag": "ribbon",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/ribbon.png"
         },
         {
-            "tag": "GovIcons-ROAD",
+            "tag": "road",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/road.png"
         },
         {
-            "tag": "GovIcons-ROAD_BARRICADE",
+            "tag": "road_barricade",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/road_barricade.png"
         },
         {
-            "tag": "GovIcons-ROAD_SIGN",
+            "tag": "road_sign",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/road_sign.png"
         },
         {
-            "tag": "GovIcons-RULER",
+            "tag": "ruler",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/ruler.png"
         },
         {
-            "tag": "GovIcons-SATELLITE",
+            "tag": "satellite",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/satellite.png"
         },
         {
-            "tag": "GovIcons-SCRIPT",
+            "tag": "script",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/script.png"
         },
         {
-            "tag": "GovIcons-SEARCH",
+            "tag": "search",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/search.png"
         },
         {
-            "tag": "GovIcons-SECURITY_CAMERA",
+            "tag": "security_camera",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/security_camera.png"
         },
         {
-            "tag": "GovIcons-SHIELD",
+            "tag": "shield",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/shield.png"
         },
         {
-            "tag": "GovIcons-SHIELD_O",
+            "tag": "shield_o",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/shield_o.png"
         },
         {
-            "tag": "GovIcons-SHIP_FRONT",
+            "tag": "ship_front",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/ship_front.png"
         },
         {
-            "tag": "GovIcons-STATUE_OF_LIBERTY",
+            "tag": "statue_of_liberty",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/statue_of_liberty.png"
         },
         {
-            "tag": "GovIcons-STETHOSCOPE",
+            "tag": "stethoscope",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/stethoscope.png"
         },
         {
-            "tag": "GovIcons-SUBMARINE",
+            "tag": "submarine",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/submarine.png"
         },
         {
-            "tag": "GovIcons-TABLE",
+            "tag": "table",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/table.png"
         },
         {
-            "tag": "GovIcons-TABLES",
+            "tag": "tables",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/tables.png"
         },
         {
-            "tag": "GovIcons-TABLET",
+            "tag": "tablet",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/tablet.png"
         },
         {
-            "tag": "GovIcons-TANK",
+            "tag": "tank",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/tank.png"
         },
         {
-            "tag": "GovIcons-TEXTILE",
+            "tag": "textile",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/textile.png"
         },
         {
-            "tag": "GovIcons-TIMES",
+            "tag": "times",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/times.png"
         },
         {
-            "tag": "GovIcons-TOOLS",
+            "tag": "tools",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/tools.png"
         },
         {
-            "tag": "GovIcons-TRAIN_FRONT",
+            "tag": "train_front",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/train_front.png"
         },
         {
-            "tag": "GovIcons-TRUCK",
+            "tag": "truck",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/truck.png"
         },
         {
-            "tag": "GovIcons-TRUCK_FRONT",
+            "tag": "truck_front",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/truck_front.png"
         },
         {
-            "tag": "GovIcons-UNLOCK",
+            "tag": "unlock",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/unlock.png"
         },
         {
-            "tag": "GovIcons-US_FLAG_STRAIGHT",
+            "tag": "us_flag_straight",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/us_flag_straight.png"
         },
         {
-            "tag": "GovIcons-US_FLAG_WAVY",
+            "tag": "us_flag_wavy",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/us_flag_wavy.png"
         },
         {
-            "tag": "GovIcons-US_MAP",
+            "tag": "us_map",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/us_map.png"
         },
         {
-            "tag": "GovIcons-US_SHIELD",
+            "tag": "us_shield",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/us_shield.png"
         },
         {
-            "tag": "GovIcons-US_TOPHAT",
+            "tag": "us_tophat",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/us_tophat.png"
         },
         {
-            "tag": "GovIcons-USD",
+            "tag": "usd",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/usd.png"
         },
         {
-            "tag": "GovIcons-USER",
+            "tag": "user",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/user.png"
         },
         {
-            "tag": "GovIcons-USER_GRADUATE",
+            "tag": "user_graduate",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/user_graduate.png"
         },
         {
-            "tag": "GovIcons-USER_MILITARY",
+            "tag": "user_military",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/user_military.png"
         },
         {
-            "tag": "GovIcons-USER_POLITICIAN",
+            "tag": "user_politician",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/user_politician.png"
         },
         {
-            "tag": "GovIcons-USER_SUIT",
+            "tag": "user_suit",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/user_suit.png"
         },
         {
-            "tag": "GovIcons-USERS",
+            "tag": "users",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/users.png"
         },
         {
-            "tag": "GovIcons-VOTE",
+            "tag": "vote",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/vote.png"
         },
         {
-            "tag": "GovIcons-WARNING",
+            "tag": "warning",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/warning.png"
         },
         {
-            "tag": "GovIcons-WASHINGTON_MONUMENT",
+            "tag": "washington_monument",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/washington_monument.png"
         },
         {
-            "tag": "GovIcons-WHEEL_BARROW",
+            "tag": "wheel_barrow",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/wheel_barrow.png"
         },
         {
-            "tag": "GovIcons-WHITE_HOUSE",
+            "tag": "white_house",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/white_house.png"
         },
         {
-            "tag": "GovIcons-WORLD",
+            "tag": "world",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/govicons/world.png"
         }
     ]

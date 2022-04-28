@@ -9,8 +9,10 @@ public final class Icon {
     private final URL pngUrl;
     private final PlantUmlSprite plantUmlSprite;
     private final String identifier;
+    private final String name;
 
-    public Icon(@Nonnull String identifier, @Nullable String pngUrl, @Nullable PlantUmlSprite plantUmlSprite) {
+    public Icon(@Nonnull String identifier, @Nonnull String name, @Nullable String pngUrl, @Nullable PlantUmlSprite plantUmlSprite) {
+        this.name = name;
         if (pngUrl == null) {
             this.pngUrl = null;
         } else {
@@ -25,8 +27,8 @@ public final class Icon {
     }
 
     @Nonnull
-    public String getIdentifier() {
-        return this.identifier;
+    public String getName() {
+        return this.name;
     }
 
     @Nullable

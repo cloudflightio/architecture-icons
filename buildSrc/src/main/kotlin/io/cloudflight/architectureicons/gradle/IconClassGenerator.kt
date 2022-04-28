@@ -4,6 +4,7 @@ import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.encodeToStream
 import java.io.File
 import java.net.URL
+import java.util.concurrent.atomic.AtomicInteger
 
 class IconClassGenerator {
 
@@ -31,7 +32,7 @@ class IconClassGenerator {
         file.appendLine("public class ${iconClass.className} {")
         file.appendLine("    private ${iconClass.className}() {}")
         file.appendLine("    /**")
-        file.appendLine("     * This constants returns the URL to a <a href=\"https://structurizr.com/help/themes\">Structurizr Theme</a> containing all icons of this class. Use {@link Icon#getIdentifier()} as tag name in your structurizr models.")
+        file.appendLine("     * This constants returns the URL to a <a href=\"https://structurizr.com/help/themes\">Structurizr Theme</a> containing all icons of this class. Use {@link Icon#getName()} as tag name in your structurizr models.")
         file.appendLine("     */")
         file.appendLine("    public static final String STRUCTURIZR_THEME_URL = \"https://raw.githubusercontent.com/cloudflightio/architecture-icons/\" + ${iconClass.className}.class.getPackage().getImplementationVersion() + \"/structurizr-themes/${iconClass.className}.json\";")
         file.appendLine("    private static final String ROOT = \"${iconClass.iconRootUrl}\";")
@@ -40,11 +41,12 @@ class IconClassGenerator {
         }
 
         val iconGroup = iconClass.icons
-        addIcons(iconGroup, iconClass, indent = 4, file, base64, theme)
+        val counter = AtomicInteger(0)
+        addIcons(iconGroup, iconClass, indent = 4, file, base64, theme, counter)
         iconGroup.subGroups.forEach {
             file.appendLine(4, "public static class ${it.className} {")
             file.appendLine(8, "private ${it.className}() {}")
-            addIcons(it, iconClass, indent = 8, file, base64, theme)
+            addIcons(it, iconClass, indent = 8, file, base64, theme, counter)
             file.appendLine(4, "}")
         }
 
@@ -63,12 +65,17 @@ class IconClassGenerator {
         indent: Int,
         javaFile: File,
         base64File: File?,
-        theme: StructurizrTheme
+        theme: StructurizrTheme,
+        counter: AtomicInteger
     ) {
         iconGroup.icons.forEach { icon ->
 
             val constName = icon.name.toConstName()
-            val iconId = "${iconClass.className}-$constName"
+            val iconId = "${iconClass.className}-${counter.incrementAndGet()}"
+            var iconName = icon.name
+            if (iconGroup != iconClass.icons) {
+                iconName += " (" + iconGroup.className + ")"
+            }
 
             javaFile.appendLine(indent, "/**")
             javaFile.appendLine(
@@ -79,26 +86,33 @@ class IconClassGenerator {
             if (icon.pumlUrl == null && icon.pumlReference == null) {
                 javaFile.appendLine(
                     indent,
-                    "public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/${icon.pngUrl}\",  null);"
+                    "public static final Icon $constName = new Icon(\"$iconId\", \"${iconName}\", ROOT + \"/${icon.pngUrl}\",  null);"
                 )
             } else if (icon.pumlUrl != null) {
                 javaFile.appendLine(
                     indent,
-                    "public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/${icon.pngUrl}\", new PlantUmlSprite(\"${icon.name}\", ${
+                    "public static final Icon $constName = new Icon(\"$iconId\", \"${iconName}\", ROOT + \"/${icon.pngUrl}\", new PlantUmlSprite(\"${icon.name}\", ${
                         iconClass.pumlIncludes.map { it.first }.joinToString { it + ", " }
                     }ROOT + \"/${icon.pumlUrl}\"));"
                 )
             } else if (icon.pumlReference != null) {
                 javaFile.appendLine(
                     indent,
-                    "public static final Icon $constName = new Icon(\"$iconId\", ROOT + \"/${icon.pngUrl}\", ${icon.pumlReference});"
+                    "public static final Icon $constName = new Icon(\"$iconId\", \"${iconName}\", ROOT + \"/${icon.pngUrl}\", ${icon.pumlReference});"
                 )
             }
+                theme.elements.add(ThemeElement(tag = iconName, icon = iconClass.iconRootUrl + "/" + icon.pngUrl))
 
-            theme.elements.add(ThemeElement(tag = iconId, icon = iconClass.iconRootUrl + "/" + icon.pngUrl))
-            base64File?.appendLine(
-                constName + "=" + URL(iconClass.iconRootUrl + "/" + icon.pngUrl).readBytes().toBase64()
-            )
+            if (icon.pngFile != null) {
+                base64File?.appendLine(
+                    counter.get().toString() + "=" + icon.pngFile.readBytes().toBase64()
+                )
+            } else {
+                base64File?.appendLine(
+                    counter.get().toString() + "=" + URL(iconClass.iconRootUrl + "/" + icon.pngUrl).readBytes()
+                        .toBase64()
+                )
+            }
         }
     }
 }

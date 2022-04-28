@@ -3,1475 +3,1475 @@
     "description": "",
     "elements": [
         {
-            "tag": "DevIcons2-AARCH64",
+            "tag": "aarch64",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/aarch64.png"
         },
         {
-            "tag": "DevIcons2-AFTEREFFECTS",
+            "tag": "aftereffects",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/aftereffects.png"
         },
         {
-            "tag": "DevIcons2-AMAZONWEBSERVICES_ORIGINAL",
+            "tag": "amazonwebservices_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/amazonwebservices_original.png"
         },
         {
-            "tag": "DevIcons2-AMAZONWEBSERVICES_WORDMARK",
+            "tag": "amazonwebservices_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/amazonwebservices_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ANDROID",
+            "tag": "android",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/android.png"
         },
         {
-            "tag": "DevIcons2-ANDROID_WORDMARK",
+            "tag": "android_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/android_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ANGULARJS",
+            "tag": "angularjs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/angularjs.png"
         },
         {
-            "tag": "DevIcons2-ANGULARJS_WORDMARK",
+            "tag": "angularjs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/angularjs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-APACHE",
+            "tag": "apache",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/apache.png"
         },
         {
-            "tag": "DevIcons2-APACHE_LINE",
+            "tag": "apache_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/apache_line.png"
         },
         {
-            "tag": "DevIcons2-APACHE_LINE_WORDMARK",
+            "tag": "apache_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/apache_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-APACHE_WORDMARK",
+            "tag": "apache_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/apache_wordmark.png"
         },
         {
-            "tag": "DevIcons2-APPCELERATOR_ORIGINAL",
+            "tag": "appcelerator_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/appcelerator_original.png"
         },
         {
-            "tag": "DevIcons2-APPCELERATOR_WORDMARK",
+            "tag": "appcelerator_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/appcelerator_wordmark.png"
         },
         {
-            "tag": "DevIcons2-APPLE_ORIGINAL",
+            "tag": "apple_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/apple_original.png"
         },
         {
-            "tag": "DevIcons2-APPWRITE",
+            "tag": "appwrite",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/appwrite.png"
         },
         {
-            "tag": "DevIcons2-APPWRITE_WORDMARK",
+            "tag": "appwrite_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/appwrite_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ATOM_ORIGINAL",
+            "tag": "atom_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/atom_original.png"
         },
         {
-            "tag": "DevIcons2-ATOM_ORIGINAL_WORDMARK",
+            "tag": "atom_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/atom_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BABEL",
+            "tag": "babel",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/babel.png"
         },
         {
-            "tag": "DevIcons2-BACKBONEJS",
+            "tag": "backbonejs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/backbonejs.png"
         },
         {
-            "tag": "DevIcons2-BACKBONEJS_WORDMARK",
+            "tag": "backbonejs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/backbonejs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BASH",
+            "tag": "bash",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bash.png"
         },
         {
-            "tag": "DevIcons2-BEHANCE",
+            "tag": "behance",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/behance.png"
         },
         {
-            "tag": "DevIcons2-BEHANCE_WORDMARK",
+            "tag": "behance_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/behance_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BITBUCKET_ORIGINAL",
+            "tag": "bitbucket_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bitbucket_original.png"
         },
         {
-            "tag": "DevIcons2-BITBUCKET_ORIGINAL_WORDMARK",
+            "tag": "bitbucket_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bitbucket_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BOOTSTRAP",
+            "tag": "bootstrap",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bootstrap.png"
         },
         {
-            "tag": "DevIcons2-BOOTSTRAP_WORDMARK",
+            "tag": "bootstrap_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bootstrap_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BOWER",
+            "tag": "bower",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bower.png"
         },
         {
-            "tag": "DevIcons2-BOWER_LINE",
+            "tag": "bower_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bower_line.png"
         },
         {
-            "tag": "DevIcons2-BOWER_LINE_WORDMARK",
+            "tag": "bower_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bower_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BOWER_WORDMARK",
+            "tag": "bower_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bower_wordmark.png"
         },
         {
-            "tag": "DevIcons2-BULMA",
+            "tag": "bulma",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/bulma.png"
         },
         {
-            "tag": "DevIcons2-C",
+            "tag": "c",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/c.png"
         },
         {
-            "tag": "DevIcons2-C_LINE",
+            "tag": "c_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/c_line.png"
         },
         {
-            "tag": "DevIcons2-CAKEPHP",
+            "tag": "cakephp",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cakephp.png"
         },
         {
-            "tag": "DevIcons2-CAKEPHP_WORDMARK",
+            "tag": "cakephp_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cakephp_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CEYLON",
+            "tag": "ceylon",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ceylon.png"
         },
         {
-            "tag": "DevIcons2-CHROME",
+            "tag": "chrome",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/chrome.png"
         },
         {
-            "tag": "DevIcons2-CHROME_WORDMARK",
+            "tag": "chrome_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/chrome_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CIRCLECI",
+            "tag": "circleci",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/circleci.png"
         },
         {
-            "tag": "DevIcons2-CIRCLECI_WORDMARK",
+            "tag": "circleci_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/circleci_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CLOJURE_LINE",
+            "tag": "clojure_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/clojure_line.png"
         },
         {
-            "tag": "DevIcons2-CLOJURESCRIPT",
+            "tag": "clojurescript",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/clojurescript.png"
         },
         {
-            "tag": "DevIcons2-CODECOV",
+            "tag": "codecov",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/codecov.png"
         },
         {
-            "tag": "DevIcons2-CODEIGNITER",
+            "tag": "codeigniter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/codeigniter.png"
         },
         {
-            "tag": "DevIcons2-CODEIGNITER_WORDMARK",
+            "tag": "codeigniter_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/codeigniter_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CODEPEN",
+            "tag": "codepen",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/codepen.png"
         },
         {
-            "tag": "DevIcons2-CODEPEN_ORIGINAL_WORDMARK",
+            "tag": "codepen_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/codepen_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-COFFEESCRIPT_ORIGINAL",
+            "tag": "coffeescript_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/coffeescript_original.png"
         },
         {
-            "tag": "DevIcons2-COFFEESCRIPT_ORIGINAL_WORDMARK",
+            "tag": "coffeescript_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/coffeescript_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-COMPOSER_LINE",
+            "tag": "composer_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/composer_line.png"
         },
         {
-            "tag": "DevIcons2-COMPOSER_LINE_WORDMARK",
+            "tag": "composer_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/composer_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CONFLUENCE_ORIGINAL",
+            "tag": "confluence_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/confluence_original.png"
         },
         {
-            "tag": "DevIcons2-CONFLUENCE_ORIGINAL_WORDMARK",
+            "tag": "confluence_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/confluence_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-COUCHDB",
+            "tag": "couchdb",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/couchdb.png"
         },
         {
-            "tag": "DevIcons2-COUCHDB_WORDMARK",
+            "tag": "couchdb_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/couchdb_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CPLUSPLUS",
+            "tag": "cplusplus",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cplusplus.png"
         },
         {
-            "tag": "DevIcons2-CPLUSPLUS_LINE",
+            "tag": "cplusplus_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cplusplus_line.png"
         },
         {
-            "tag": "DevIcons2-CRYSTAL_ORIGINAL",
+            "tag": "crystal_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/crystal_original.png"
         },
         {
-            "tag": "DevIcons2-CRYSTAL_ORIGINAL_WORDMARK",
+            "tag": "crystal_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/crystal_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CSHARP",
+            "tag": "csharp",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/csharp.png"
         },
         {
-            "tag": "DevIcons2-CSHARP_LINE",
+            "tag": "csharp_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/csharp_line.png"
         },
         {
-            "tag": "DevIcons2-CSS3",
+            "tag": "css3",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/css3.png"
         },
         {
-            "tag": "DevIcons2-CSS3_WORDMARK",
+            "tag": "css3_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/css3_wordmark.png"
         },
         {
-            "tag": "DevIcons2-CUCUMBER",
+            "tag": "cucumber",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cucumber.png"
         },
         {
-            "tag": "DevIcons2-CUCUMBER_WORDMARK",
+            "tag": "cucumber_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/cucumber_wordmark.png"
         },
         {
-            "tag": "DevIcons2-D3JS",
+            "tag": "d3js",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/d3js.png"
         },
         {
-            "tag": "DevIcons2-D3JS_ORIGINAL",
+            "tag": "d3js_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/d3js_original.png"
         },
         {
-            "tag": "DevIcons2-DART",
+            "tag": "dart",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/dart.png"
         },
         {
-            "tag": "DevIcons2-DART_WORDMARK",
+            "tag": "dart_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/dart_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DEBIAN",
+            "tag": "debian",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/debian.png"
         },
         {
-            "tag": "DevIcons2-DEBIAN_WORDMARK",
+            "tag": "debian_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/debian_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DEVICON",
+            "tag": "devicon",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/devicon.png"
         },
         {
-            "tag": "DevIcons2-DEVICON_WORDMARK",
+            "tag": "devicon_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/devicon_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DIGITALOCEAN",
+            "tag": "digitalocean",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/digitalocean.png"
         },
         {
-            "tag": "DevIcons2-DIGITALOCEAN_WORDMARK",
+            "tag": "digitalocean_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/digitalocean_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DJANGO",
+            "tag": "django",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/django.png"
         },
         {
-            "tag": "DevIcons2-DJANGO_LINE",
+            "tag": "django_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/django_line.png"
         },
         {
-            "tag": "DevIcons2-DOCKER",
+            "tag": "docker",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/docker.png"
         },
         {
-            "tag": "DevIcons2-DOCKER_WORDMARK",
+            "tag": "docker_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/docker_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DOCTRINE",
+            "tag": "doctrine",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/doctrine.png"
         },
         {
-            "tag": "DevIcons2-DOCTRINE_LINE",
+            "tag": "doctrine_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/doctrine_line.png"
         },
         {
-            "tag": "DevIcons2-DOCTRINE_LINE_WORDMARK",
+            "tag": "doctrine_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/doctrine_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DOCTRINE_WORDMARK",
+            "tag": "doctrine_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/doctrine_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DOT_NET",
+            "tag": "dot_net",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/dot_net.png"
         },
         {
-            "tag": "DevIcons2-DOT_NET_WORDMARK",
+            "tag": "dot_net_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/dot_net_wordmark.png"
         },
         {
-            "tag": "DevIcons2-DOTNETCORE",
+            "tag": "dotnetcore",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/dotnetcore.png"
         },
         {
-            "tag": "DevIcons2-DRUPAL",
+            "tag": "drupal",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/drupal.png"
         },
         {
-            "tag": "DevIcons2-DRUPAL_WORDMARK",
+            "tag": "drupal_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/drupal_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ELECTRON_ORIGINAL",
+            "tag": "electron_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/electron_original.png"
         },
         {
-            "tag": "DevIcons2-ELECTRON_ORIGINAL_WORDMARK",
+            "tag": "electron_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/electron_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ELEVENTY",
+            "tag": "eleventy",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/eleventy.png"
         },
         {
-            "tag": "DevIcons2-ELIXIR",
+            "tag": "elixir",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/elixir.png"
         },
         {
-            "tag": "DevIcons2-ELIXIR_WORDMARK",
+            "tag": "elixir_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/elixir_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ELM",
+            "tag": "elm",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/elm.png"
         },
         {
-            "tag": "DevIcons2-ELM_WORDMARK",
+            "tag": "elm_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/elm_wordmark.png"
         },
         {
-            "tag": "DevIcons2-EMBEDDEDC",
+            "tag": "embeddedc",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/embeddedc.png"
         },
         {
-            "tag": "DevIcons2-EMBEDDEDC_WORDMARK",
+            "tag": "embeddedc_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/embeddedc_wordmark.png"
         },
         {
-            "tag": "DevIcons2-EMBER_ORIGINAL_WORDMARK",
+            "tag": "ember_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ember_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ERLANG",
+            "tag": "erlang",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/erlang.png"
         },
         {
-            "tag": "DevIcons2-ERLANG_WORDMARK",
+            "tag": "erlang_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/erlang_wordmark.png"
         },
         {
-            "tag": "DevIcons2-EXPRESS_ORIGINAL",
+            "tag": "express_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/express_original.png"
         },
         {
-            "tag": "DevIcons2-EXPRESS_ORIGINAL_WORDMARK",
+            "tag": "express_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/express_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-FACEBOOK",
+            "tag": "facebook",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/facebook.png"
         },
         {
-            "tag": "DevIcons2-FIGMA",
+            "tag": "figma",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/figma.png"
         },
         {
-            "tag": "DevIcons2-FIREBASE",
+            "tag": "firebase",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/firebase.png"
         },
         {
-            "tag": "DevIcons2-FIREBASE_WORDMARK",
+            "tag": "firebase_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/firebase_wordmark.png"
         },
         {
-            "tag": "DevIcons2-FIREFOX",
+            "tag": "firefox",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/firefox.png"
         },
         {
-            "tag": "DevIcons2-FIREFOX_WORDMARK",
+            "tag": "firefox_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/firefox_wordmark.png"
         },
         {
-            "tag": "DevIcons2-FLASK_ORIGINAL",
+            "tag": "flask_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/flask_original.png"
         },
         {
-            "tag": "DevIcons2-FLASK_ORIGINAL_WORDMARK",
+            "tag": "flask_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/flask_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-FLUTTER",
+            "tag": "flutter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/flutter.png"
         },
         {
-            "tag": "DevIcons2-FOUNDATION",
+            "tag": "foundation",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/foundation.png"
         },
         {
-            "tag": "DevIcons2-FOUNDATION_WORDMARK",
+            "tag": "foundation_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/foundation_wordmark.png"
         },
         {
-            "tag": "DevIcons2-FSHARP",
+            "tag": "fsharp",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/fsharp.png"
         },
         {
-            "tag": "DevIcons2-GATLING",
+            "tag": "gatling",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gatling.png"
         },
         {
-            "tag": "DevIcons2-GATLING_WORDMARK",
+            "tag": "gatling_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gatling_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GATSBY",
+            "tag": "gatsby",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gatsby.png"
         },
         {
-            "tag": "DevIcons2-GATSBY_WORDMARK",
+            "tag": "gatsby_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gatsby_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GIMP",
+            "tag": "gimp",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gimp.png"
         },
         {
-            "tag": "DevIcons2-GIT",
+            "tag": "git",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/git.png"
         },
         {
-            "tag": "DevIcons2-GIT_WORDMARK",
+            "tag": "git_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/git_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GITHUB_ORIGINAL",
+            "tag": "github_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/github_original.png"
         },
         {
-            "tag": "DevIcons2-GITHUB_ORIGINAL_WORDMARK",
+            "tag": "github_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/github_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GITLAB",
+            "tag": "gitlab",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gitlab.png"
         },
         {
-            "tag": "DevIcons2-GITLAB_WORDMARK",
+            "tag": "gitlab_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gitlab_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GITTER",
+            "tag": "gitter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gitter.png"
         },
         {
-            "tag": "DevIcons2-GITTER_WORDMARK",
+            "tag": "gitter_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gitter_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GO",
+            "tag": "go",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/go.png"
         },
         {
-            "tag": "DevIcons2-GO_LINE",
+            "tag": "go_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/go_line.png"
         },
         {
-            "tag": "DevIcons2-GODOT",
+            "tag": "godot",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/godot.png"
         },
         {
-            "tag": "DevIcons2-GODOT_WORDMARK",
+            "tag": "godot_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/godot_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GOOGLE",
+            "tag": "google",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/google.png"
         },
         {
-            "tag": "DevIcons2-GOOGLE_WORDMARK",
+            "tag": "google_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/google_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GOOGLECLOUD",
+            "tag": "googlecloud",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/googlecloud.png"
         },
         {
-            "tag": "DevIcons2-GOOGLECLOUD_WORDMARK",
+            "tag": "googlecloud_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/googlecloud_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GRADLE",
+            "tag": "gradle",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gradle.png"
         },
         {
-            "tag": "DevIcons2-GRADLE_WORDMARK",
+            "tag": "gradle_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gradle_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GRAILS",
+            "tag": "grails",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/grails.png"
         },
         {
-            "tag": "DevIcons2-GRAPHQL",
+            "tag": "graphql",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/graphql.png"
         },
         {
-            "tag": "DevIcons2-GRAPHQL_WORDMARK",
+            "tag": "graphql_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/graphql_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GROOVY",
+            "tag": "groovy",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/groovy.png"
         },
         {
-            "tag": "DevIcons2-GRUNT",
+            "tag": "grunt",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/grunt.png"
         },
         {
-            "tag": "DevIcons2-GRUNT_LINE",
+            "tag": "grunt_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/grunt_line.png"
         },
         {
-            "tag": "DevIcons2-GRUNT_LINE_WORDMARK",
+            "tag": "grunt_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/grunt_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GRUNT_WORDMARK",
+            "tag": "grunt_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/grunt_wordmark.png"
         },
         {
-            "tag": "DevIcons2-GULP",
+            "tag": "gulp",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/gulp.png"
         },
         {
-            "tag": "DevIcons2-HANDLEBARS",
+            "tag": "handlebars",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/handlebars.png"
         },
         {
-            "tag": "DevIcons2-HANDLEBARS_WORDMARK",
+            "tag": "handlebars_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/handlebars_wordmark.png"
         },
         {
-            "tag": "DevIcons2-HASKELL",
+            "tag": "haskell",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/haskell.png"
         },
         {
-            "tag": "DevIcons2-HASKELL_WORDMARK",
+            "tag": "haskell_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/haskell_wordmark.png"
         },
         {
-            "tag": "DevIcons2-HAXE",
+            "tag": "haxe",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/haxe.png"
         },
         {
-            "tag": "DevIcons2-HEROKU",
+            "tag": "heroku",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/heroku.png"
         },
         {
-            "tag": "DevIcons2-HEROKU_LINE",
+            "tag": "heroku_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/heroku_line.png"
         },
         {
-            "tag": "DevIcons2-HEROKU_LINE_WORDMARK",
+            "tag": "heroku_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/heroku_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-HEROKU_WORDMARK",
+            "tag": "heroku_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/heroku_wordmark.png"
         },
         {
-            "tag": "DevIcons2-HTML5",
+            "tag": "html5",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/html5.png"
         },
         {
-            "tag": "DevIcons2-HTML5_WORDMARK",
+            "tag": "html5_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/html5_wordmark.png"
         },
         {
-            "tag": "DevIcons2-IE10_ORIGINAL",
+            "tag": "ie10_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ie10_original.png"
         },
         {
-            "tag": "DevIcons2-ILLUSTRATOR",
+            "tag": "illustrator",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/illustrator.png"
         },
         {
-            "tag": "DevIcons2-ILLUSTRATOR_LINE",
+            "tag": "illustrator_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/illustrator_line.png"
         },
         {
-            "tag": "DevIcons2-INKSCAPE",
+            "tag": "inkscape",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/inkscape.png"
         },
         {
-            "tag": "DevIcons2-INKSCAPE_WORDMARK",
+            "tag": "inkscape_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/inkscape_wordmark.png"
         },
         {
-            "tag": "DevIcons2-INTELLIJ",
+            "tag": "intellij",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/intellij.png"
         },
         {
-            "tag": "DevIcons2-INTELLIJ_WORDMARK",
+            "tag": "intellij_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/intellij_wordmark.png"
         },
         {
-            "tag": "DevIcons2-IONIC_ORIGINAL",
+            "tag": "ionic_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ionic_original.png"
         },
         {
-            "tag": "DevIcons2-IONIC_ORIGINAL_WORDMARK",
+            "tag": "ionic_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ionic_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JASMINE",
+            "tag": "jasmine",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jasmine.png"
         },
         {
-            "tag": "DevIcons2-JASMINE_WORDMARK",
+            "tag": "jasmine_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jasmine_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JAVA",
+            "tag": "java",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/java.png"
         },
         {
-            "tag": "DevIcons2-JAVA_WORDMARK",
+            "tag": "java_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/java_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JAVASCRIPT",
+            "tag": "javascript",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/javascript.png"
         },
         {
-            "tag": "DevIcons2-JEET",
+            "tag": "jeet",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jeet.png"
         },
         {
-            "tag": "DevIcons2-JEET_WORDMARK",
+            "tag": "jeet_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jeet_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JENKINS",
+            "tag": "jenkins",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jenkins.png"
         },
         {
-            "tag": "DevIcons2-JENKINS_LINE",
+            "tag": "jenkins_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jenkins_line.png"
         },
         {
-            "tag": "DevIcons2-JEST",
+            "tag": "jest",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jest.png"
         },
         {
-            "tag": "DevIcons2-JETBRAINS",
+            "tag": "jetbrains",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jetbrains.png"
         },
         {
-            "tag": "DevIcons2-JQUERY",
+            "tag": "jquery",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jquery.png"
         },
         {
-            "tag": "DevIcons2-JQUERY_WORDMARK",
+            "tag": "jquery_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jquery_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JULIA",
+            "tag": "julia",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/julia.png"
         },
         {
-            "tag": "DevIcons2-JULIA_WORDMARK",
+            "tag": "julia_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/julia_wordmark.png"
         },
         {
-            "tag": "DevIcons2-JUPYTER",
+            "tag": "jupyter",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jupyter.png"
         },
         {
-            "tag": "DevIcons2-JUPYTER_WORDMARK",
+            "tag": "jupyter_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/jupyter_wordmark.png"
         },
         {
-            "tag": "DevIcons2-KARMA",
+            "tag": "karma",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/karma.png"
         },
         {
-            "tag": "DevIcons2-KNOCKOUT_WORDMARK",
+            "tag": "knockout_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/knockout_wordmark.png"
         },
         {
-            "tag": "DevIcons2-KOTLIN",
+            "tag": "kotlin",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/kotlin.png"
         },
         {
-            "tag": "DevIcons2-KOTLIN_WORDMARK",
+            "tag": "kotlin_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/kotlin_wordmark.png"
         },
         {
-            "tag": "DevIcons2-KRAKENJS",
+            "tag": "krakenjs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/krakenjs.png"
         },
         {
-            "tag": "DevIcons2-KRAKENJS_WORDMARK",
+            "tag": "krakenjs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/krakenjs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-KUBERNETES",
+            "tag": "kubernetes",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/kubernetes.png"
         },
         {
-            "tag": "DevIcons2-KUBERNETES_WORDMARK",
+            "tag": "kubernetes_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/kubernetes_wordmark.png"
         },
         {
-            "tag": "DevIcons2-LABVIEW",
+            "tag": "labview",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/labview.png"
         },
         {
-            "tag": "DevIcons2-LABVIEW_WORDMARK",
+            "tag": "labview_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/labview_wordmark.png"
         },
         {
-            "tag": "DevIcons2-LARAVEL",
+            "tag": "laravel",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/laravel.png"
         },
         {
-            "tag": "DevIcons2-LARAVEL_WORDMARK",
+            "tag": "laravel_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/laravel_wordmark.png"
         },
         {
-            "tag": "DevIcons2-LESS_WORDMARK",
+            "tag": "less_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/less_wordmark.png"
         },
         {
-            "tag": "DevIcons2-LINKEDIN",
+            "tag": "linkedin",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/linkedin.png"
         },
         {
-            "tag": "DevIcons2-LINKEDIN_WORDMARK",
+            "tag": "linkedin_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/linkedin_wordmark.png"
         },
         {
-            "tag": "DevIcons2-LINUX",
+            "tag": "linux",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/linux.png"
         },
         {
-            "tag": "DevIcons2-LUA",
+            "tag": "lua",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/lua.png"
         },
         {
-            "tag": "DevIcons2-LUA_WORDMARK",
+            "tag": "lua_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/lua_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MAGENTO_LINE",
+            "tag": "magento_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/magento_line.png"
         },
         {
-            "tag": "DevIcons2-MAGENTO_ORIGINAL",
+            "tag": "magento_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/magento_original.png"
         },
         {
-            "tag": "DevIcons2-MAGENTO_ORIGINAL_WORDMARK",
+            "tag": "magento_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/magento_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MATERIALUI",
+            "tag": "materialui",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/materialui.png"
         },
         {
-            "tag": "DevIcons2-MATLAB",
+            "tag": "matlab",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/matlab.png"
         },
         {
-            "tag": "DevIcons2-MATLAB_LINE",
+            "tag": "matlab_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/matlab_line.png"
         },
         {
-            "tag": "DevIcons2-METEOR",
+            "tag": "meteor",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/meteor.png"
         },
         {
-            "tag": "DevIcons2-METEOR_WORDMARK",
+            "tag": "meteor_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/meteor_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MICROSOFTSQLSERVER",
+            "tag": "microsoftsqlserver",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/microsoftsqlserver.png"
         },
         {
-            "tag": "DevIcons2-MICROSOFTSQLSERVER_WORDMARK",
+            "tag": "microsoftsqlserver_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/microsoftsqlserver_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MINITAB",
+            "tag": "minitab",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/minitab.png"
         },
         {
-            "tag": "DevIcons2-MOCHA",
+            "tag": "mocha",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/mocha.png"
         },
         {
-            "tag": "DevIcons2-MODX",
+            "tag": "modx",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/modx.png"
         },
         {
-            "tag": "DevIcons2-MODX_WORDMARK",
+            "tag": "modx_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/modx_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MONGODB",
+            "tag": "mongodb",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/mongodb.png"
         },
         {
-            "tag": "DevIcons2-MONGODB_WORDMARK",
+            "tag": "mongodb_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/mongodb_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MOODLE",
+            "tag": "moodle",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/moodle.png"
         },
         {
-            "tag": "DevIcons2-MOODLE_WORDMARK",
+            "tag": "moodle_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/moodle_wordmark.png"
         },
         {
-            "tag": "DevIcons2-MYSQL",
+            "tag": "mysql",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/mysql.png"
         },
         {
-            "tag": "DevIcons2-MYSQL_WORDMARK",
+            "tag": "mysql_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/mysql_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NESTJS",
+            "tag": "nestjs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nestjs.png"
         },
         {
-            "tag": "DevIcons2-NESTJS_WORDMARK",
+            "tag": "nestjs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nestjs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NEXTJS_LINE",
+            "tag": "nextjs_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nextjs_line.png"
         },
         {
-            "tag": "DevIcons2-NEXTJS_ORIGINAL",
+            "tag": "nextjs_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nextjs_original.png"
         },
         {
-            "tag": "DevIcons2-NEXTJS_ORIGINAL_WORDMARK",
+            "tag": "nextjs_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nextjs_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NGINX_ORIGINAL",
+            "tag": "nginx_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nginx_original.png"
         },
         {
-            "tag": "DevIcons2-NIXOS",
+            "tag": "nixos",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nixos.png"
         },
         {
-            "tag": "DevIcons2-NIXOS_WORDMARK",
+            "tag": "nixos_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nixos_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NODEJS",
+            "tag": "nodejs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodejs.png"
         },
         {
-            "tag": "DevIcons2-NODEJS_WORDMARK",
+            "tag": "nodejs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodejs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NODEWEBKIT",
+            "tag": "nodewebkit",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodewebkit.png"
         },
         {
-            "tag": "DevIcons2-NODEWEBKIT_LINE",
+            "tag": "nodewebkit_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodewebkit_line.png"
         },
         {
-            "tag": "DevIcons2-NODEWEBKIT_LINE_WORDMARK",
+            "tag": "nodewebkit_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodewebkit_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NODEWEBKIT_WORDMARK",
+            "tag": "nodewebkit_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/nodewebkit_wordmark.png"
         },
         {
-            "tag": "DevIcons2-NPM_ORIGINAL_WORDMARK",
+            "tag": "npm_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/npm_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-OBJECTIVEC",
+            "tag": "objectivec",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/objectivec.png"
         },
         {
-            "tag": "DevIcons2-OCAML",
+            "tag": "ocaml",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ocaml.png"
         },
         {
-            "tag": "DevIcons2-OCAML_WORDMARK",
+            "tag": "ocaml_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ocaml_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ORACLE_ORIGINAL",
+            "tag": "oracle_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/oracle_original.png"
         },
         {
-            "tag": "DevIcons2-PERL",
+            "tag": "perl",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/perl.png"
         },
         {
-            "tag": "DevIcons2-PHALCON",
+            "tag": "phalcon",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/phalcon.png"
         },
         {
-            "tag": "DevIcons2-PHOENIX",
+            "tag": "phoenix",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/phoenix.png"
         },
         {
-            "tag": "DevIcons2-PHOENIX_WORDMARK",
+            "tag": "phoenix_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/phoenix_wordmark.png"
         },
         {
-            "tag": "DevIcons2-PHOTOSHOP",
+            "tag": "photoshop",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/photoshop.png"
         },
         {
-            "tag": "DevIcons2-PHOTOSHOP_LINE",
+            "tag": "photoshop_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/photoshop_line.png"
         },
         {
-            "tag": "DevIcons2-PHP",
+            "tag": "php",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/php.png"
         },
         {
-            "tag": "DevIcons2-PHPSTORM",
+            "tag": "phpstorm",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/phpstorm.png"
         },
         {
-            "tag": "DevIcons2-PHPSTORM_WORDMARK",
+            "tag": "phpstorm_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/phpstorm_wordmark.png"
         },
         {
-            "tag": "DevIcons2-POSTGRESQL",
+            "tag": "postgresql",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/postgresql.png"
         },
         {
-            "tag": "DevIcons2-POSTGRESQL_WORDMARK",
+            "tag": "postgresql_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/postgresql_wordmark.png"
         },
         {
-            "tag": "DevIcons2-PREMIEREPRO",
+            "tag": "premierepro",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/premierepro.png"
         },
         {
-            "tag": "DevIcons2-PROTRACTOR",
+            "tag": "protractor",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/protractor.png"
         },
         {
-            "tag": "DevIcons2-PROTRACTOR_WORDMARK",
+            "tag": "protractor_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/protractor_wordmark.png"
         },
         {
-            "tag": "DevIcons2-PYCHARM",
+            "tag": "pycharm",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/pycharm.png"
         },
         {
-            "tag": "DevIcons2-PYCHARM_WORDMARK",
+            "tag": "pycharm_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/pycharm_wordmark.png"
         },
         {
-            "tag": "DevIcons2-PYTHON",
+            "tag": "python",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/python.png"
         },
         {
-            "tag": "DevIcons2-PYTHON_WORDMARK",
+            "tag": "python_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/python_wordmark.png"
         },
         {
-            "tag": "DevIcons2-R",
+            "tag": "r",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/r.png"
         },
         {
-            "tag": "DevIcons2-R_ORIGINAL",
+            "tag": "r_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/r_original.png"
         },
         {
-            "tag": "DevIcons2-RAILS",
+            "tag": "rails",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rails.png"
         },
         {
-            "tag": "DevIcons2-RAILS_WORDMARK",
+            "tag": "rails_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rails_wordmark.png"
         },
         {
-            "tag": "DevIcons2-RASPBERRYPI_LINE",
+            "tag": "raspberrypi_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/raspberrypi_line.png"
         },
         {
-            "tag": "DevIcons2-RASPBERRYPI_LINE_WORDMARK",
+            "tag": "raspberrypi_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/raspberrypi_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-REACT_ORIGINAL",
+            "tag": "react_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/react_original.png"
         },
         {
-            "tag": "DevIcons2-REACT_ORIGINAL_WORDMARK",
+            "tag": "react_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/react_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-REDHAT",
+            "tag": "redhat",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/redhat.png"
         },
         {
-            "tag": "DevIcons2-REDHAT_WORDMARK",
+            "tag": "redhat_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/redhat_wordmark.png"
         },
         {
-            "tag": "DevIcons2-REDIS",
+            "tag": "redis",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/redis.png"
         },
         {
-            "tag": "DevIcons2-REDIS_WORDMARK",
+            "tag": "redis_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/redis_wordmark.png"
         },
         {
-            "tag": "DevIcons2-REDUX_ORIGINAL",
+            "tag": "redux_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/redux_original.png"
         },
         {
-            "tag": "DevIcons2-ROCKSDB",
+            "tag": "rocksdb",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rocksdb.png"
         },
         {
-            "tag": "DevIcons2-RSTUDIO",
+            "tag": "rstudio",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rstudio.png"
         },
         {
-            "tag": "DevIcons2-RUBY",
+            "tag": "ruby",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ruby.png"
         },
         {
-            "tag": "DevIcons2-RUBY_WORDMARK",
+            "tag": "ruby_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ruby_wordmark.png"
         },
         {
-            "tag": "DevIcons2-RUBYMINE",
+            "tag": "rubymine",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rubymine.png"
         },
         {
-            "tag": "DevIcons2-RUBYMINE_WORDMARK",
+            "tag": "rubymine_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rubymine_wordmark.png"
         },
         {
-            "tag": "DevIcons2-RUST",
+            "tag": "rust",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/rust.png"
         },
         {
-            "tag": "DevIcons2-SAFARI",
+            "tag": "safari",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/safari.png"
         },
         {
-            "tag": "DevIcons2-SAFARI_LINE",
+            "tag": "safari_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/safari_line.png"
         },
         {
-            "tag": "DevIcons2-SAFARI_LINE_WORDMARK",
+            "tag": "safari_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/safari_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SAFARI_WORDMARK",
+            "tag": "safari_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/safari_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SALESFORCE",
+            "tag": "salesforce",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/salesforce.png"
         },
         {
-            "tag": "DevIcons2-SASS_ORIGINAL",
+            "tag": "sass_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sass_original.png"
         },
         {
-            "tag": "DevIcons2-SCALA",
+            "tag": "scala",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/scala.png"
         },
         {
-            "tag": "DevIcons2-SCALA_WORDMARK",
+            "tag": "scala_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/scala_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SEQUELIZE",
+            "tag": "sequelize",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sequelize.png"
         },
         {
-            "tag": "DevIcons2-SEQUELIZE_WORDMARK",
+            "tag": "sequelize_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sequelize_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SHOPWARE_ORIGINAL",
+            "tag": "shopware_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/shopware_original.png"
         },
         {
-            "tag": "DevIcons2-SHOPWARE_ORIGINAL_WORDMARK",
+            "tag": "shopware_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/shopware_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SKETCH_LINE",
+            "tag": "sketch_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sketch_line.png"
         },
         {
-            "tag": "DevIcons2-SKETCH_LINE_WORDMARK",
+            "tag": "sketch_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sketch_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SLACK",
+            "tag": "slack",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/slack.png"
         },
         {
-            "tag": "DevIcons2-SLACK_WORDMARK",
+            "tag": "slack_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/slack_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SOURCETREE_ORIGINAL",
+            "tag": "sourcetree_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sourcetree_original.png"
         },
         {
-            "tag": "DevIcons2-SOURCETREE_ORIGINAL_WORDMARK",
+            "tag": "sourcetree_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sourcetree_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SPRING",
+            "tag": "spring",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/spring.png"
         },
         {
-            "tag": "DevIcons2-SPRING_WORDMARK",
+            "tag": "spring_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/spring_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SPSS",
+            "tag": "spss",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/spss.png"
         },
         {
-            "tag": "DevIcons2-SQLALCHEMY",
+            "tag": "sqlalchemy",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sqlalchemy.png"
         },
         {
-            "tag": "DevIcons2-SQLALCHEMY_ORIGINAL_WORDMARK",
+            "tag": "sqlalchemy_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/sqlalchemy_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SSH_ORIGINAL",
+            "tag": "ssh_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ssh_original.png"
         },
         {
-            "tag": "DevIcons2-SSH_ORIGINAL_WORDMARK",
+            "tag": "ssh_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ssh_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-STYLUS_ORIGINAL",
+            "tag": "stylus_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/stylus_original.png"
         },
         {
-            "tag": "DevIcons2-SWIFT",
+            "tag": "swift",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/swift.png"
         },
         {
-            "tag": "DevIcons2-SWIFT_WORDMARK",
+            "tag": "swift_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/swift_wordmark.png"
         },
         {
-            "tag": "DevIcons2-SYMFONY_ORIGINAL",
+            "tag": "symfony_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/symfony_original.png"
         },
         {
-            "tag": "DevIcons2-SYMFONY_ORIGINAL_WORDMARK",
+            "tag": "symfony_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/symfony_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TAILWINDCSS",
+            "tag": "tailwindcss",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tailwindcss.png"
         },
         {
-            "tag": "DevIcons2-TAILWINDCSS_ORIGINAL_WORDMARK",
+            "tag": "tailwindcss_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tailwindcss_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TENSORFLOW_LINE",
+            "tag": "tensorflow_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tensorflow_line.png"
         },
         {
-            "tag": "DevIcons2-TENSORFLOW_LINE_WORDMARK",
+            "tag": "tensorflow_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tensorflow_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TENSORFLOW_ORIGINAL",
+            "tag": "tensorflow_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tensorflow_original.png"
         },
         {
-            "tag": "DevIcons2-TENSORFLOW_ORIGINAL_WORDMARK",
+            "tag": "tensorflow_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tensorflow_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-THEALGORITHMS",
+            "tag": "thealgorithms",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/thealgorithms.png"
         },
         {
-            "tag": "DevIcons2-THEALGORITHMS_WORDMARK",
+            "tag": "thealgorithms_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/thealgorithms_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TOMCAT_LINE",
+            "tag": "tomcat_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tomcat_line.png"
         },
         {
-            "tag": "DevIcons2-TOMCAT_LINE_WORDMARK",
+            "tag": "tomcat_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/tomcat_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TRAVIS",
+            "tag": "travis",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/travis.png"
         },
         {
-            "tag": "DevIcons2-TRAVIS_WORDMARK",
+            "tag": "travis_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/travis_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TRELLO",
+            "tag": "trello",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/trello.png"
         },
         {
-            "tag": "DevIcons2-TRELLO_WORDMARK",
+            "tag": "trello_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/trello_wordmark.png"
         },
         {
-            "tag": "DevIcons2-TWITTER_ORIGINAL",
+            "tag": "twitter_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/twitter_original.png"
         },
         {
-            "tag": "DevIcons2-TYPESCRIPT",
+            "tag": "typescript",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/typescript.png"
         },
         {
-            "tag": "DevIcons2-TYPO3",
+            "tag": "typo3",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/typo3.png"
         },
         {
-            "tag": "DevIcons2-TYPO3_WORDMARK",
+            "tag": "typo3_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/typo3_wordmark.png"
         },
         {
-            "tag": "DevIcons2-UBUNTU",
+            "tag": "ubuntu",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ubuntu.png"
         },
         {
-            "tag": "DevIcons2-UBUNTU_WORDMARK",
+            "tag": "ubuntu_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/ubuntu_wordmark.png"
         },
         {
-            "tag": "DevIcons2-UNIX_ORIGINAL",
+            "tag": "unix_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/unix_original.png"
         },
         {
-            "tag": "DevIcons2-UWSGI",
+            "tag": "uwsgi",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/uwsgi.png"
         },
         {
-            "tag": "DevIcons2-VAGRANT",
+            "tag": "vagrant",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vagrant.png"
         },
         {
-            "tag": "DevIcons2-VAGRANT_WORDMARK",
+            "tag": "vagrant_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vagrant_wordmark.png"
         },
         {
-            "tag": "DevIcons2-VIM",
+            "tag": "vim",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vim.png"
         },
         {
-            "tag": "DevIcons2-VISUALSTUDIO",
+            "tag": "visualstudio",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/visualstudio.png"
         },
         {
-            "tag": "DevIcons2-VISUALSTUDIO_WORDMARK",
+            "tag": "visualstudio_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/visualstudio_wordmark.png"
         },
         {
-            "tag": "DevIcons2-VSCODE",
+            "tag": "vscode",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vscode.png"
         },
         {
-            "tag": "DevIcons2-VSCODE_WORDMARK",
+            "tag": "vscode_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vscode_wordmark.png"
         },
         {
-            "tag": "DevIcons2-VUEJS",
+            "tag": "vuejs",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vuejs.png"
         },
         {
-            "tag": "DevIcons2-VUEJS_LINE",
+            "tag": "vuejs_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vuejs_line.png"
         },
         {
-            "tag": "DevIcons2-VUEJS_LINE_WORDMARK",
+            "tag": "vuejs_line_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vuejs_line_wordmark.png"
         },
         {
-            "tag": "DevIcons2-VUEJS_WORDMARK",
+            "tag": "vuejs_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vuejs_wordmark.png"
         },
         {
-            "tag": "DevIcons2-VUESTOREFRONT",
+            "tag": "vuestorefront",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/vuestorefront.png"
         },
         {
-            "tag": "DevIcons2-WEBLATE",
+            "tag": "weblate",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/weblate.png"
         },
         {
-            "tag": "DevIcons2-WEBLATE_WORDMARK",
+            "tag": "weblate_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/weblate_wordmark.png"
         },
         {
-            "tag": "DevIcons2-WEBPACK",
+            "tag": "webpack",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/webpack.png"
         },
         {
-            "tag": "DevIcons2-WEBPACK_WORDMARK",
+            "tag": "webpack_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/webpack_wordmark.png"
         },
         {
-            "tag": "DevIcons2-WEBSTORM",
+            "tag": "webstorm",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/webstorm.png"
         },
         {
-            "tag": "DevIcons2-WEBSTORM_WORDMARK",
+            "tag": "webstorm_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/webstorm_wordmark.png"
         },
         {
-            "tag": "DevIcons2-WINDOWS8_ORIGINAL",
+            "tag": "windows8_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/windows8_original.png"
         },
         {
-            "tag": "DevIcons2-WINDOWS8_ORIGINAL_WORDMARK",
+            "tag": "windows8_original_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/windows8_original_wordmark.png"
         },
         {
-            "tag": "DevIcons2-WOOCOMMERCE",
+            "tag": "woocommerce",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/woocommerce.png"
         },
         {
-            "tag": "DevIcons2-WOOCOMMERCE_WORDMARK",
+            "tag": "woocommerce_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/woocommerce_wordmark.png"
         },
         {
-            "tag": "DevIcons2-WORDPRESS",
+            "tag": "wordpress",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/wordpress.png"
         },
         {
-            "tag": "DevIcons2-WORDPRESS_WORDMARK",
+            "tag": "wordpress_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/wordpress_wordmark.png"
         },
         {
-            "tag": "DevIcons2-XD",
+            "tag": "xd",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/xd.png"
         },
         {
-            "tag": "DevIcons2-XD_LINE",
+            "tag": "xd_line",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/xd_line.png"
         },
         {
-            "tag": "DevIcons2-YARN",
+            "tag": "yarn",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/yarn.png"
         },
         {
-            "tag": "DevIcons2-YARN_WORDMARK",
+            "tag": "yarn_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/yarn_wordmark.png"
         },
         {
-            "tag": "DevIcons2-YII",
+            "tag": "yii",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/yii.png"
         },
         {
-            "tag": "DevIcons2-YII_WORDMARK",
+            "tag": "yii_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/yii_wordmark.png"
         },
         {
-            "tag": "DevIcons2-YUNOHOST",
+            "tag": "yunohost",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/yunohost.png"
         },
         {
-            "tag": "DevIcons2-ZEND",
+            "tag": "zend",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/zend.png"
         },
         {
-            "tag": "DevIcons2-ZEND_WORDMARK",
+            "tag": "zend_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/zend_wordmark.png"
         },
         {
-            "tag": "DevIcons2-ZIG_ORIGINAL",
+            "tag": "zig_original",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/zig_original.png"
         },
         {
-            "tag": "DevIcons2-ZIG_WORDMARK",
+            "tag": "zig_wordmark",
             "icon": "https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2/zig_wordmark.png"
         }
     ]
