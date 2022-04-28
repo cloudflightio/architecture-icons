@@ -5,11 +5,16 @@ import java.io.InputStream
 import java.util.*
 
 fun File.appendLine(line: String? = null) {
+    return appendLine(0, line)
+}
+
+fun File.appendLine(indent: Int, line: String? = null) {
     if (line != null) {
-        appendText(line)
+        appendText(" ".repeat(indent) + line)
     }
     appendText(System.lineSeparator())
 }
+
 
 fun String.toConstName(): String {
     val uppercase = camelCaseToLowerCaseWithUnderscore(this).uppercase()

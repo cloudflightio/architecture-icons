@@ -9,4 +9,10 @@ class AzureIconsTest {
     void android() {
         Assertions.assertNotNull(AzureIcons.Analytics.AZURE_ANALYSIS_SERVICES.getPngAsBase64ForHtml());
     }
+
+    @Test
+    void androidMono() {
+        Assertions.assertNotNull(AzureMonoIcons.Analytics.AZURE_ANALYSIS_SERVICES.getPngAsBase64ForHtml());
+    }
+
 }
