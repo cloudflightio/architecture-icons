@@ -78,6 +78,7 @@ tasks.create("copyAwsIcons", org.gradle.api.tasks.Copy::class.java) {
             .replace("_${resolution}_Dark.png", ".png")
             .replace("_${resolution}.png", ".png")
             .replace("-Icons/", "/")
+            .replace("/ ", "/")
     }
 }
 
