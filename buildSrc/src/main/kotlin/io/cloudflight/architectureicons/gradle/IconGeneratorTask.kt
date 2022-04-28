@@ -21,5 +21,11 @@ open class IconGeneratorTask : DefaultTask() {
              fetch(false)
              fetch(true)
          }
+
+        AwsIconCreator().apply {
+            fetch("AwsArchitectureIcons", project.file("aws-icons/Architecture-Service"))
+            fetch("AwsCategoryIcons", project.file("aws-icons/Category"))
+            fetch("AwsResourceIcons", project.file("aws-icons/Resource"))
+        }
     }
 }

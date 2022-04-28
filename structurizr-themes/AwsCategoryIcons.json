@@ -1,0 +1,110 @@
+{
+    "name": "AwsCategoryIcons",
+    "description": "",
+    "elements": [
+        {
+            "tag": "Analytics",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Analytics.png"
+        },
+        {
+            "tag": "Application-Integration",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Application-Integration.png"
+        },
+        {
+            "tag": "AR-VR",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/AR-VR.png"
+        },
+        {
+            "tag": "AWS-Cost-Management",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/AWS-Cost-Management.png"
+        },
+        {
+            "tag": "Blockchain",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Blockchain.png"
+        },
+        {
+            "tag": "Business-Applications",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Business-Applications.png"
+        },
+        {
+            "tag": "Compute",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Compute.png"
+        },
+        {
+            "tag": "Containers",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Containers.png"
+        },
+        {
+            "tag": "Customer-Enablement",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Customer-Enablement.png"
+        },
+        {
+            "tag": "Database",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Database.png"
+        },
+        {
+            "tag": "Developer-Tools",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Developer-Tools.png"
+        },
+        {
+            "tag": "End-User-Computing",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/End-User-Computing.png"
+        },
+        {
+            "tag": "Front-End-Web-Mobile",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Front-End-Web-Mobile.png"
+        },
+        {
+            "tag": "Game-Tech",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Game-Tech.png"
+        },
+        {
+            "tag": "Internet-of-Things",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Internet-of-Things.png"
+        },
+        {
+            "tag": "Machine-Learning",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Machine-Learning.png"
+        },
+        {
+            "tag": "Management-Governance",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Management-Governance.png"
+        },
+        {
+            "tag": "Media-Services",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Media-Services.png"
+        },
+        {
+            "tag": "Migration-Transfer",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Migration-Transfer.png"
+        },
+        {
+            "tag": "Networking-Content-Delivery",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Networking-Content-Delivery.png"
+        },
+        {
+            "tag": "Quantum-Technologies",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Quantum-Technologies.png"
+        },
+        {
+            "tag": "Robotics",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Robotics.png"
+        },
+        {
+            "tag": "Satellite",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Satellite.png"
+        },
+        {
+            "tag": "Security-Identity-Compliance",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Security-Identity-Compliance.png"
+        },
+        {
+            "tag": "Serverless",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Serverless.png"
+        },
+        {
+            "tag": "Storage",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Category/Storage.png"
+        }
+    ]
+}
