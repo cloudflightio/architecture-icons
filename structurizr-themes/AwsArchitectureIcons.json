@@ -1,0 +1,1178 @@
+{
+    "name": "AwsArchitectureIcons",
+    "description": "",
+    "elements": [
+        {
+            "tag": "Amazon-Athena (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Athena.png"
+        },
+        {
+            "tag": "Amazon-CloudSearch (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-CloudSearch.png"
+        },
+        {
+            "tag": "Amazon-EMR (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-EMR.png"
+        },
+        {
+            "tag": "Amazon-FinSpace (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-FinSpace.png"
+        },
+        {
+            "tag": "Amazon-Kinesis-Data-Analytics (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Kinesis-Data-Analytics.png"
+        },
+        {
+            "tag": "Amazon-Kinesis-Data-Streams (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Kinesis-Data-Streams.png"
+        },
+        {
+            "tag": "Amazon-Kinesis-Firehose (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Kinesis-Firehose.png"
+        },
+        {
+            "tag": "Amazon-Kinesis-Video-Streams (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Kinesis-Video-Streams.png"
+        },
+        {
+            "tag": "Amazon-Kinesis (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Kinesis.png"
+        },
+        {
+            "tag": "Amazon-Managed-Streaming-for-Apache-Kafka (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Managed-Streaming-for-Apache-Kafka.png"
+        },
+        {
+            "tag": "Amazon-OpenSearch-Service (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-OpenSearch-Service.png"
+        },
+        {
+            "tag": "Amazon-QuickSight (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-QuickSight.png"
+        },
+        {
+            "tag": "Amazon-Redshift (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/Amazon-Redshift.png"
+        },
+        {
+            "tag": "AWS-Data-Exchange (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Data-Exchange.png"
+        },
+        {
+            "tag": "AWS-Data-Pipeline (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Data-Pipeline.png"
+        },
+        {
+            "tag": "AWS-Glue-DataBrew (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Glue-DataBrew.png"
+        },
+        {
+            "tag": "AWS-Glue-Elastic-Views (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Glue-Elastic-Views.png"
+        },
+        {
+            "tag": "AWS-Glue (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Glue.png"
+        },
+        {
+            "tag": "AWS-Lake-Formation (Analytics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Analytics/AWS-Lake-Formation.png"
+        },
+        {
+            "tag": "Amazon-API-Gateway (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-API-Gateway.png"
+        },
+        {
+            "tag": "Amazon-AppFlow (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-AppFlow.png"
+        },
+        {
+            "tag": "Amazon-EventBridge (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-EventBridge.png"
+        },
+        {
+            "tag": "Amazon-Managed-Workflows-for-Apache-Airflow (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-Managed-Workflows-for-Apache-Airflow.png"
+        },
+        {
+            "tag": "Amazon-MQ (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-MQ.png"
+        },
+        {
+            "tag": "Amazon-Simple-Notification-Service (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-Simple-Notification-Service.png"
+        },
+        {
+            "tag": "Amazon-Simple-Queue-Service (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/Amazon-Simple-Queue-Service.png"
+        },
+        {
+            "tag": "AWS-AppSync (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/AWS-AppSync.png"
+        },
+        {
+            "tag": "AWS-Console-Mobile-Application  (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/AWS-Console-Mobile-Application .png"
+        },
+        {
+            "tag": "AWS-Express-Workflows (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/AWS-Express-Workflows.png"
+        },
+        {
+            "tag": "AWS-Step-Functions (App_Integration)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/App-Integration/AWS-Step-Functions.png"
+        },
+        {
+            "tag": "AWS-Application-Cost-Profiler (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/AWS-Application-Cost-Profiler.png"
+        },
+        {
+            "tag": "AWS-Budgets (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/AWS-Budgets.png"
+        },
+        {
+            "tag": "AWS-Cost-and-Usage-Report (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/AWS-Cost-and-Usage-Report.png"
+        },
+        {
+            "tag": "AWS-Cost-Explorer (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/AWS-Cost-Explorer.png"
+        },
+        {
+            "tag": "Reserved-Instance-Reporting (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/Reserved-Instance-Reporting.png"
+        },
+        {
+            "tag": "Savings-Plans (AWS_Cost_Management)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/AWS-Cost-Management/Savings-Plans.png"
+        },
+        {
+            "tag": "Amazon-Managed-Blockchain (Blockchain)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Blockchain/Amazon-Managed-Blockchain.png"
+        },
+        {
+            "tag": "Amazon-Quantum-Ledger-Database (Blockchain)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Blockchain/Amazon-Quantum-Ledger-Database.png"
+        },
+        {
+            "tag": "Alexa-For-Business (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Alexa-For-Business.png"
+        },
+        {
+            "tag": "Amazon-Chime-SDK (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Chime-SDK.png"
+        },
+        {
+            "tag": "Amazon-Chime-Voice-Connector (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Chime-Voice-Connector.png"
+        },
+        {
+            "tag": "Amazon-Chime (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Chime.png"
+        },
+        {
+            "tag": "Amazon-Connect (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Connect.png"
+        },
+        {
+            "tag": "Amazon-Honeycode (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Honeycode.png"
+        },
+        {
+            "tag": "Amazon-Pinpoint-APIs (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Pinpoint-APIs.png"
+        },
+        {
+            "tag": "Amazon-Pinpoint (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Pinpoint.png"
+        },
+        {
+            "tag": "Amazon-Simple-Email-Service (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-Simple-Email-Service.png"
+        },
+        {
+            "tag": "Amazon-WorkDocs-SDK (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-WorkDocs-SDK.png"
+        },
+        {
+            "tag": "Amazon-WorkDocs (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-WorkDocs.png"
+        },
+        {
+            "tag": "Amazon-WorkMail (Business_Applications)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Business-Applications/Amazon-WorkMail.png"
+        },
+        {
+            "tag": "Amazon-EC2-Auto-Scaling (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-EC2-Auto-Scaling.png"
+        },
+        {
+            "tag": "Amazon-EC2-Image-Builder (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-EC2-Image-Builder.png"
+        },
+        {
+            "tag": "Amazon-EC2-M5n (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-EC2-M5n.png"
+        },
+        {
+            "tag": "Amazon-EC2-R5n (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-EC2-R5n.png"
+        },
+        {
+            "tag": "Amazon-EC2 (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-EC2.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Container-Kubernetes (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-Elastic-Container-Kubernetes.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Container-Registry (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-Elastic-Container-Registry.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Container-Service (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-Elastic-Container-Service.png"
+        },
+        {
+            "tag": "Amazon-Genomics-CLI (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-Genomics-CLI.png"
+        },
+        {
+            "tag": "Amazon-Lightsail (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Amazon-Lightsail.png"
+        },
+        {
+            "tag": "AWS-App-Runner (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-App-Runner.png"
+        },
+        {
+            "tag": "AWS-Batch (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Batch.png"
+        },
+        {
+            "tag": "AWS-Compute-Optimizer (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Compute-Optimizer.png"
+        },
+        {
+            "tag": "AWS-Elastic-Beanstalk (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Elastic-Beanstalk.png"
+        },
+        {
+            "tag": "AWS-Fargate (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Fargate.png"
+        },
+        {
+            "tag": "AWS-Lambda (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Lambda.png"
+        },
+        {
+            "tag": "AWS-Local-Zones (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Local-Zones.png"
+        },
+        {
+            "tag": "AWS-Nitro-Enclaves (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Nitro-Enclaves.png"
+        },
+        {
+            "tag": "AWS-Outposts-family (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Outposts-family.png"
+        },
+        {
+            "tag": "AWS-Outposts-rack (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Outposts-rack.png"
+        },
+        {
+            "tag": "AWS-Outposts-servers (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Outposts-servers.png"
+        },
+        {
+            "tag": "AWS-ParallelCluster (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ParallelCluster.png"
+        },
+        {
+            "tag": "AWS-Serverless-Application-Repository (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Serverless-Application-Repository.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-Deadline (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-Deadline.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-Frost (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-Frost.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-Krakatoa (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-Krakatoa.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-Sequoia (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-Sequoia.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-Stoke (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-Stoke.png"
+        },
+        {
+            "tag": "AWS-ThinkBox-XMesh (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-ThinkBox-XMesh.png"
+        },
+        {
+            "tag": "AWS-Wavelength (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/AWS-Wavelength.png"
+        },
+        {
+            "tag": "Bottlerocket (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Bottlerocket.png"
+        },
+        {
+            "tag": "Elastic-Fabric-Adapter (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/Elastic-Fabric-Adapter.png"
+        },
+        {
+            "tag": "NICE-DCV (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/NICE-DCV.png"
+        },
+        {
+            "tag": "NICE-EnginFrame (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/NICE-EnginFrame.png"
+        },
+        {
+            "tag": "VMware-Cloud-on-AWS (Compute)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Compute/VMware-Cloud-on-AWS.png"
+        },
+        {
+            "tag": "Amazon-EKS-Anywhere (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-EKS-Anywhere.png"
+        },
+        {
+            "tag": "Amazon-EKS-Cloud (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-EKS-Cloud.png"
+        },
+        {
+            "tag": "Amazon-EKS-Distro (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-EKS-Distro.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Container-Registry (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-Elastic-Container-Registry.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Container-Service (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-Elastic-Container-Service.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Kubernetes-Service (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Amazon-Elastic-Kubernetes-Service.png"
+        },
+        {
+            "tag": "AWS-Fargate (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/AWS-Fargate.png"
+        },
+        {
+            "tag": "Red-Hat-OpenShift (Containers)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Containers/Red-Hat-OpenShift.png"
+        },
+        {
+            "tag": "AWS-Activate (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-Activate.png"
+        },
+        {
+            "tag": "AWS-IQ (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-IQ.png"
+        },
+        {
+            "tag": "AWS-Managed-Services (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-Managed-Services.png"
+        },
+        {
+            "tag": "AWS-Professional-Services (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-Professional-Services.png"
+        },
+        {
+            "tag": "AWS-rePost (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-rePost.png"
+        },
+        {
+            "tag": "AWS-Support (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-Support.png"
+        },
+        {
+            "tag": "AWS-Training-Certification (Customer_Enablement)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Customer-Enablement/AWS-Training-Certification.png"
+        },
+        {
+            "tag": "Amazon-Aurora (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-Aurora.png"
+        },
+        {
+            "tag": "Amazon-DocumentDB (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-DocumentDB.png"
+        },
+        {
+            "tag": "Amazon-DynamoDB (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-DynamoDB.png"
+        },
+        {
+            "tag": "Amazon-ElastiCache (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-ElastiCache.png"
+        },
+        {
+            "tag": "Amazon-Keyspaces (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-Keyspaces.png"
+        },
+        {
+            "tag": "Amazon-MemoryDB-for-Redis (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-MemoryDB-for-Redis.png"
+        },
+        {
+            "tag": "Amazon-Neptune (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-Neptune.png"
+        },
+        {
+            "tag": "Amazon-Quantum-Ledger-Database (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-Quantum-Ledger-Database.png"
+        },
+        {
+            "tag": "Amazon-RDS-on-VMware (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-RDS-on-VMware.png"
+        },
+        {
+            "tag": "Amazon-RDS (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-RDS.png"
+        },
+        {
+            "tag": "Amazon-Timestream (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/Amazon-Timestream.png"
+        },
+        {
+            "tag": "AWS-Database-Migration-Service (Database)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Database/AWS-Database-Migration-Service.png"
+        },
+        {
+            "tag": "Amazon-Corretto (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/Amazon-Corretto.png"
+        },
+        {
+            "tag": "AWS-Cloud-Control-API (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-Cloud-Control-API.png"
+        },
+        {
+            "tag": "AWS-Cloud-Development-Kit (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-Cloud-Development-Kit.png"
+        },
+        {
+            "tag": "AWS-Cloud9 (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-Cloud9.png"
+        },
+        {
+            "tag": "AWS-CloudShell (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CloudShell.png"
+        },
+        {
+            "tag": "AWS-CodeArtifact (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodeArtifact.png"
+        },
+        {
+            "tag": "AWS-CodeBuild (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodeBuild.png"
+        },
+        {
+            "tag": "AWS-CodeCommit (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodeCommit.png"
+        },
+        {
+            "tag": "AWS-CodeDeploy (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodeDeploy.png"
+        },
+        {
+            "tag": "AWS-CodePipeline (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodePipeline.png"
+        },
+        {
+            "tag": "AWS-CodeStar (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-CodeStar.png"
+        },
+        {
+            "tag": "AWS-Command-Line-Interface (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-Command-Line-Interface.png"
+        },
+        {
+            "tag": "AWS-Tools-and-SDKs (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-Tools-and-SDKs.png"
+        },
+        {
+            "tag": "AWS-X-Ray (Developer_Tools)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Developer-Tools/AWS-X-Ray.png"
+        },
+        {
+            "tag": "Amazon-AppStream (End_User_Computing)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/End-User-Computing/Amazon-AppStream.png"
+        },
+        {
+            "tag": "Amazon-WorkLink (End_User_Computing)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/End-User-Computing/Amazon-WorkLink.png"
+        },
+        {
+            "tag": "Amazon-WorkSpaces (End_User_Computing)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/End-User-Computing/Amazon-WorkSpaces.png"
+        },
+        {
+            "tag": "Amazon-Location-Service (Front_End_Web_Mobile)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Front-End-Web-Mobile/Amazon-Location-Service.png"
+        },
+        {
+            "tag": "AWS-Amplify (Front_End_Web_Mobile)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Front-End-Web-Mobile/AWS-Amplify.png"
+        },
+        {
+            "tag": "AWS-Device-Farm (Front_End_Web_Mobile)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Front-End-Web-Mobile/AWS-Device-Farm.png"
+        },
+        {
+            "tag": "Amazon-GameLift (Game_Tech)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Game-Tech/Amazon-GameLift.png"
+        },
+        {
+            "tag": "Open-3D-Engine (Game_Tech)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Game-Tech/Open-3D-Engine.png"
+        },
+        {
+            "tag": "AWS-Marketplace_Dark (General)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/General/AWS-Marketplace_Dark.png"
+        },
+        {
+            "tag": "AWS-Marketplace_Light (General)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/General/AWS-Marketplace_Light.png"
+        },
+        {
+            "tag": "AWS-IoT-1-Click (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-1-Click.png"
+        },
+        {
+            "tag": "AWS-IoT-Analytics (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Analytics.png"
+        },
+        {
+            "tag": "AWS-IoT-Button (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Button.png"
+        },
+        {
+            "tag": "AWS-IoT-Core (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Core.png"
+        },
+        {
+            "tag": "AWS-IoT-Device-Defender (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Device-Defender.png"
+        },
+        {
+            "tag": "AWS-IoT-Device-Management (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Device-Management.png"
+        },
+        {
+            "tag": "AWS-IoT-Events (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Events.png"
+        },
+        {
+            "tag": "AWS-IoT-ExpressLink (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-ExpressLink.png"
+        },
+        {
+            "tag": "AWS-IoT-FleetWise (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-FleetWise.png"
+        },
+        {
+            "tag": "AWS-IoT-Greengrass (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Greengrass.png"
+        },
+        {
+            "tag": "AWS-IoT-RoboRunner (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-RoboRunner.png"
+        },
+        {
+            "tag": "AWS-IoT-SiteWise (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-SiteWise.png"
+        },
+        {
+            "tag": "AWS-IoT-Things-Graph (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-Things-Graph.png"
+        },
+        {
+            "tag": "AWS-IoT-TwinMaker (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/AWS-IoT-TwinMaker.png"
+        },
+        {
+            "tag": "FreeRTOS (Internet_of_Things)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Internet-of-Things/FreeRTOS.png"
+        },
+        {
+            "tag": "Amazon-Augmented-AI-A2I (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Augmented-AI-A2I.png"
+        },
+        {
+            "tag": "Amazon-CodeGuru (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-CodeGuru.png"
+        },
+        {
+            "tag": "Amazon-Comprehend (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Comprehend.png"
+        },
+        {
+            "tag": "Amazon-DevOps-Guru (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-DevOps-Guru.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Inference (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Elastic-Inference.png"
+        },
+        {
+            "tag": "Amazon-Forecast (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Forecast.png"
+        },
+        {
+            "tag": "Amazon-Fraud-Detector (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Fraud-Detector.png"
+        },
+        {
+            "tag": "Amazon-HealthLake (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-HealthLake.png"
+        },
+        {
+            "tag": "Amazon-Kendra (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Kendra.png"
+        },
+        {
+            "tag": "Amazon-Lex (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Lex.png"
+        },
+        {
+            "tag": "Amazon-Lookout-for-Equipment (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Lookout-for-Equipment.png"
+        },
+        {
+            "tag": "Amazon-Lookout-for-Metrics (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Lookout-for-Metrics.png"
+        },
+        {
+            "tag": "Amazon-Lookout-for-Vision (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Lookout-for-Vision.png"
+        },
+        {
+            "tag": "Amazon-Monitron (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Monitron.png"
+        },
+        {
+            "tag": "Amazon-Personalize (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Personalize.png"
+        },
+        {
+            "tag": "Amazon-Polly (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Polly.png"
+        },
+        {
+            "tag": "Amazon-Rekognition (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Rekognition.png"
+        },
+        {
+            "tag": "Amazon-SageMaker-Ground-Truth (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-SageMaker-Ground-Truth.png"
+        },
+        {
+            "tag": "Amazon-SageMaker-Studio-Lab (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-SageMaker-Studio-Lab.png"
+        },
+        {
+            "tag": "Amazon-SageMaker (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-SageMaker.png"
+        },
+        {
+            "tag": "Amazon-Textract (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Textract.png"
+        },
+        {
+            "tag": "Amazon-Transcribe (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Transcribe.png"
+        },
+        {
+            "tag": "Amazon-Translate (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Amazon-Translate.png"
+        },
+        {
+            "tag": "Apache-MXNet-on-AWS (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/Apache-MXNet-on-AWS.png"
+        },
+        {
+            "tag": "AWS-Deep-Learning-AMIs (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-Deep-Learning-AMIs.png"
+        },
+        {
+            "tag": "AWS-Deep-Learning-Containers (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-Deep-Learning-Containers.png"
+        },
+        {
+            "tag": "AWS-DeepComposer (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-DeepComposer.png"
+        },
+        {
+            "tag": "AWS-DeepLens (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-DeepLens.png"
+        },
+        {
+            "tag": "AWS-DeepRacer (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-DeepRacer.png"
+        },
+        {
+            "tag": "AWS-Neuron (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-Neuron.png"
+        },
+        {
+            "tag": "AWS-Panorama (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/AWS-Panorama.png"
+        },
+        {
+            "tag": "TensorFlow-on-AWS (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/TensorFlow-on-AWS.png"
+        },
+        {
+            "tag": "TorchServe (Machine_Learning)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Machine-Learning/TorchServe.png"
+        },
+        {
+            "tag": "Amazon-CloudWatch (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/Amazon-CloudWatch.png"
+        },
+        {
+            "tag": "Amazon-Managed-Service-for-Grafana (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/Amazon-Managed-Service-for-Grafana.png"
+        },
+        {
+            "tag": "Amazon-Managed-Service-for-Prometheus (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/Amazon-Managed-Service-for-Prometheus.png"
+        },
+        {
+            "tag": "AWS-AppConfig (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-AppConfig.png"
+        },
+        {
+            "tag": "AWS-Application-Auto-Scaling (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Application-Auto-Scaling.png"
+        },
+        {
+            "tag": "AWS-Auto-Scaling (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Auto-Scaling.png"
+        },
+        {
+            "tag": "AWS-Backint-Agent (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Backint-Agent.png"
+        },
+        {
+            "tag": "AWS-Chatbot (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Chatbot.png"
+        },
+        {
+            "tag": "AWS-CloudFormation (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-CloudFormation.png"
+        },
+        {
+            "tag": "AWS-CloudTrail (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-CloudTrail.png"
+        },
+        {
+            "tag": "AWS-Config (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Config.png"
+        },
+        {
+            "tag": "AWS-Control-Tower (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Control-Tower.png"
+        },
+        {
+            "tag": "AWS-Distro-for-OpenTelemetry (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Distro-for-OpenTelemetry.png"
+        },
+        {
+            "tag": "AWS-Fault-Injection-Simulator (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Fault-Injection-Simulator.png"
+        },
+        {
+            "tag": "AWS-Launch-Wizard (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Launch-Wizard.png"
+        },
+        {
+            "tag": "AWS-License-Manager (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-License-Manager.png"
+        },
+        {
+            "tag": "AWS-Management-Console (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Management-Console.png"
+        },
+        {
+            "tag": "AWS-OpsWorks (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-OpsWorks.png"
+        },
+        {
+            "tag": "AWS-Organizations (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Organizations.png"
+        },
+        {
+            "tag": "AWS-Personal-Health-Dashboard (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Personal-Health-Dashboard.png"
+        },
+        {
+            "tag": "AWS-Proton (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Proton.png"
+        },
+        {
+            "tag": "AWS-Resilience-Hub (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Resilience-Hub.png"
+        },
+        {
+            "tag": "AWS-Service-Catalog (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Service-Catalog.png"
+        },
+        {
+            "tag": "AWS-Systems-Manager-Incident-Manager (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Systems-Manager-Incident-Manager.png"
+        },
+        {
+            "tag": "AWS-Systems-Manager (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Systems-Manager.png"
+        },
+        {
+            "tag": "AWS-Trusted-Advisor (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Trusted-Advisor.png"
+        },
+        {
+            "tag": "AWS-Well-Architected-Tool (Management_Governance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Management-Governance/AWS-Well-Architected-Tool.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Transcoder (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/Amazon-Elastic-Transcoder.png"
+        },
+        {
+            "tag": "Amazon-Interactive-Video-Service (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/Amazon-Interactive-Video-Service.png"
+        },
+        {
+            "tag": "Amazon-Kinesis-Video-Streams (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/Amazon-Kinesis-Video-Streams.png"
+        },
+        {
+            "tag": "Amazon-Nimble-Studio (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/Amazon-Nimble-Studio.png"
+        },
+        {
+            "tag": "AWS-Elemental-Appliances-&-Software (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Appliances-&-Software.png"
+        },
+        {
+            "tag": "AWS-Elemental-Conductor (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Conductor.png"
+        },
+        {
+            "tag": "AWS-Elemental-Delta (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Delta.png"
+        },
+        {
+            "tag": "AWS-Elemental-Link (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Link.png"
+        },
+        {
+            "tag": "AWS-Elemental-Live (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Live.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaConnect (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaConnect.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaConvert (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaConvert.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaLive (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaLive.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaPackage (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaPackage.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaStore (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaStore.png"
+        },
+        {
+            "tag": "AWS-Elemental-MediaTailor (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-MediaTailor.png"
+        },
+        {
+            "tag": "AWS-Elemental-Server (Media_Services)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Media-Services/AWS-Elemental-Server.png"
+        },
+        {
+            "tag": "AWS-Application-Discovery-Service (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Application-Discovery-Service.png"
+        },
+        {
+            "tag": "AWS-Application-Migration-Service (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Application-Migration-Service.png"
+        },
+        {
+            "tag": "AWS-DataSync (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-DataSync.png"
+        },
+        {
+            "tag": "AWS-Mainframe-Modernization (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Mainframe-Modernization.png"
+        },
+        {
+            "tag": "AWS-Migration-Evaluator (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Migration-Evaluator.png"
+        },
+        {
+            "tag": "AWS-Migration-Hub (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Migration-Hub.png"
+        },
+        {
+            "tag": "AWS-Server-Migration-Service (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Server-Migration-Service.png"
+        },
+        {
+            "tag": "AWS-Transfer-Family (Migration_Transfer)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Migration-Transfer/AWS-Transfer-Family.png"
+        },
+        {
+            "tag": "Amazon-Cloud-Directory (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/Amazon-Cloud-Directory.png"
+        },
+        {
+            "tag": "Amazon-CloudFront (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/Amazon-CloudFront.png"
+        },
+        {
+            "tag": "Amazon-Route-53 (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/Amazon-Route-53.png"
+        },
+        {
+            "tag": "Amazon-Virtual-Private-Cloud (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/Amazon-Virtual-Private-Cloud.png"
+        },
+        {
+            "tag": "AWS-App-Mesh (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-App-Mesh.png"
+        },
+        {
+            "tag": "AWS-Client-VPN (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Client-VPN.png"
+        },
+        {
+            "tag": "AWS-Cloud-Map (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Cloud-Map.png"
+        },
+        {
+            "tag": "AWS-Cloud-WAN (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Cloud-WAN.png"
+        },
+        {
+            "tag": "AWS-Direct-Connect (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Direct-Connect.png"
+        },
+        {
+            "tag": "AWS-Global-Accelerator (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Global-Accelerator.png"
+        },
+        {
+            "tag": "AWS-Private-5G (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Private-5G.png"
+        },
+        {
+            "tag": "AWS-PrivateLink (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-PrivateLink.png"
+        },
+        {
+            "tag": "AWS-Site-to-Site-VPN (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Site-to-Site-VPN.png"
+        },
+        {
+            "tag": "AWS-Transit-Gateway (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/AWS-Transit-Gateway.png"
+        },
+        {
+            "tag": "Elastic-Load-Balancing (Networking_Content_Delivery)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Networking-Content-Delivery/Elastic-Load-Balancing.png"
+        },
+        {
+            "tag": "Amazon-Braket (Quantum_Technologies)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Quantum_Technologies/Amazon-Braket.png"
+        },
+        {
+            "tag": "AWS-RoboMaker (Robotics)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Robotics/AWS-RoboMaker.png"
+        },
+        {
+            "tag": "AWS-Ground-Station (Satellite)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Satellite/AWS-Ground-Station.png"
+        },
+        {
+            "tag": "Amazon-Cloud-Directory (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-Cloud-Directory.png"
+        },
+        {
+            "tag": "Amazon-Cognito (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-Cognito.png"
+        },
+        {
+            "tag": "Amazon-Detective (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-Detective.png"
+        },
+        {
+            "tag": "Amazon-GuardDuty (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-GuardDuty.png"
+        },
+        {
+            "tag": "Amazon-Inspector (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-Inspector.png"
+        },
+        {
+            "tag": "Amazon-Macie (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/Amazon-Macie.png"
+        },
+        {
+            "tag": "AWS-Artifact (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Artifact.png"
+        },
+        {
+            "tag": "AWS-Audit-Manager (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Audit-Manager.png"
+        },
+        {
+            "tag": "AWS-Certificate-Manager (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Certificate-Manager.png"
+        },
+        {
+            "tag": "AWS-CloudHSM (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-CloudHSM.png"
+        },
+        {
+            "tag": "AWS-Directory-Service (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Directory-Service.png"
+        },
+        {
+            "tag": "AWS-Firewall-Manager (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Firewall-Manager.png"
+        },
+        {
+            "tag": "AWS-Identity-and-Access-Management (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Identity-and-Access-Management.png"
+        },
+        {
+            "tag": "AWS-Key-Management-Service (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Key-Management-Service.png"
+        },
+        {
+            "tag": "AWS-Network-Firewall (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Network-Firewall.png"
+        },
+        {
+            "tag": "AWS-Resource-Access-Manager (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Resource-Access-Manager.png"
+        },
+        {
+            "tag": "AWS-Secrets-Manager (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Secrets-Manager.png"
+        },
+        {
+            "tag": "AWS-Security-Hub (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Security-Hub.png"
+        },
+        {
+            "tag": "AWS-Shield (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Shield.png"
+        },
+        {
+            "tag": "AWS-Signer (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Signer.png"
+        },
+        {
+            "tag": "AWS-Single-Sign-On (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-Single-Sign-On.png"
+        },
+        {
+            "tag": "AWS-WAF (Security_Identity_Compliance)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Security-Identity-Compliance/AWS-WAF.png"
+        },
+        {
+            "tag": "Amazon-EFS (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-EFS.png"
+        },
+        {
+            "tag": "Amazon-Elastic-Block-Store (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-Elastic-Block-Store.png"
+        },
+        {
+            "tag": "Amazon-FSx-for-Lustre (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-FSx-for-Lustre.png"
+        },
+        {
+            "tag": "Amazon-FSx-for-NetApp-ONTAP (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-FSx-for-NetApp-ONTAP.png"
+        },
+        {
+            "tag": "Amazon-FSx-for-OpenZFS (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-FSx-for-OpenZFS.png"
+        },
+        {
+            "tag": "Amazon-FSx-for-WFS (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-FSx-for-WFS.png"
+        },
+        {
+            "tag": "Amazon-FSx (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-FSx.png"
+        },
+        {
+            "tag": "Amazon-S3-on-Outposts (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-S3-on-Outposts.png"
+        },
+        {
+            "tag": "Amazon-Simple-Storage-Service-Glacier (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-Simple-Storage-Service-Glacier.png"
+        },
+        {
+            "tag": "Amazon-Simple-Storage-Service (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/Amazon-Simple-Storage-Service.png"
+        },
+        {
+            "tag": "AWS-Backup (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Backup.png"
+        },
+        {
+            "tag": "AWS-Snowball-Edge (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Snowball-Edge.png"
+        },
+        {
+            "tag": "AWS-Snowball (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Snowball.png"
+        },
+        {
+            "tag": "AWS-Snowcone (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Snowcone.png"
+        },
+        {
+            "tag": "AWS-Snowmobile (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Snowmobile.png"
+        },
+        {
+            "tag": "AWS-Storage-Gateway (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/AWS-Storage-Gateway.png"
+        },
+        {
+            "tag": "CloudEndure-Disaster-Recovery (Storage)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/Storage/CloudEndure-Disaster-Recovery.png"
+        },
+        {
+            "tag": "Amazon-Sumerian (VR_AR)",
+            "icon": "https://raw.githubusercontent.com/cloudflightio/architecture-icons/master/aws-icons/Architecture-Service/VR-AR/Amazon-Sumerian.png"
+        }
+    ]
+}

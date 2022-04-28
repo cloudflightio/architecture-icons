@@ -7,17 +7,18 @@ This module repackages various icons as a JAR for usage in architecture diagrams
 For each icon you can can get the Base64 representation of the PNG, and optionally an HTTP link to the PNG as well as includes for PlantUML sprites.
 
 
-| Icon Source                                                                          | Class                                                                                                                                                                                                                                                                                                                                                                                                                            | Icon Set                                                   |
-|--------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
-| [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)                  | `io.cloudflight.architectureicons.azure.AzureIcons`   | https://docs.microsoft.com/en-us/azure/architecture/icons/ |
-| [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)                  | `io.cloudflight.architectureicons.azure.AzureMonoIcons`  | https://docs.microsoft.com/en-us/azure/architecture/icons/ |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.DevIcons` | https://github.com/devicons/devicon.git                    |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.DevIcons2` | https://github.com/devicons/devicon.git                    |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.FontAwesome4` | https://fontawesome.com/v4.7.0/                            |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.FontAwesome5` | https://fontawesome.io/                                    |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.GovIcons` | http://govicons.io/                                        |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.Material` | http://google.github.io/material-design-icons/             |
-| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.Weather` | https://erikflowers.github.io/weather-icons/               |
+| Icon Source                                                                          | Class                                                       | Icon Set                                                   |
+|--------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+| [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)                  | `io.cloudflight.architectureicons.azure.AzureIcons`         | https://docs.microsoft.com/en-us/azure/architecture/icons/ |
+| [Azure-PlantUML](https://github.com/plantuml-stdlib/Azure-PlantUML)                  | `io.cloudflight.architectureicons.azure.AzureMonoIcons`     | https://docs.microsoft.com/en-us/azure/architecture/icons/ |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.DevIcons`         | https://github.com/devicons/devicon.git                    |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.DevIcons2`        | https://github.com/devicons/devicon.git                    |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.FontAwesome4`     | https://fontawesome.com/v4.7.0/                            |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.FontAwesome5`     | https://fontawesome.io/                                    |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.GovIcons`         | http://govicons.io/                                        |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.Material`         | http://google.github.io/material-design-icons/             |
+| [PlantUML Icon-Font Sprites](https://github.com/tupadr3/plantuml-icon-font-sprites/) | `io.cloudflight.architectureicons.tupadr3.Weather`          | https://erikflowers.github.io/weather-icons/               |
+| [AWS Icons](https://aws.amazon.com/de/architecture/icons/)                  | `io.cloudflight.architectureicons.aws.AwsArchitectureIcons` | https://aws.amazon.com/de/architecture/icons/               |
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/cloudflightio/architecture-icons/blob/master/LICENSE) file for details.
