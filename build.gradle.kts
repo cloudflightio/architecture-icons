@@ -1,22 +1,9 @@
-import io.cloudflight.gradle.autoconfigure.java.JavaConfigurePluginExtension
-
 plugins {
-    java
+    id("io.cloudflight.autoconfigure-gradle") version "0.2.0"
     `maven-publish`
-    id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
     signing
+    id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
 }
-
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath("io.cloudflight.gradle:autoconfigure:0.1.3")
-    }
-}
-
-apply(plugin = "io.cloudflight.autoconfigure-gradle")
 
 description = "Collection of icons for use in architecture diagrams, documentation and training"
 group = "io.cloudflight.architectureicons"
@@ -35,9 +22,11 @@ java {
     withJavadocJar()
 }
 
-configure<JavaConfigurePluginExtension> {
-    javaVersion.set(JavaVersion.VERSION_1_8)
-    vendorName.set("Cloudflight")
+autoConfigure {
+    java {
+        languageVersion.set(JavaLanguageVersion.of(8))
+        vendorName.set("Cloudflight")
+    }
 }
 
 /**
