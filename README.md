@@ -1,6 +1,7 @@
 # Architecture Icons
 
 [![License](https://img.shields.io/badge/MIT-green.svg)](https://github.com/cloudflightio/architecture-icons/blob/master/LICENSE)
+[![Maven Central](https://img.shields.io/maven-central/v/io.cloudflight.architectureicons/architectureicons.svg?label=Maven%20Central)](https://search.maven.org/artifact/io.cloudflight.architectureicons/architectureicons)
 
 This module repackages various icons as a JAR for usage in architecture diagrams (such as [Structurizr](https://github.com/structurizr/java)), training materials, or documentation.
 
