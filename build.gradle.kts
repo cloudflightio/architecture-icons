@@ -1,5 +1,5 @@
 plugins {
-    id("io.cloudflight.autoconfigure-gradle") version "0.2.0"
+    id("io.cloudflight.autoconfigure-gradle") version "0.4.0"
     `maven-publish`
     signing
     id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
