@@ -71,10 +71,6 @@
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureEventHubCluster.png"
         },
         {
-            "tag": "AzureHDInsight (Analytics)",
-            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsight.png"
-        },
-        {
             "tag": "AzureHDInsightCluster (Analytics)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureHDInsightCluster.png"
         },
@@ -83,8 +79,12 @@
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureLogAnalyticsWorkspace.png"
         },
         {
-            "tag": "AzureStreamAnalytics (Analytics)",
-            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureStreamAnalytics.png"
+            "tag": "AzurePowerBIEmbedded (Analytics)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzurePowerBIEmbedded.png"
+        },
+        {
+            "tag": "AzurePurviewAccount (Analytics)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzurePurviewAccount.png"
         },
         {
             "tag": "AzureStreamAnalyticsJob (Analytics)",
@@ -93,6 +93,10 @@
         {
             "tag": "AzureSynapseAnalytics (Analytics)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/AzureSynapseAnalytics.png"
+        },
+        {
+            "tag": "PowerBI (Analytics)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Analytics/PowerBI.png"
         },
         {
             "tag": "AzurBlockchainMember (Blockchain)",
@@ -199,6 +203,22 @@
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureSpringCloud.png"
         },
         {
+            "tag": "AzureVirtualDesktop (Compute)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualDesktop.png"
+        },
+        {
+            "tag": "AzureVirtualDesktopApplicationGroup (Compute)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualDesktopApplicationGroup.png"
+        },
+        {
+            "tag": "AzureVirtualDesktopHostPool (Compute)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualDesktopHostPool.png"
+        },
+        {
+            "tag": "AzureVirtualDesktopWorkspace (Compute)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualDesktopWorkspace.png"
+        },
+        {
             "tag": "AzureVirtualMachine (Compute)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureVirtualMachine.png"
         },
@@ -223,6 +243,10 @@
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Compute/AzureWorkspace.png"
         },
         {
+            "tag": "AzureContainerApp (Containers)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerApp.png"
+        },
+        {
             "tag": "AzureContainerInstance (Containers)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureContainerInstance.png"
         },
@@ -237,14 +261,6 @@
         {
             "tag": "AzureServiceEnvironment (Containers)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureServiceEnvironment.png"
-        },
-        {
-            "tag": "AzureServiceFabricMesh (Containers)",
-            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureServiceFabricMesh.png"
-        },
-        {
-            "tag": "AzureWebAppForContainers (Containers)",
-            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Containers/AzureWebAppForContainers.png"
         },
         {
             "tag": "AzureCosmosDb (Databases)",
@@ -285,10 +301,6 @@
         {
             "tag": "AzureManagedDatabase (Databases)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzureManagedDatabase.png"
-        },
-        {
-            "tag": "AzurePowerBIEmbedded (Databases)",
-            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Databases/AzurePowerBIEmbedded.png"
         },
         {
             "tag": "AzureRedisCache (Databases)",
@@ -385,6 +397,22 @@
         {
             "tag": "AzureWorkflow (General)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/General/AzureWorkflow.png"
+        },
+        {
+            "tag": "DICOMService (Health)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Health/DICOMService.png"
+        },
+        {
+            "tag": "FHIRService (Health)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Health/FHIRService.png"
+        },
+        {
+            "tag": "HealthDataServices (Health)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Health/HealthDataServices.png"
+        },
+        {
+            "tag": "MedTechService (Health)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Health/MedTechService.png"
         },
         {
             "tag": "AzureActiveDirectory (Identity)",
@@ -545,6 +573,10 @@
         {
             "tag": "AzureIntuneWindows (Intune)",
             "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Intune/AzureIntuneWindows.png"
+        },
+        {
+            "tag": "AppConfiguration (Management)",
+            "icon": "https://raw.githubusercontent.com/plantuml-stdlib/Azure-PlantUML/master/dist/Management/AppConfiguration.png"
         },
         {
             "tag": "AzureArc (Management)",

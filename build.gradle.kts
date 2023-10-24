@@ -7,7 +7,7 @@ plugins {
 
 description = "Collection of icons for use in architecture diagrams, documentation and training"
 group = "io.cloudflight.architectureicons"
-version = "0.3.0"
+version = "0.4.0"
 
 repositories {
     mavenCentral()
